@@ -29,6 +29,19 @@ class Raw_Data_Validation:
 
     def valuesFromSchema(self):
 
+
+        """
+        Method Name: ValuesFromSchema
+        Description: This method will extract all the relevant information from the pre defined schema.
+        Output: LengthOfDateStampInFile,LengthOfTimeStampInFile,column_names,NumberofColumns
+        On Failure: KeyError,valueError,Exception
+
+        Written By: JSL
+        Version: 1.0
+        Revisions: None
+        
+        """
+
         try:
             with open(self.schema_path,'r') as f:
                 dic = json.load(f)
@@ -64,7 +77,90 @@ class Raw_Data_Validation:
         return LengthOfDateStampInFile,LengthOfTimeStampInFile,column_names,NumberofColumns
     
     def manualregexcreation(self):
-        pass
+
+        """
+           Method Name: manualregexcreation
+           Description: This method will be used to identify the raw data file names as per the training schema.
+           Ouput:Regex Pattern
+           On failure: None
+
+           Written By: JSL
+           Version: 1.0
+           Revisions: None
+
+
+
+        
+        """
+        regex = "['wafer']+['\_'']+[\d_]+[\d]+\.csv"
+
+        return regex
+    
+
+    def createDirectoryforGoodBadRawData(self):
+
+        """
+            Method Name: createDirectoryForGoodBadRawData
+            Description: This method is used to create directories for raw data which is good or bad.
+
+            Output: Directory for good or bad data
+            On failure: OS error
+
+             Written By: JSL
+             Version: 1.0
+             Revisions: None
+
+        """  
+        try:
+            path = os.path.join("Training_RAW_files_validated/","Good_Raw/")
+            if not os.path.isdir(path):
+                os.mkdir(path)
+            path = os.path.join("Training_RAW_files_validated/","Bad_Raw/")
+            if not os.path.isdir(path):
+                os.mkdir(path)
+
+        except OSError as ex:
+            file = open("Training_Logs/General_log.txt",'a+')
+            self.logger.log(file,"Error ocurred while creating directory:: %s" %ex)
+            file.close()
+            raise OSError
+        
+    def deleteExistingGoodDataTrainingFolder(self):
+
+        """
+            Method Name: deleteExistingGoodDataTrainingFolder
+            Description: Delete the existing Good data training folder after moving the data 
+            to the DB table, to ensure the space optimization thse good data training directories are deleted.
+
+            Output:None
+            On failure: OS error
+
+            Written By: JSL
+            Version: 1.0
+            Revisions: None
+
+        """ 
+        try:
+            path = "Training_RAW_files_validated/"
+            if os.path.isdir(path + "Good_Raw/"):
+                shutil.rmtree(path + "Good_Raw/")
+                file = open("Training_Logs/General_log.txt",'a+')
+                self.logger.log(file,"Good Raw directory has been deleted succesfully!!!")
+        
+        except OSError as s:
+            file = open("Training_Logs/General_log.txt",'a+')
+            self.logger.log(file,"OS error ocurred in deleting good raw training directory:: %s" %s)
+            raise OSError
+        
+
+
+
+
+
+
+
+                 
+        
                 
 
 

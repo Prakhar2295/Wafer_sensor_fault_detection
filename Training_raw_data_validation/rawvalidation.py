@@ -88,12 +88,8 @@ class Raw_Data_Validation:
            Version: 1.0
            Revisions: None
 
-
-
-        
         """
         regex = "['wafer']+['\_'']+[\d_]+[\d]+\.csv"
-
         return regex
     
 
@@ -106,9 +102,9 @@ class Raw_Data_Validation:
             Output: Directory for good or bad data
             On failure: OS error
 
-             Written By: JSL
-             Version: 1.0
-             Revisions: None
+                Written By: JSL
+                Version: 1.0
+                Revisions: None
 
         """  
         try:
@@ -124,7 +120,7 @@ class Raw_Data_Validation:
             self.logger.log(file,"Error ocurred while creating directory:: %s" %ex)
             file.close()
             raise OSError
-        
+
     def deleteExistingGoodDataTrainingFolder(self):
 
         """
@@ -151,7 +147,14 @@ class Raw_Data_Validation:
             file = open("Training_Logs/General_log.txt",'a+')
             self.logger.log(file,"OS error ocurred in deleting good raw training directory:: %s" %s)
             raise OSError
+
+       
         
+        
+
+    
+
+
 
 
 

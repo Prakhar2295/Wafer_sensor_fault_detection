@@ -281,7 +281,7 @@ class Raw_Data_Validation:
            Description: This method is used to validate the length of columns present in the input csv file.
            If the number of columns is same as mentioned in the predefined schema it is moved to Good raw data folder.
            If not the input csv is moved to the Bad Raw Data folder.
-           In the input given csv file the first columns name is missing,this method changes it's name to "wafer".
+           
            
 
            
@@ -318,6 +318,60 @@ class Raw_Data_Validation:
             self.logger.log(f,"Error occurred %s" %e)
             f.close()
             raise e
+        
+    def validateMissingValuesInWholeColumn(self):
+
+        """
+            Method Name: validateMissingValuesInWholeColumn
+            Description: This method will validate if any csv file is having whole columns values missing.
+            If any such csv file is found it is send to bad raw data directory,as these files are not
+            fit for processing.
+            In the input given csv file the first column name is missing,this method changes it's name to "wafer".
+
+
+            Output: None
+            On failure: Exception
+
+            Written By: JSL
+            version: 1.0
+            Revision: None
+
+        """ 
+        try:
+            f = open("Training_Logs/missingValuesInColumn.txt", 'a+')
+            self.logger.log(f,"Missing values validation started!!")
+
+            for file in listdir("Training_RAW_files_validated/Good_Raw/"):
+                csv = pd.read_csv("Training_RAW_files_validated/Good_Raw/" +file)
+                count = 0
+                for columns in csv:
+                    if (len(csv[columns]) - csv[columns].count()) == len(csv[columns]):
+                        count += 1
+                        shutil.move("Training_RAW_files_validated/Good_Raw/" +file,"Training_RAW_files_validated/Bad_Raw/" +file)
+                        self.logger.log(f,"Invalid file!! File move Bad Raw Data folder:: %s" %file)
+
+                if count == 0:
+                    csv.rename(columns = {"Unnamed : 0" : "wafer"},inplace = True)
+                    csv.to_csv("Training_RAW_files_validated/Good_Raw/" +file,index = None,header = True)
+        
+        except OSError:
+            f = open("Training_Logs/missingValuesInColumn.txt", 'a+')
+            self.logger.log(f,"Error occurred %s" %OSError)
+            f.close()
+            raise OSError
+
+        except Exception as e:
+            f = open("Training_Logs/missingValuesInColumn.txt", 'a+')
+            self.logger.log(f,"Error occurred %s" %e)
+            f.close()
+            raise e
+        f.close()
+
+                          
+
+
+
+
         
               
 

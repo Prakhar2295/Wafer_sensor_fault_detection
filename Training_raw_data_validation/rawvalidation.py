@@ -272,6 +272,59 @@ class Raw_Data_Validation:
             self.logger.log(file,"Error occured while valiodating filenames:: %s" %e)
             file.close()
             raise e
+        
+    def validatecolumnlength(self,NumberofColumns):
+
+
+        """
+          Method Name: validatecolumnlength
+           Description: This method is used to validate the length of columns present in the input csv file.
+           If the number of columns is same as mentioned in the predefined schema it is moved to Good raw data folder.
+           If not the input csv is moved to the Bad Raw Data folder.
+           In the input given csv file the first columns name is missing,this method changes it's name to "wafer".
+           
+
+           
+           Output : Good Raw data and Bad Raw Data
+           On failure: Exception
+
+           Written By: JSL
+           version: 1.0
+           Revision: None 
+
+        
+        """
+
+        try:
+            f = open("Training_Logs/columnValidationLog.txt",'a+')
+            self.logger.log(f,"Column length Validation started")
+            for file in listdir("Training_RAW_files_validated/Good_Raw/"):
+                csv = pd.read_csv("Training_RAW_files_validated/Good_Raw/" +file)
+                if csv.shape[1] == NumberofColumns:
+                    pass
+                else:
+                    shutil.move("Training_RAW_files_validated/Good_Raw/" +file, "Training_RAW_files_validated/Bad_Raw")
+                    self.logger.log(file, "Invalid valid column Length for the file!! file moved %s" %file)
+            self.logger.log(f,"Column Length validation completed!!")
+            f.close()
+        except OSError as e:
+            f = open("Training_Logs/columnValidationLog.txt",'a+')
+            self.logger.log(f,"OS error occurred while moving the file:: %s" %e)
+            f.close()
+            raise e
+
+        except Exception as e:
+            f = open("Training_Logs/columnValidationLog.txt", 'a+')
+            self.logger.log(f,"Error occurred %s" %e)
+            f.close()
+            raise e
+        
+              
+
+
+            
+        
+
 
 
 

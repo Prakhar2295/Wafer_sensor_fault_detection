@@ -147,6 +147,34 @@ class Raw_Data_Validation:
             file = open("Training_Logs/General_log.txt",'a+')
             self.logger.log(file,"OS error ocurred in deleting good raw training directory:: %s" %s)
             raise OSError
+        
+    def deleteExistingBadDataTrainingFolder(self):
+
+        """
+           Method Name: deleteExistingGoodDataTrainingFolder
+           Description: This method deleted the existing Bad Raw data training directory.
+           Output: None
+           On failure: OS Error
+
+           Written By: JSL
+           Version: 1.0
+           Revisions: None
+
+        """
+        try:
+            path = "Training_RAW_files_validated"
+            if os.path.isdir(path + "Good_Raw/"):
+                shutil.rmtree(path + "Good_Raw/")
+                file = open("Training_Logs/General_log.txt",'a+')
+                self.logger.log(file,"Deleted Bad Raw Data Training Directory")
+        except OSError as s:
+            file = open("Training_Logs/General_log.txt",'a+')
+            self.logger.log(file,"OS error during deletion of bad raw tarining directory:: %s" %s)
+            raise OSError            
+
+
+
+
 
        
         

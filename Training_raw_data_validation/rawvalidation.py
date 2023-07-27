@@ -22,7 +22,7 @@ class Raw_Data_Validation:
     
     """
 
-    def __init__self(self,path):
+    def __init__(self,path):
         self.Batch_directory = path
         self.schema_path = "schema_training.json"
         self.logger = App_Logger()
@@ -368,6 +368,9 @@ class Raw_Data_Validation:
         f.close()
 
                           
+c = Raw_Data_Validation("Training_Batch_Files")
+t =c.valuesFromSchema()
+print(t)
 
 
 

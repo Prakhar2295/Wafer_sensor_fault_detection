@@ -162,7 +162,7 @@ class Raw_Data_Validation:
 
         """
         try:
-            path = "Training_RAW_files_validated"
+            path = "Training_RAW_files_validated/"
             if os.path.isdir(path + "Good_Raw/"):
                 shutil.rmtree(path + "Good_Raw/")
                 file = open("Training_Logs/General_log.txt",'a+')
@@ -217,6 +217,68 @@ class Raw_Data_Validation:
             self.logger.log(file,"OS error ocurred during movement of bad raw data into Archive raw data:: %s" %r)
             file.close()
             raise r
+        
+    def validationFileNameRaw(self,regex,LengthOfDateStampInFile,LengthOfTimeStampInFile):
+
+        """
+           Method Name: validationFileNameRaw
+           Description: This method validates the raw data file name with the predefined schema
+           and divides the raw data dile into 2 directory good raw data and bad raw data.Regex pattern
+           and LengthOfDateStampInFile and LengthOfTimeStampInFile is used to validate the file name.
+           
+           Output : Good Raw data and Bad Raw Data
+           On failure: Exception
+
+           Written By: JSL
+           version: 1.0
+           Revision: None 
+
+        """ 
+
+        #pattern = "['Wafer']+['\_'']+[\d_]+[\d]+\.csv"
+        ##Delete the directory of good and bad raw data in the directory in case 
+        ###the last run was unsuccessfull and the folder wer not deleted
+
+        self.deleteExistingGoodDataTrainingFolder()
+        self.deleteExistingBadDataTrainingFolder()
+
+        ##Create new directory
+        self.createDirectoryforGoodBadRawData()
+        onlyfiles = [f for f in (self.Batch_directory)]
+
+        try:
+            file = open("Training_Logs/nameValidationLog.txt",'a+')
+            for filename in onlyfiles:
+                if re.match(regex,filename):
+                    splitAtDot = re.split('.csv',filename)
+                    splitAtDot = re.split('_',splitAtDot[0])
+                    if len(splitAtDot[1]) == LengthOfDateStampInFile:
+                        if len(splitAtDot[2]) == LengthOfTimeStampInFile:
+                            shutil.copy("Training_Batch_Files/" + filename, "Training_RAW_files_validated/Good_Raw/")
+                            self.logger.log(file,"Valid File Name !! File copied to Good Raw data folder %s" %filename)
+
+                        else:
+                            shutil.copy("Training_Batch_Files/" + filename,"Training_RAW_files_validated/Bad_Raw/")
+                            self.loggert.log(file,"Invalid File Name !! File copied to Bad Raw data folder %s" %filename)
+                    else:
+                        shutil.copy("Training_Batch_Files/" + filename,"Training_RAW_files_validated/Bad_Raw/")
+                        self.loggert.log(file,"Invalid File Name !! File copied to Bad Raw data folder %s" %filename)
+                else:
+                    shutil.copy("Training_Batch_Files/" + filename,"Training_RAW_files_validated/Bad_Raw/")
+                    self.loggert.log(file,"Invalid File Name !! File copied to Bad Raw data folder %s" %filename)
+            file.close()        
+        except Exception as e:
+            file = open("Training_Logs/nameValidationLog.txt","a+")
+            self.logger.log(file,"Error occured while valiodating filenames:: %s" %e)
+            file.close()
+            raise e
+
+
+
+
+
+
+
 
 
 

@@ -110,10 +110,10 @@ class Raw_Data_Validation:
         try:
             path = os.path.join("Training_RAW_files_validated/","Good_Raw/")
             if not os.path.isdir(path):
-                os.mkdir(path)
+                os.makedirs(path)
             path = os.path.join("Training_RAW_files_validated/","Bad_Raw/")
             if not os.path.isdir(path):
-                os.mkdir(path)
+                os.makedirs(path)
 
         except OSError as ex:
             file = open("Training_Logs/General_log.txt",'a+')
@@ -169,8 +169,61 @@ class Raw_Data_Validation:
                 self.logger.log(file,"Deleted Bad Raw Data Training Directory")
         except OSError as s:
             file = open("Training_Logs/General_log.txt",'a+')
-            self.logger.log(file,"OS error during deletion of bad raw tarining directory:: %s" %s)
-            raise OSError            
+            self.logger.log(file,"OS error during deletion of bad raw training directory:: %s" %s)
+            raise OSError
+
+    def moveBadFilesToArchiveBad(self):
+
+
+        """
+           Method Name: moveBadFilesToArchive
+           Description: This method deletes the directory made to bad raw taining data to archive 
+           bad directory.We archive the bad raw taining data to send back to the client to notify the invalid data issue.
+
+           Output: None
+           On failure: OSError
+
+           Written By: JSL
+           version: 1.0
+           Revision: None    
+        
+        """
+
+        now = datetime.now()
+        date = now.date()
+        time = now.strftime("%H%M%S")
+        try:
+            source = "Training_RAW_files_validated/Bad_Raw/"
+            if os.path.isdir(source):
+                path = "TrainingArchiveBadData"
+                if not os.path.isdir(path):
+                    os.makedirs(path)
+                dest = "TrainingArchiveBadData/BadData_" + str(date)+"_"+str(time)
+                if not os.path.isdir(dest):
+                    os.makedirs(dest)
+                files = os.listdir(source)
+                for f in files:
+                    if f not in os.listdir(dest):
+                        shutil.move(source + f, dest)
+                file = open("Training_Logs/General_log.txt",'a+')
+                self.logger.log(file,"Bad Raw Data moved to Training Raw data Archive directory")
+                path = "Training_RAW_files_validated/"
+                if os.path.isdir(path + "Bad_Raw/"):
+                    shutil.rmtree(path + "Bad_Raw/")
+                self.logger.log(file,"Bad Raw data directory has been deleted Successfully")
+                file.close()
+        except OSError as r:
+            file = open("Training_Logs/General_log.txt",'a+')
+            self.logger.log(file,"OS error ocurred during movement of bad raw data into Archive raw data:: %s" %r)
+            file.close()
+            raise r
+
+
+
+
+
+
+
 
 
 

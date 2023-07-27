@@ -38,7 +38,13 @@ class Data_Getter:
             self.logger_object.log(self.file_object,"Data Load Successfull.Exited the get_data method of the Data Getter class")
 
         except Exception as e:
-            self.logger_object.log(self.file_object,"Data Load unsuccessfull.Exited the get_data method of the Data Getter class")    
+            self.logger_object.log(self.file_object,'Exception occured in get_data method of the Data Getter class:' + str(e))
+            self.logger_object.log(self.file_object,"Data Load unsuccessfull.Exited the get_data method of the Data Getter class")
+
+            raise Exception()
+
+
+
 
 
 

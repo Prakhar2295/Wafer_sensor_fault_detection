@@ -53,6 +53,70 @@ class dboperation:
             file.close()
             raise ConnectionError
         return conn
+    
+    def createTableDb(self,DataBaseName,column_names):
+        """
+            Method Name: createTableDb
+            Description: This method is used to set create the table if not exists
+            and if already exists it will alter the table.
+
+            Output: Connection to the DB
+            On Failure: Raise ConnectionError
+
+
+            Written By: JSL
+            Version: 1.0
+            Revisions: None  
+        
+        """
+        try:
+            conn = self.dataBaseConnection(DataBaseName)
+            c = conn.cursor()
+            c.execute("SELECT count(name) FROM sqlite_master WHERE type = 'table' AND name = 'Good_Raw_Data'")
+            if c.fetchone()[0] == 1:
+                conn.close()
+                file = open("Training_Logs/DbTableCreateLog.txt", 'a+')
+                self.logger.log(file,"Tables Created successfully !!")
+                file.close()
+
+                file = open("Training_Logs/DataBaseConnectionLog.txt", 'a+')
+                self.logger.log(file,"Cloased %s database successfully !!" %DataBaseName)
+
+            else:
+
+                for key in column_names.keys():
+                    type = column_names[key]
+
+                    #in try block we check if the table exists, if yes then add columns to the table
+                    # else in catch block we will create the table
+
+
+                    try:
+                        conn.execute('ALTER TABLE Good_Raw_Data ADD COLUMN "{column_name}" {dataType}'.format(column_name = key,dataType = type))
+
+                    except:
+                        conn.exceute('CREATE TABLE Good_Raw_Data ({column_name} {dataType})'.format(column_name = key,dataType = type))
+
+                conn.close()
+
+                file = open("Training_Logs/DbTableCreateLog.txt", 'a+')
+                self.logger.log(file,"Tables created successfully")
+                file.close()
+
+                file = open("Training_Logs/DataBaseConnectionLog.txt", 'a+')
+                self.logger.log(file,"closed %s database successfully" %DataBaseName)
+                file.close()
+
+        except Exception as e:
+            file = open("Training_Logs/DbTableCreateLog.txt", 'a+')
+            self.logger.log(file,"Error while creating table:: %s"  %e)
+            file.close()
+            conn.close()
+            file = open("Training_Logs/DataBaseConnectionLog.txt", 'a+')
+            self.logger.log(file,"Closed %s database successfully " %DataBaseName)
+            file.close()
+            raise e
+                   
 
      
 

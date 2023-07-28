@@ -117,8 +117,39 @@ class prepocessor:
             raise Exception()
         
     def impute_missing_values(self,data):
-        pass
+
+        """
+               Method Name: impute_missing_values
+               Description: This method impute all the missing values using KNN imputer.
+
+               Output:A dataframe which has all the missing values imputed.
+               On failure: Raises an Exception
+
+               Written By: JSL
+               Version: 1.0
+               Revisions: None
+    
+        
+        """
+        self.logger_object.log(self.file_object,"Entered the impute missing values method of the preprocessing class")
+        self.data = data
+        try:
+            imputer = KNNImputer(n_neighbors=3,weights = "uniform",missing_values = np.nan)
+            self.new_array = imputer.fit_transform(self.data)  # impute the missing values
+            ##convert the ndarray to the dataframe return in the above step
+            self.new_data = pd.DataFrame(data= self.new_array,columns = self.data.columns)
+            self.logger_object.log(self.file_object,"Imputing the missing values succesfull exiting the impute values method")
+            return self.new_data
+        
+        except Exception as e:
+            self.logger_object.log(self.file_object,"Exception occurred while imputing the values %s"%e)
+            self.logger_object.log(self.file_object,"Imputing the missing values failed in the presprocessing class")
+            raise Exception()
+
+        
+        
        
+
 
 
 

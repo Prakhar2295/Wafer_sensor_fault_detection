@@ -54,6 +54,36 @@ class File_operation:
            self.logger_object.log(self.file_object,"Exception occurred while saveing the model.Exception message:: %s"%e)
            raise Exception()
        
+    def load_nodel(self,filename):
+
+        """
+             Method Name: load_nodel
+             Description: This method will load the trained model saved in a pickle file.
+             Output: Load the trained model into memory
+             On failure: Raises an exception
+
+             Written By: JSL
+             Version: 1.0
+             Revisions: None
+
+        """
+        self.logger_object.log(self.file_object, 'Entered the load_model method of the file_operation class')
+        try:
+            with open(self.model_directory + filename + '/' + filename + '.sav','rb') as f:
+
+                self.logger_object.log(self.file_object,'Model File' + filename+ 'loaded.Exited The load_model method of the file_oipration class')
+                return pickle.load(f)
+
+        except Exception as e:
+            self.logger_object.log(self.file_object," Exception occurred model loading unsuccessfull.Exception meassage ::%s" %e)
+            self.logger_object.log(self.file_object,"Model loading failed.Exiting the load_model method from file_operation class")
+            raise Exception() 
+        
+           
+            
+            
+
+       
        
                
              

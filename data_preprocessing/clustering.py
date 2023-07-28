@@ -57,6 +57,40 @@ class KMeansClustering:
         except Exception as e:
             self.logger_object.log(self.file_object,"Failed to find the no. of clusters and to draw the elbow plot")
             self.logger_object.log(self.file_object,"Exception occurred while plotting the elbow plot.Exception Message:: %s" %e)
-            raise Exception()    
+            raise Exception()
+
+    def create_clusters(self,data,number_of_clusters):
+        """
+        
+             Method Name: create_clusters
+             Description: This method is used to create clusters and also creates a new dataframe consists of the new dataframe information.
+             OutPut: A dataframe with cluster column
+             On failure : Raises an exception
+
+             Written By: JSL
+             Version: 1.0
+             Revisions: None
+        
+        
+        """
+        self.logger_object.log(self.file_object,"Entered inside the create_clusters method of Kmeans clustering class")
+        self.data = data
+        try:
+            self.kmeans = KMeans(n_clusters = number_of_clusters, init = 'k-means++',random_state = 42)
+            self.y_kmeans = self.kmeans.fit(self.data)   ###divideing the data into clusters
+
+            self.file_op = file_methods.File_operation(self.logger_object,self.file_object)
+
+            self.data["Cluster"] = self.y_kmeans   ###create a new columns for storing the cluster information of clusters
+            self.logger_object.log(self.file_object,'successfully created' + str(self.kn.knee)+ 'clusters.Exited the create clusters method of Kmeans clustering class')
+            return self.data
+
+        except Exception as e:
+            self.logger_object.log(self.file_object,'Error while creating the clusters in create clusters method of Kmeans clustering class.Exception message::' +str(e))
+            self.logger_object.log(self.file_object,'Exiting the create clusters method of Kmeans clustering class')
+            raise Exception()
+
+        
+           
 
 

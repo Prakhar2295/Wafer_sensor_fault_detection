@@ -2,6 +2,7 @@ import sqlite3
 import shutil
 from datetime import datetime
 import csv
+from os import listdir
 import os
 from application_logging.logger import App_Logger
 
@@ -116,6 +117,58 @@ class dboperation:
             self.logger.log(file,"Closed %s database successfully " %DataBaseName)
             file.close()
             raise e
+        
+
+    def insertIntotableGoodData(self,DataBase):
+        """
+                Method Name: insertIntoTableGoodData
+                Description: This method inserts the Good data files from the Good_Raw folder into the
+                            above created table.
+                Output: None
+                On Failure: Raise Exception
+
+                Written By: JSL
+                Version: 1.0
+                Revisions: None
+               
+        """  
+        conn = self.dataBaseConnection(DataBase)
+        goodFilepath = self.goodFilePath
+        badFilepath = self.badFilePath
+        onlyfiles = [f for f in listdir(goodFilepath)]
+        #log_file = open("Training_Logs/DbInsertLog.txt", 'a+')
+
+        for file in onlyfiles:
+            try:
+                with open(goodFilepath+ '/'+file,'r') as f:
+                    next(f)
+                    reader = csv.reader(f,delimiter = "\n")
+                    for line in enumerate(reader):
+                        for list_ in (line[1]):
+                            try:
+                                conn.execute('INSERT INTO Good_Raw_Data values ({values})'.format(values = ( list_)))
+                                log_file = open("Training_Logs/DbInsertLog.txt", 'a+')
+                                self.logger.log(log_file,"%s: File loaded successfully !!" %file)
+                                log_file.close()
+                                conn.commit()
+                            except Exception as e:
+                                raise e
+
+            except Exception as e:
+                conn.rollback()
+                log_file = open("Training_Logs/DbInsertLog.txt", 'a+')
+                self.logger.log(log_file,"Error while inserting data into table:: %s" %e)
+                shutil.move(goodFilepath +'/' + file,badFilepath)
+                self.logger.log(log_file,"File Moved successfully %s" %file)
+                log_file.close()
+                conn.close()
+                
+
+        conn.close()        
+
+
+
+
                    
 
      

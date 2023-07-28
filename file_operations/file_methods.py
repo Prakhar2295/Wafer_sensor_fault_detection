@@ -51,7 +51,7 @@ class File_operation:
            return "success"
        except Exception as e:
            self.logger_object.log(self.file_object,"Exiting the saved_model method of the file operation class")
-           self.logger_object.log(self.file_object,"Exception occurred while saveing the model.Exception message:: %s"%e)
+           self.logger_object.log(self.file_object,"Exception occurred while saving the model.Exception message:: %s"%e)
            raise Exception()
        
     def load_nodel(self,filename):
@@ -79,7 +79,47 @@ class File_operation:
             self.logger_object.log(self.file_object,"Model loading failed.Exiting the load_model method from file_operation class")
             raise Exception() 
         
-           
+    def find_correct_model_file(self,cluster_number):
+
+        """
+             Method Name: find_correct_model_file
+             Description: Selects the correct model file for the given cluster number.
+             Output: The model file.
+             On failure: Raises an Exception
+
+             Written By: JSL
+             Version: 1.0
+             Revisions: None
+
+    
+        """
+
+        self.logger_object.log(self.file_object,"Entered inside the find_correct_model_file inside file_operations class")
+
+        try:
+            self.cluster_number = cluster_number
+            self.folder_name = self.model_directory
+            self.list_of_model_files = []
+            self.list_of_files = os.listdir(self.folder_name)
+            for self.file in self.list_of_files:
+                try:
+                    if (self.file.index(str(self.cluster_number)) != -1):
+                        self.model_name = self.file
+                except:
+                    continue
+            self.model_name = self.model_name.split('.')[0]
+            self.logger_object.log(self.file_object,"Exited the find_correct_model_file method of the file opration class")
+
+            return self.model_name
+
+        except Exception as e:
+            self.logger_object.log(self.file_object,"Failed to finds the the correct model file")
+            self.logger_object.log(self.file_object,"Exception occurred.Exception message :: %s" %e)
+
+            raise Exception()
+                     
+
+
             
             
 

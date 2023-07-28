@@ -76,7 +76,59 @@ class prepocessor:
             self.logger_object.log(self.file_object,"Label separation unsuccessfull.Exiting the separate column method of the preprocessing class")
             raise Exception()
         
+    def is_null_present(self,data):
+
+        """
+             Method Name: is_null_present
+             Description: This method is used to check whether the given dataframe 
+             is having any null_values presnt in it.This method will further crate the dataframe 
+             of all the columns with null_values present in the dataframe.
+
+             Output: Returns a Boolean value True if the null values are present in the dataframe
+             and FALSE if the null values are not present in the dataframe.
+
+             On Failure: Raises an Exception
+
+            Written By: JSL
+            Version: 1.0
+            Revisions: None 
         
+        """
+    
+        self.logger_object.log(self.file_object,"Entered the is_null_present method in preprocessing class")
+        self.null_present= False
+
+        try:
+            self.null_counts = data.isna().sum()  ##Check the number of null values in the data
+            for i in self.null_counts:
+                if i > 0:
+                    self.null_present = True
+                    break
+                if(self.null_present):     ###write the logs to see which column have null values.
+                    dataframe_with_null = pd.DataFrame()
+                    dataframe_with_null["columns"] = data.columns
+                    dataframe_with_null["missing value counts"] = np.array(self.null_counts)
+                    dataframe_with_null.to_csv("preprocessing_data/null_values.csv")   ##storing the null values of columns inside the file
+                self.logger_object.log(self.file_object,"Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method")
+                return self.null_present
+        except Exception as e:
+            self.logger_object.log(self.file_object,"Exception occurred in is_bull_present method of the preprocessing class.Exception mesaages %s" %e)
+            self.logger_object.log(self.file_object,"Find missing values failed for preprocessing class.Exiting the is_null_present method of the preprocessing class")
+            raise Exception()
+        
+    def impute_missing_values(self,data):
+        pass
+       
+
+
+
+
+                   
+
+
+
+        
+
 
 
 

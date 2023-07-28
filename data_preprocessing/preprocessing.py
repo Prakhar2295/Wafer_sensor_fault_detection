@@ -145,6 +145,39 @@ class prepocessor:
             self.logger_object.log(self.file_object,"Exception occurred while imputing the values %s"%e)
             self.logger_object.log(self.file_object,"Imputing the missing values failed in the presprocessing class")
             raise Exception()
+        
+    def get_columns_with_zero_std_deviation(self,data):
+        """
+                Method Name: get_columns_with_zero_std_deviation
+                Description: This method will be used to compute the compute columns with zero
+                standard deviation.
+
+                Output: List of columns with zero standard deviation
+                On failure: Raises an exception
+
+                Written By: JSL
+                Version: 1.0
+                Revisions: None
+              
+        """
+        self.logger_object.log(self.file_object,"Entered inside the method get columns with zero standard deviation in preprocessing class")
+        self.columns = data.columns
+        self.data_n = data.describe()
+        self.col_to_drop = []
+        try:
+            for x in self.columns:
+                if self.data_n[x]['std'] == 0:   # check if standard deviation is zero or not for any column
+                    self.col_to_drop.append(x)  ##storing the column names to the list       
+            self.logger_object.log(self.file_object,"Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class")
+
+            return self.col_to_drop
+        except Exception as e:
+            self.logger_object.log(self.file_object,"Exception occurred when searching for column with standard deviation with zero.Exiting from this method inside the preprocessing class")
+            self.logger_object.log(self.file_object,"Columns Search for Standard deviation with zero is unsuccessfull.Exception Occurred.Exception message :: %s "%e)
+            raise Exception()
+            
+
+
 
         
         

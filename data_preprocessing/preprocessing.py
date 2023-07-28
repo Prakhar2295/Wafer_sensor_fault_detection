@@ -47,7 +47,39 @@ class prepocessor:
 
             raise Exception()
         
-         
+    def separate_label_features(self,data,label_column_name):
+
+        """
+                  Method: separate_label_features
+                  Description: This method separates the features and the label column.
+                  Output: Returns two separate dataframes, one containing the features and the other containing labels.
+                  On failure : Raises Exception
+
+
+                  Written By: JSL
+                  Version: 1.0
+                  Revisions: None 
+
+        """
+
+        self.logger_object.log(self.file_object,"Entered the separate the label feature method inside the preprocessing class")
+        try:
+            self.X = data.drop(label = label_column_name,axis = 1)  ###dropping the label column from the dataframe
+
+            self.Y = data[label_column_name]  ##Assigning the label column to the Y dataframe.
+
+            self.logger_object(self.file_object,"Exiting the separate label features method")
+
+            return self.X,self.Y
+        except Exception as e:
+            self.logger_object.log(self.file_object,"Exception occurred during separating the dataframe %s"%e)
+            self.logger_object.log(self.file_object,"Label separation unsuccessfull.Exiting the separate column method of the preprocessing class")
+            raise Exception()
+        
+        
+
+
+
 
 
 

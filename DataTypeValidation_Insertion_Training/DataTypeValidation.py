@@ -164,7 +164,62 @@ class dboperation:
                 conn.close()
                 
 
-        conn.close()        
+        conn.close()
+
+    def selectingDataFromTableintocsv(self,Database):
+
+        """
+                Method Name: selectingDatafromtableintocsv
+                Description: This method exports the data in GoodData table as a CSV file. in a given location.
+                            above created .
+                Output: None
+                On Failure: Raise Exception
+
+                Written By: JSL
+                Version: 1.0
+                Revisions: None
+
+        """
+        self.fileFromDB = "Training_FileFromDB/"
+        self.filename = "InputFile.csv"
+        log_file = open("Training_Logs/ExportToCsv.txt", 'a+')
+
+        try:
+            conn = self.dataBaseConnection(Database)
+            sqlSelect = "SELECT * FROM GOOD_RAW_DATA"
+            cursor = conn.cursor()
+
+            cursor.exceute(sqlSelect)
+
+            results = cursor.fetchall()
+
+            ###Get the headers of the csv file
+
+            headers = [i[0] for i in cursor.description]
+
+
+            ##Make the csv output directory
+
+            if not os.path.isdir(self.filefromDB):
+                os.makedirs(self.fileFromDB)
+
+            ##open csv file for writing
+
+            csvFile = csv.writer(open(self.filefromDB + self.filename,'w',newline = ''),delimiter = ',',lineterminator = '\r\n',quoting = csv.QUOTE_ALL,escapechar= '\\')
+
+            csvFile.writerow(headers)
+            csv.writerows(results)
+
+        except Exception as e:
+            self.logger.log(log_file,"File Exporting Failed.Error %s" %e)
+            log_file.close()
+            conn.close()     
+
+
+
+
+
+                   
 
 
 

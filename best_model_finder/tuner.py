@@ -114,6 +114,73 @@ class Model_finder:
             self.logger_object(self.file_object,"Failed to find the best params for Random Forest. Exiting this method")
             raise Exception()
 
+
+    def get_best_model(self,train_x,train_y,test_x,test_y):
+
+
+        """
+               Method Name : get_best_model
+               Description: Find out best model & the best roc_auc_score
+
+               Output: The best model name and the model object
+               On failure: Raise Exception
+
+               Written by: JSL
+               Version :1.0
+               Revision: None  
+        
+        
+        """
+        self.logger_object.log(self.file_object,"Entered the get_best_model class method inside the yune class")
+
+        ##Create best model for xgboost
+        try:
+            self.xgboost = self.get_best_params_for_xgboost(train_x, train_y)
+            self.prediction_xgboost = self.xgboost.predict(test_x)    ###Prediction using the xgboost model
+
+            if len(test_y.unique()) == 1:
+                self.xgboost_score = accuracy_score(test_y,self.prediction_xgboost)
+                self.logger_object.log(self.file_object,"Accuracy for xgboost" + str(self.xgboost_score)) ###Log Accuracy score
+            else:
+                self.xgboost_score = roc_auc_score(test_y,self.prediction_xgboost)
+                self.logger_object.log(self.file_object,"AUC Score XGboost" + str(self.xgboost_score)) ###Log AUC Score
+
+            ##Create best model for Random Forest
+            self.random_forest = self.get_best_param_for_random_forest(train_x,train_y)
+            self.prediction_random_forest = self.random_forest.predict(test_x)    ###Prediction using the Random Forest
+
+            if len(test_y.unique()) == 1:
+                self.random_forest_score = accuracy_score(test_y,self.prediction_random_forest)
+                self.logger_object.log(self.file_object,"Accuracy for Random Forest" + str(self.random_forest_score)) ###Log Accuracy score
+            else:
+                self.random_forest_score = roc_auc_score(test_y,self.prediction_random_forest)
+                self.logger_object.log(self.file_object,"AUC Score RF" + str(self.random_forest_score)) ###Log AUC Score
+
+            ####comparing the two models
+            if self.random_forest_score < self.xgboost_score:
+                return 'XGBoost', self.xgboost
+            else:
+                return 'Randomforest', self.random_forest
+            
+        except Exception as e:
+            self.logger_object(self.file_object,"Failed to get_best_model. Exiting this get_best_model method inside tuner class")
+            self.logger_object(self.file_object,"Exception occurred.Error occurred.Exception message::" +str(e))
+            raise Exception()
+        
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
             
  
 

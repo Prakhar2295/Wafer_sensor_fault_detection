@@ -7,7 +7,7 @@ from application_logging import logger
 
 class train_validation:
     def __init__(self,path):
-        self.raw_data = Raw_Data_Validation()
+        self.raw_data = Raw_Data_Validation(path)
         self.dataTransform = dataTransform()
         self.dboperation = dboperation()
         self.file_object = open("Training_Logs/Training_Main_Log.txt", 'a+')
@@ -24,7 +24,7 @@ class train_validation:
             ###validating filename of raw data files
             self.raw_data.validationFileNameRaw(regex,LengthOfDateStampInFile,LengthOfTimeStampInFile)
             ##validate column length in the file
-            self.raw_data.validatecolumnlength(NumberofColumns)
+            self.raw_data.validateColumnLength(NumberofColumns)
             ##validating if any column has all the values missing
             self.raw_data.validateMissingValuesInWholeColumn()
             self.log_writer.log(self.file_object,"Raw Data File Validation completed!!")
@@ -62,8 +62,11 @@ class train_validation:
            """
         except Exception as e:
             raise e
-
-
+        
+path = 'D:/FSDS/MAchine_Learning/wafer_sensor_fault/Training_Batch_Files'
+f = train_validation(path)
+f.train_validation()
+print("done")
 
 
 

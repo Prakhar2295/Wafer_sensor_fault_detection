@@ -316,6 +316,56 @@ def deletedirectoryforBaddata(self):
             f.close()
             raise e
 
+    def validateColumnLength(self,NumberofColumns):
+        """
+
+             Method Name: validateColumnLength
+             Description: This method will be used to validate the length of columns of the prediction csv files.
+             The invalid files will be to bad data folder and valid files will be to good data folder.
+             The csv files are missing the first column name so renaming it as "wafer".
+
+             Output: Good data and Bad data
+             On failure: OS error
+
+              Written By: JSL
+              Version: 1.0
+              Revisions: None
+
+        """
+        f = open("prediction_logs/column_validation_logs.txt", 'a+')
+        self.logger.log(f, "Entered the validateColumnLength method of prediction_data_validation")
+        f.close()
+        try:
+            Good_data_path = "Raw_prediction_data/Good_data"
+            Bad_data_path = "Raw_prediction_data/Bad_data"
+            for file in os.listdir(Good_data_path):
+                if file.endswith(".csv"):
+                    file_path = Good_data_path + '/' + file
+                    df = pd.read_csv(file_path)
+                    if df.shape[1] == NumberofColumns:
+                        df.rename(columns = {"Unnamed: 0": "Wafer"},inplace = True)
+                        df.to_csv(file_path,index = None,header = True)
+                        f = open("prediction_logs/column_validation_logs.txt", 'a+')
+                        self.logger.log(f, "The file names with valid column lengths are :: %s" %file)
+                        self.logger.log(f, "The column name has been renamed Successfully" % file)
+                        f.close()
+                    elif file not in os.listdir(Bad_data_path):
+                        shutil.move(file_path,Bad_data_path)
+                    else:
+                        pass
+        except OSError as e:
+            f = open("prediction_logs/column_validation_logs.txt", 'a+')
+            self.logger.log(f, "Error occurred while validating the columns length %s" %e)
+            f.close()
+        except Exception as e:
+            f = open("prediction_logs/column_validation_logs.txt", 'a+')
+            self.logger.log(f, "Exception occurred while validating the columns length %s" % e)
+            f.close()
+
+
+
+
+
 
 
 

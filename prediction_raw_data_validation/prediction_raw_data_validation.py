@@ -21,7 +21,7 @@ class prediction_data_validation:
     def __init__(self,path):
         self.Batch_Directory = path
         self.schema_path = 'schema_prediction.json'
-        #self.logger = App_Logger()
+        self.logger = App_Logger()
 
 
     def values_from_schema(self):
@@ -91,6 +91,46 @@ class prediction_data_validation:
         """
         regex = "[\wafer]+['\_'']+[\d_]+[\d]+\.csv"
         return regex
+
+    def createdirectoryforGoodBadpredictiondata(self):
+
+        """
+
+             Method Name: createdirectoryforGoodBadpredictiondata
+             Description: This method is used to create directories for good and bad prediction data.
+             Output: Directory
+             On failure: OS Error,Exception
+
+              Written By: JSL
+              Version: 1.0
+              Revisions: None
+
+
+        """
+        try:
+            file = open("prediction_logs/Create_directory_for_good_bad_data")
+            self.logger.log(file,"Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class")
+            file.close()
+            Good_data_path = "Raw_prediction_data/Good_data"
+            Bad_data_path = "Raw_prediction_data/Bad_data"
+
+            if not os.path.isdir(Good_data_path):
+                os.makedirs(Good_data_path)
+
+            if not os.path.isdir(Bad_data_path):
+                os.makedirs(Bad_data_path)
+            file = open("prediction_logs/Create_directory_for_good_bad_data")
+            self.logger.log(file,"Created Directory for good data and bad data:: %s " %Good_data_path "Bad Data %s" %Bad_data_path)
+            file.close()
+        except OSError:
+            file = open("prediction_logs/Create_directory_for_good_bad_data")
+            self.logger.log(file, "Error Occurred while creating directory %s" %OSError )
+            raise OSError
+
+
+
+
+
     
 
 

@@ -151,9 +151,9 @@ class prediction_data_validation:
             if os.path.isdir(Good_data_path):
                 shutil.rmtree(Good_data_path)
 
-                file = open("prediction_logs/General_logs.txt", 'a+')
-                self.logger.log(file, "Deleted good data directory Successfully!!")
-                file.close()
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(file, "Deleted good data directory Successfully!!")
+            file.close()
 
         except OSError as e:
             file = open("prediction_logs/General_logs.txt", 'a+')
@@ -177,7 +177,7 @@ def deletedirectoryforBaddata(self):
 
     """
     file = open("prediction_logs/General_logs.txt", 'a+')
-    self.logger.log(file, "Entered inside deletedirectoryforBaddata inside prediction_raw_data class")
+    self.logger.log(file, "Entered inside deletedirectoryforBaddata method inside prediction_raw_data class")
     file.close()
     #Good_data_path = "Raw_prediction_data/Good_data"
 
@@ -186,15 +186,72 @@ def deletedirectoryforBaddata(self):
         if os.path.isdir(Bad_data_path):
             shutil.rmtree(Bad_data_path)
 
-            file = open("prediction_logs/General_logs.txt", 'a+')
-            self.logger.log(file, "Deleted bad data directory Successfully!!")
-            file.close()
+        file = open("prediction_logs/General_logs.txt", 'a+')
+        self.logger.log(file, "Deleted bad data directory Successfully!!")
+        file.close()
 
     except OSError as e:
         file = open("prediction_logs/General_logs.txt", 'a+')
-        self.logger.log(file, "Error Occurred while deleting the good data dat directory.Exception Message::" + str(e))
+        self.logger.log(file, "Error Occurred while deleting the bad data directory.Exception Message::" + str(e))
         file.close()
         raise OSError
+
+    def moveBadDatatoArchivebad(self):
+
+        """
+             Method Name:  moveBadDatatoArchivebad
+              Description: This method will be used to delete the bad data directory
+              after moving the data to archive bad directory for notyfying the client regarding the
+              invalid data issue.
+
+              Output:None
+              On Failure: OS Error
+
+              Written By: JSL
+              Version: 1.0
+              Revisions: None
+
+        """
+        now = datetime.now()
+        date = now.date()
+        time = now.strftime("%H%M%S")
+        try:
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(file, "Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class")
+            file.close()
+            Bad_data_path = "Raw_prediction_data/Bad_data"
+            Archive_bad_path = "Prediction_Archive_Bad_data"
+            if not os.path.isdir(Archive_bad_path):
+                os.makedirs(Archive_bad_path)
+            src_path = Bad_data_path
+            dest_path = "Prediction_Archive_Bad_data/ArchiveBad_" +str(date) + '_' + str(time)
+            if not os.path.isdir(dest_path):
+                os.makedirs(dest_path)
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            for file in os.listdir(src_path):
+                if file not in os.listdir(dest_path):
+                    shutil.move(src_path + "/" + file,dest_path)
+
+            self.logger.log(file, "Successfully moved the Bad files to Archive bad Directory!!")
+
+            if os.path.isdir(Bad_data_path):
+                shutil.rmtree(Bad_data_path)
+            self.logger.log(file, "Successfully Deleted the Bad data directory!!")
+            file.close()
+        except OSError as e:
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(file, "Error occurred while moving the bad data files to archive bad directory!!.Exception Message:: %s" %e)
+            file.close()
+            raise e
+
+
+
+
+
+
+
+
+
 
 
 

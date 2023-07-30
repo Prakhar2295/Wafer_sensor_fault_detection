@@ -362,6 +362,78 @@ def deletedirectoryforBaddata(self):
             self.logger.log(f, "Exception occurred while validating the columns length %s" % e)
             f.close()
 
+        def deletepredictionfile(self):
+
+            if os.path.exists('Prediction_Output_File/Predictions.csv'):
+                os.remove('Prediction_Output_File/Predictions.csv')
+
+        def validatemissingvaluesinwholecolumn(self):
+            """
+
+                  Method Name: validatemissingvaluesinwholecolumn
+                  Description: This method will be used to validate the given prediction csv
+                  if there is any column with having missing values throughout the column.
+                  This method will also change the unnamed column name in csv file "wafer".
+
+                  Output: None
+                  On failure: Exception
+
+                  Written By: JSL
+                  Version: 1.0
+                  Revisions: None
+
+
+            """
+            Good_data_path = "Raw_prediction_data/Good_data"
+            Bad_data_path = "Raw_prediction_data/Bad_data"
+            try:
+                f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
+                self.logger.log(f, "Entered the validatemissingvaluesinwholecolumn method of prediction_data_validation")
+                for file in os.listdir(Good_data_path):
+                    file_path = Good_data_path + '/' + file
+                    if file.endswith(".csv"):
+                        # file_path = Good_data_path + '/' + file
+                        df = pd.read_csv(file_path)
+                        count = 0
+                        for cols in df:
+                            if (df[cols].count()) == 0:
+                                # print(cols)
+                                count += 1
+                                if file not in os.listdir(Bad_data_path):
+                                    shutil.move(file_path, Bad_data_path)
+                                    self.logger.log(f,"Invalid files moved from good data to bad data %s" %file)
+                                    f.close()
+                                else:
+                                    pass
+                        if count == 0:
+                            df.rename(columns={"Unnamed: 0": "Wafer"}, inplace=True)
+                            df.to_csv(file_path, index=None, header=True)
+                        f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
+                        self.logger.log(f, "Unnamed column name changed successfully")
+                        f.close()
+
+            except OSError:
+                f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
+                self.logger.log(f, "Error occurred while validating the column length. %s" %OSError)
+                raise OSError
+            except Exception as e:
+                self.logger.log(f, "Exception occurred while validating the column length. %s" % OSError)
+                f.close()
+                raise e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

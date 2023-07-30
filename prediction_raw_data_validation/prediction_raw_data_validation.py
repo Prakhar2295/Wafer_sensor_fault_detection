@@ -201,7 +201,7 @@ def deletedirectoryforBaddata(self):
         """
              Method Name:  moveBadDatatoArchivebad
               Description: This method will be used to delete the bad data directory
-              after moving the data to archive bad directory for notyfying the client regarding the
+              after moving the data to archive bad directory for notifying the client regarding the
               invalid data issue.
 
               Output:None
@@ -243,6 +243,84 @@ def deletedirectoryforBaddata(self):
             self.logger.log(file, "Error occurred while moving the bad data files to archive bad directory!!.Exception Message:: %s" %e)
             file.close()
             raise e
+
+    def raw_file_name_validation(self,regex,LengthOfDateStampInFile):
+
+
+        """
+             Method Name:raw_file_name_validation
+             Description: This method will be used to validate the raw file names wfor the prediction, if
+             the file name is valid it will be moved to good data and if invalid move to bad directory:
+
+             Output: Good data and Bad data
+             On failure: OS error
+
+              Written By: JSL
+              Version: 1.0
+              Revisions: None
+
+
+        """
+        ###Deleting the previously store bad data and good data directory in case last run was  unsuccessfull and files were not deleted.
+        self.deletedirectoryforBaddata()
+        self.deletedirectoryforGooddata()
+
+        ###creating the directories for good and bad data
+        self.createdirectoryforGoodBadpredictiondata()
+
+        try:
+            file = open("prediction_logs/name_validation_logs.txt", 'a+')
+            self.logger.log(file,"Entered the raw_file_name_validation method of prediction_data_validation")
+            file.close()
+            Bad_data_path = "Raw_prediction_data/Bad_data"
+            Good_data_path = "Raw_prediction_data/Good_data"
+            for file in os.listdir(self.batch_directory):
+                file_path = self.batch_directory + '/' + file
+                if re.match(regex,file):
+                    file_name = re.split(".csv",file)
+                    file_name = re.split('_',file_name[0])
+                    if len(file_name[1]) == LengthOfDateStampInFile:
+                        if file not in os.listdir(Good_data_path):
+                            shutil.copy(file_path,Good_data_path)
+                            f = open("prediction_logs/name_validation_logs.txt", 'a+')
+                            self.logger.log(f,"Copied the valid file to good_data folder %s" %file)
+                            f.close()
+                        else:
+                            pass
+                    elif file not in os.listdir(Bad_data_path):
+                        shutil.copy(file_path,Bad_data_path)
+                        f = open("prediction_logs/name_validation_logs.txt", 'a+')
+                        self.logger.log(f, "Copied the invalid file to bad_data folder %s" % file)
+                        f.close()
+
+                    else:
+                        pass
+
+                elif file not in os.listdir(Bad_data_path):
+                    shutil.copy(file_path ,Bad_data_path)
+                    f = open("prediction_logs/name_validation_logs.txt", 'a+')
+                    self.logger.log(f, "Copied the invalid file to bad_data folder %s" % file)
+                    f.close()
+
+                else:
+                    pass
+
+        except OSError:
+            f = open("prediction_logs/name_validation_logs.txt", 'a+')
+            self.logger.log(f, "Error occurred while moving files to good data and bad data folder %s" %OSError)
+            f.close()
+            raise OSError
+        except Exception as e:
+            f = open("prediction_logs/name_validation_logs.txt", 'a+')
+            self.logger.log(f, "Exception occurred while moving files to good data and bad data folder %s" %e)
+            f.close()
+            raise e
+
+
+
+
+
+
 
 
 

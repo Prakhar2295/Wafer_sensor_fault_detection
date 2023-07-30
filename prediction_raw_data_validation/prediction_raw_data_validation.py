@@ -120,7 +120,7 @@ class prediction_data_validation:
             if not os.path.isdir(Bad_data_path):
                 os.makedirs(Bad_data_path)
             file = open("prediction_logs/General_logs.txt",'a+')
-            self.logger.log(file,"Created Directory for good data and bad data:: %s " %Good_data_path "Bad Data %s" %Bad_data_path)
+            self.logger.log(file,"Created Directory for good data and bad data:: %s " %Good_data_path ,"Bad Data %s" %Bad_data_path)
             file.close()
         except OSError:
             file = open("prediction_logs/General_logs.txt",'a+')
@@ -131,7 +131,7 @@ class prediction_data_validation:
         """
               Method Name:  deletedirectoryforGooddata
               Description: This method will be used to delete the good data directory
-              after moving the data to training db for space optimization.
+              after moving the data to prediction db for space optimization.
 
               Output:None
               On Failure: OS Error
@@ -144,21 +144,63 @@ class prediction_data_validation:
         file = open("prediction_logs/General_logs.txt",'a+')
         self.logger.log(file,"Entered inside deletedirectoryforGooddata inside prediction_raw_data class")
         file.close()
-        Good_data_path = "Raw_prediction_data/Good_data"
+
         #Bad_data_path = "Raw_prediction_data/Bad_data"
         try:
+            Good_data_path = "Raw_prediction_data/Good_data"
             if os.path.isdir(Good_data_path):
                 shutil.rmtree(Good_data_path)
 
-        file = open("prediction_logs/General_logs.txt", 'a+')
-        self.logger.log(file, "Deleted good data directory Successfully!!")
-        file.close()
+                file = open("prediction_logs/General_logs.txt", 'a+')
+                self.logger.log(file, "Deleted good data directory Successfully!!")
+                file.close()
 
         except OSError as e:
-        file = open("prediction_logs/General_logs.txt", 'a+')
-        self.logger.log(file, "Error Occurred while deleting the good data dat directory.Exception Message::"+str(e))
-        file.close()
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(file, "Error Occurred while deleting the good data dat directory.Exception Message::" + str(e))
+            file.close()
             raise OSError
+
+
+def deletedirectoryforBaddata(self):
+    """
+          Method Name:  deletedirectoryforBaddata
+          Description: This method will be used to delete the bad data directory
+          after moving the data to prediction db for space optimization.
+
+          Output:None
+          On Failure: OS Error
+
+          Written By: JSL
+          Version: 1.0
+          Revisions: None
+
+    """
+    file = open("prediction_logs/General_logs.txt", 'a+')
+    self.logger.log(file, "Entered inside deletedirectoryforBaddata inside prediction_raw_data class")
+    file.close()
+    #Good_data_path = "Raw_prediction_data/Good_data"
+
+    try:
+        Bad_data_path = "Raw_prediction_data/Bad_data"
+        if os.path.isdir(Bad_data_path):
+            shutil.rmtree(Bad_data_path)
+
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(file, "Deleted bad data directory Successfully!!")
+            file.close()
+
+    except OSError as e:
+        file = open("prediction_logs/General_logs.txt", 'a+')
+        self.logger.log(file, "Error Occurred while deleting the good data dat directory.Exception Message::" + str(e))
+        file.close()
+        raise OSError
+
+
+
+
+
+
 
 
 

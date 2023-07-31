@@ -18,8 +18,8 @@ class dboperation:
 	"""
 	def __init__(self):
 		#self.databasename = "prediction"
-		self.badDatapath = "Prediction_Raw_files_validated/Bad_Raw"
-		self.goodDatapath = "Prediction_Raw_files_validated/Good_Raw"
+		self.badDatapath = "Raw_prediction_data/Good_data"
+		self.goodDatapath = "Raw_prediction_data/Bad_data"
 		self.logger = App_Logger()
 
 	def databaseconnection(self,databasename):
@@ -152,9 +152,9 @@ class dboperation:
         file.close()
         conn = self.databaseconnection(database)
         cur= conn.cursor()
-        path = "C:/Users/prath/Desktop/PYTHON/Raw_prediction_data/Good_data"
-        for file in os.listdir(path):
-            file_path = path + "/" + file
+        ##path = "C:/Users/prath/Desktop/PYTHON/Raw_prediction_data/Good_data"
+        for file in os.listdir(self.goodDatapath):
+            file_path = self.goodDatapath + "/" + file
             #print(file_path)
             with open(file_path, mode ='r')as file:
                next(file)     ###skipping the first row of the csv file with the column names
@@ -172,11 +172,13 @@ class dboperation:
         file = open(log_file_path, 'a+')
         self.logger.log = (file, "Error Occurred.Insertion of data inside table unsuccesfull!!.%s"%e)
         file.close()
+        conn.close()
         raise e
     except Exception as e:
         file = open(log_file_path, 'a+')
         self.logger.log = (file, "Exception Occurred.Insertion of data inside table unsuccesfull!!.Exception message::%s"%e)
         file.close()
+        conn.close()
         raise e
     
 
@@ -200,7 +202,7 @@ class dboperation:
     """
     log_file_path = "D:/FSDS/MAchine_Learning/wafer_sensor_fault/prediction_logs/DataFromTabletoCSV.txt"
     file = open(log_file_path,'a+')
-    self.logger.log(file,"Enterd the selectingDatafromtableintocsv inside db operation class ")
+    self.logger.log(file,"Entered the selectingDatafromtableintocsv inside db operation class ")
     file.close()
     path = "D:/FSDS/MAchine_Learning/wafer_sensor_fault/PredictionFileFromDB"
     file_path = "D:/FSDS/MAchine_Learning/wafer_sensor_fault/PredictionFileFromDB" + "/" + "InputFile.csv"

@@ -80,6 +80,10 @@ class dboperation:
               
               Output: Mysql table
               On Failure: Connection Error,Exception
+	      
+	          Written by: JSL
+			  Version: 1.0
+			  Revisions: None
          
          """
          log_file_path = 'D:/FSDS/MAchine_Learning/wafer_sensor_fault/prediction_logs/createtabledb.txt'
@@ -126,6 +130,58 @@ class dboperation:
              log_file.close()
              #conn.close()
              raise e
+	 
+    def insertIntoTableGoodData(self,database):
+    """
+        Method Name: insertIntoTableGoodData
+        Description: This method will be used to the insert the Good Prediction data into the
+        database table.
+
+        Output: None
+        On Failure: Connection Error,Raises an Exception
+
+        Written by: JSL
+        Version: 1.0
+        Revisions: None
+
+    """
+    try:
+        log_file_path = 'D:/FSDS/MAchine_Learning/wafer_sensor_fault/prediction_logs/TableDatainsertion.txt'
+        file = open(log_file_path,'a+')
+        self.logger.log = (file,"Entered inside the insertintoTableGooddata method inside the db operation class")
+        file.close()
+        conn = self.databaseconnection(database)
+        cur= conn.cursor()
+        path = "C:/Users/prath/Desktop/PYTHON/Raw_prediction_data/Good_data"
+        for file in os.listdir(path):
+            file_path = path + "/" + file
+            #print(file_path)
+            with open(file_path, mode ='r')as file:
+               next(file)     ###skipping the first row of the csv file with the column names
+               csvFile = csv.reader(file)
+               for lines in csvFile:      ###Iterating though the csv file
+                     p = ','.join(lines)  
+                     #print(p)
+                     cur.execute("insert into {database}.Good_Raw_Data values ({data})".format(database = (database),data = (p)))
+        conn.commit()
+        file = open(log_file_path, 'a+')
+        self.logger.log = (file, "Inserted data into the table successfully!!")
+        file.close()
+        conn.close()
+    except ConnectionError as e:
+        file = open(log_file_path, 'a+')
+        self.logger.log = (file, "Error Occurred.Insertion of data inside table unsuccesfull!!.%s"%e)
+        file.close()
+        raise e
+    except Exception as e:
+        file = open(log_file_path, 'a+')
+        self.logger.log = (file, "Exception Occurred.Insertion of data inside table unsuccesfull!!.Exception message::%s"%e)
+        file.close()
+        raise e
+	
+		 
+	 
+	 
 	     
                 
                 

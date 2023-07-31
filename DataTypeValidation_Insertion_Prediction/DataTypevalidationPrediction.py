@@ -178,8 +178,57 @@ class dboperation:
         self.logger.log = (file, "Exception Occurred.Insertion of data inside table unsuccesfull!!.Exception message::%s"%e)
         file.close()
         raise e
-	
-		 
+    
+
+
+	def selectingDatafromtableintocsv(self,database):
+    
+    """
+          Method name: selectingDatafromtableintocsv
+          Description: This method will be used to convert the data from sql table into a dataframe.
+          This dataframe will be saved to the csv file.
+          
+          On output: A csv file
+          Failure: OS Error, Exception
+          
+          Written by: JSL
+          Version: 1.0
+          Revisions: None
+    
+       
+    
+    """
+    log_file_path = "D:/FSDS/MAchine_Learning/wafer_sensor_fault/prediction_logs/DataFromTabletoCSV.txt"
+    file = open(log_file_path,'a+')
+    self.logger.log(file,"Enterd the selectingDatafromtableintocsv inside db operation class ")
+    file.close()
+    path = "D:/FSDS/MAchine_Learning/wafer_sensor_fault/PredictionFileFromDB"
+    file_path = "D:/FSDS/MAchine_Learning/wafer_sensor_fault/PredictionFileFromDB" + "/" + "InputFile.csv"
+    try: 
+        conn = connection.connect(host="localhost", user="prakhar",database=database,passwd="123456",use_pure=True)
+        cur = conn.cursor()
+        if not os.path.isdir(path):
+            os.makedirs(path)
+            file = open(log_file_path,'a+')
+            self.logger.log(file,"Directory Created Succesfully !! %s " %path)
+            file.close()
+            
+        df = pd.read_sql("select * from Good_Raw_Data",conn)
+        df.to_csv(file_path)
+        file = open(log_file_path,'a+')
+        self.logger.log(file,"Input File csv created successfully from table%s" %file_path)
+        file.close()
+        conn.close
+    except OSError as e:
+         file = open(log_file_path,'a+')
+         self.logger.log(file,"Input file csv creation unsuccessfull.Error occurred while creating csv file from mysql table %s " %e)
+         file.close()
+    except Exception as e:
+        file = open(log_file_path,'a+')
+        self.logger.log(file,"Error occurred while creating csv file>exception message::%s"%e)
+        file.close()
+        
+    
 	 
 	 
 	     

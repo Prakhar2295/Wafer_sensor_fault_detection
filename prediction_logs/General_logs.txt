@@ -1,0 +1,249 @@
+2023-08-01/00:37:01		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/00:37:01		Deleted bad data directory Successfully!!
+2023-08-01/00:37:01		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/00:37:01		Deleted good data directory Successfully!!
+2023-08-01/00:37:01		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/00:43:17		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/00:43:17		Deleted bad data directory Successfully!!
+2023-08-01/00:43:17		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/00:43:17		Deleted good data directory Successfully!!
+2023-08-01/00:43:17		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/00:43:17		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/00:48:23		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/00:48:23		Deleted bad data directory Successfully!!
+2023-08-01/00:48:23		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/00:48:23		Deleted good data directory Successfully!!
+2023-08-01/00:48:23		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/00:48:23		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/00:55:20		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/00:55:20		Deleted bad data directory Successfully!!
+2023-08-01/00:55:20		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/00:55:20		Deleted good data directory Successfully!!
+2023-08-01/00:55:20		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/00:55:20		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/01:04:36		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/01:04:36		Deleted bad data directory Successfully!!
+2023-08-01/01:04:36		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/01:04:36		Deleted good data directory Successfully!!
+2023-08-01/01:04:36		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/01:04:36		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/01:35:38		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/01:35:39		Deleted bad data directory Successfully!!
+2023-08-01/01:35:39		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/01:35:39		Deleted good data directory Successfully!!
+2023-08-01/01:35:39		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/01:35:39		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/01:59:50		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/01:59:50		Deleted bad data directory Successfully!!
+2023-08-01/01:59:50		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/01:59:50		Deleted good data directory Successfully!!
+2023-08-01/01:59:50		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/01:59:50		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/02:05:18		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/02:05:18		Deleted bad data directory Successfully!!
+2023-08-01/02:05:18		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/02:05:18		Deleted good data directory Successfully!!
+2023-08-01/02:05:18		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/02:05:18		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/03:22:09		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/03:22:10		Deleted bad data directory Successfully!!
+2023-08-01/03:22:10		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:22:10		Deleted good data directory Successfully!!
+2023-08-01/03:22:10		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/03:22:10		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/03:23:38		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:23:39		Deleted good data directory Successfully!!
+2023-08-01/03:23:39		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/03:35:09		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/03:35:09		Deleted bad data directory Successfully!!
+2023-08-01/03:35:09		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:35:09		Deleted good data directory Successfully!!
+2023-08-01/03:35:09		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/03:35:09		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/03:36:08		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:36:08		Deleted good data directory Successfully!!
+2023-08-01/03:36:08		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/03:36:08		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/03:38:32		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/03:38:32		Deleted bad data directory Successfully!!
+2023-08-01/03:38:32		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:38:32		Deleted good data directory Successfully!!
+2023-08-01/03:38:32		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/03:38:32		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/03:39:31		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:39:31		Deleted good data directory Successfully!!
+2023-08-01/03:39:31		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/03:39:31		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/03:39:31		Successfully Deleted the Bad data directory!!
+2023-08-01/03:47:21		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/03:47:21		Deleted bad data directory Successfully!!
+2023-08-01/03:47:21		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:47:21		Deleted good data directory Successfully!!
+2023-08-01/03:47:21		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/03:47:21		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/03:48:20		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:48:20		Deleted good data directory Successfully!!
+2023-08-01/03:48:20		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/03:48:20		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/03:48:20		Successfully Deleted the Bad data directory!!
+2023-08-01/03:50:28		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/03:50:28		Deleted bad data directory Successfully!!
+2023-08-01/03:50:28		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:50:28		Deleted good data directory Successfully!!
+2023-08-01/03:50:28		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/03:50:28		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/03:51:26		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:51:26		Deleted good data directory Successfully!!
+2023-08-01/03:51:26		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/03:51:26		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/03:51:26		Successfully Deleted the Bad data directory!!
+2023-08-01/03:53:44		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/03:53:44		Deleted bad data directory Successfully!!
+2023-08-01/03:53:44		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:53:44		Deleted good data directory Successfully!!
+2023-08-01/03:53:44		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/03:53:44		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/03:54:38		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/03:54:38		Deleted good data directory Successfully!!
+2023-08-01/03:54:38		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/03:54:39		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/03:54:39		Successfully Deleted the Bad data directory!!
+2023-08-01/04:03:42		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/04:03:42		Deleted bad data directory Successfully!!
+2023-08-01/04:03:42		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:03:42		Deleted good data directory Successfully!!
+2023-08-01/04:03:42		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/04:03:42		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/04:05:00		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:05:00		Deleted good data directory Successfully!!
+2023-08-01/04:05:00		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/04:05:00		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/04:05:00		Successfully Deleted the Bad data directory!!
+2023-08-01/04:06:54		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/04:06:54		Deleted bad data directory Successfully!!
+2023-08-01/04:06:54		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:06:54		Deleted good data directory Successfully!!
+2023-08-01/04:06:54		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/04:06:54		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/04:07:57		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:07:57		Deleted good data directory Successfully!!
+2023-08-01/04:07:57		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/04:07:57		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/04:07:57		Successfully Deleted the Bad data directory!!
+2023-08-01/04:13:59		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/04:13:59		Deleted bad data directory Successfully!!
+2023-08-01/04:13:59		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:13:59		Deleted good data directory Successfully!!
+2023-08-01/04:13:59		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/04:13:59		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/04:15:05		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:15:05		Deleted good data directory Successfully!!
+2023-08-01/04:15:05		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/04:15:05		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/04:15:05		Successfully Deleted the Bad data directory!!
+2023-08-01/04:22:18		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/04:22:18		Deleted bad data directory Successfully!!
+2023-08-01/04:22:18		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:22:18		Deleted good data directory Successfully!!
+2023-08-01/04:22:18		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/04:22:18		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/04:23:23		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/04:23:23		Deleted good data directory Successfully!!
+2023-08-01/04:23:23		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/04:23:23		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/04:23:23		Successfully Deleted the Bad data directory!!
+2023-08-01/10:26:59		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/10:26:59		Deleted bad data directory Successfully!!
+2023-08-01/10:26:59		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/10:26:59		Deleted good data directory Successfully!!
+2023-08-01/10:26:59		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/10:26:59		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/10:33:27		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/10:33:27		Deleted bad data directory Successfully!!
+2023-08-01/10:33:27		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/10:33:27		Deleted good data directory Successfully!!
+2023-08-01/10:33:27		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/10:33:27		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:10:22		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/11:10:22		Deleted bad data directory Successfully!!
+2023-08-01/11:10:22		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:10:22		Deleted good data directory Successfully!!
+2023-08-01/11:10:22		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/11:10:23		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:17:37		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/11:17:37		Deleted bad data directory Successfully!!
+2023-08-01/11:17:37		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:17:37		Deleted good data directory Successfully!!
+2023-08-01/11:17:37		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/11:17:37		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:18:56		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:18:56		Deleted good data directory Successfully!!
+2023-08-01/11:18:56		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/11:18:57		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/11:18:57		Successfully Deleted the Bad data directory!!
+2023-08-01/11:22:55		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/11:22:55		Deleted bad data directory Successfully!!
+2023-08-01/11:22:55		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:22:55		Deleted good data directory Successfully!!
+2023-08-01/11:22:55		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/11:22:55		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:24:11		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:24:11		Deleted good data directory Successfully!!
+2023-08-01/11:24:11		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/11:24:11		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/11:24:11		Successfully Deleted the Bad data directory!!
+2023-08-01/11:25:11		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/11:25:11		Deleted bad data directory Successfully!!
+2023-08-01/11:25:11		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:25:11		Deleted good data directory Successfully!!
+2023-08-01/11:25:11		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/11:25:11		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:26:25		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:26:25		Deleted good data directory Successfully!!
+2023-08-01/11:26:25		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/11:26:25		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/11:26:25		Successfully Deleted the Bad data directory!!
+2023-08-01/11:35:21		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/11:35:21		Deleted bad data directory Successfully!!
+2023-08-01/11:35:21		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:35:21		Deleted good data directory Successfully!!
+2023-08-01/11:35:21		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/11:35:21		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:36:34		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:36:34		Deleted good data directory Successfully!!
+2023-08-01/11:36:34		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/11:36:34		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/11:36:34		Successfully Deleted the Bad data directory!!
+2023-08-01/11:45:40		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/11:45:40		Deleted bad data directory Successfully!!
+2023-08-01/11:45:40		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:45:40		Deleted good data directory Successfully!!
+2023-08-01/11:45:40		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/11:45:40		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:46:45		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:46:45		Deleted good data directory Successfully!!
+2023-08-01/11:46:45		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/11:46:45		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/11:46:45		Successfully Deleted the Bad data directory!!
+2023-08-01/11:53:10		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/11:53:10		Deleted bad data directory Successfully!!
+2023-08-01/11:53:10		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:53:10		Deleted good data directory Successfully!!
+2023-08-01/11:53:10		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/11:53:10		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/11:54:31		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/11:54:31		Deleted good data directory Successfully!!
+2023-08-01/11:54:31		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/11:54:31		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/11:54:31		Successfully Deleted the Bad data directory!!
+2023-08-01/12:02:40		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/12:02:40		Deleted bad data directory Successfully!!
+2023-08-01/12:02:40		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/12:02:40		Deleted good data directory Successfully!!
+2023-08-01/12:02:40		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/12:02:40		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/12:03:54		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/12:03:55		Deleted good data directory Successfully!!
+2023-08-01/12:03:55		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/12:03:55		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/12:03:55		Successfully Deleted the Bad data directory!!

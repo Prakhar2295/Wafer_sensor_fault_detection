@@ -1,0 +1,100 @@
+2023-08-01/00:55:26		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/00:55:31		Deleted the Existing table Good_RAW_Data
+2023-08-01/00:55:31		Created the table inside the database.Query executed successfully
+2023-08-01/00:55:31		Altered the table in the database.prediction
+2023-08-01/01:04:44		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/01:04:47		Deleted the Existing table Good_RAW_Data
+2023-08-01/01:04:47		Created the table inside the database.Query executed successfully
+2023-08-01/01:04:48		Altered the table in the database.prediction
+2023-08-01/01:35:46		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/01:35:57		Deleted the Existing table Good_RAW_Data
+2023-08-01/01:35:57		Created the table inside the database.Query executed successfully
+2023-08-01/01:35:58		Altered the table in the database.prediction
+2023-08-01/01:59:59		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/02:00:02		Deleted the Existing table Good_RAW_Data
+2023-08-01/02:00:02		Created the table inside the database.Query executed successfully
+2023-08-01/02:00:03		Altered the table in the database.prediction
+2023-08-01/02:05:27		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/02:05:30		Deleted the Existing table Good_RAW_Data
+2023-08-01/02:05:30		Created the table inside the database.Query executed successfully
+2023-08-01/02:05:30		Altered the table in the database.prediction
+2023-08-01/03:22:20		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/03:22:35		Deleted the Existing table Good_RAW_Data
+2023-08-01/03:22:36		Created the table inside the database.Query executed successfully
+2023-08-01/03:22:36		Altered the table in the database.prediction
+2023-08-01/03:35:17		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/03:35:19		Deleted the Existing table Good_RAW_Data
+2023-08-01/03:35:19		Created the table inside the database.Query executed successfully
+2023-08-01/03:35:19		Altered the table in the database.prediction
+2023-08-01/03:38:40		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/03:38:41		Deleted the Existing table Good_RAW_Data
+2023-08-01/03:38:41		Created the table inside the database.Query executed successfully
+2023-08-01/03:38:41		Altered the table in the database.prediction
+2023-08-01/03:47:29		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/03:47:31		Deleted the Existing table Good_RAW_Data
+2023-08-01/03:47:31		Created the table inside the database.Query executed successfully
+2023-08-01/03:47:31		Altered the table in the database.prediction
+2023-08-01/03:50:37		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/03:50:39		Deleted the Existing table Good_RAW_Data
+2023-08-01/03:50:39		Created the table inside the database.Query executed successfully
+2023-08-01/03:50:39		Altered the table in the database.prediction
+2023-08-01/03:53:52		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/03:53:53		Deleted the Existing table Good_RAW_Data
+2023-08-01/03:53:53		Created the table inside the database.Query executed successfully
+2023-08-01/03:53:53		Altered the table in the database.prediction
+2023-08-01/04:03:53		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/04:03:56		Deleted the Existing table Good_RAW_Data
+2023-08-01/04:03:56		Created the table inside the database.Query executed successfully
+2023-08-01/04:03:57		Altered the table in the database.prediction
+2023-08-01/04:07:02		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/04:07:04		Deleted the Existing table Good_RAW_Data
+2023-08-01/04:07:04		Created the table inside the database.Query executed successfully
+2023-08-01/04:07:04		Altered the table in the database.prediction
+2023-08-01/04:14:09		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/04:14:12		Deleted the Existing table Good_RAW_Data
+2023-08-01/04:14:12		Created the table inside the database.Query executed successfully
+2023-08-01/04:14:12		Altered the table in the database.prediction
+2023-08-01/04:22:26		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/04:22:28		Deleted the Existing table Good_RAW_Data
+2023-08-01/04:22:28		Created the table inside the database.Query executed successfully
+2023-08-01/04:22:28		Altered the table in the database.prediction
+2023-08-01/10:27:10		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/10:27:27		Deleted the Existing table Good_RAW_Data
+2023-08-01/10:27:28		Created the table inside the database.Query executed successfully
+2023-08-01/10:27:28		Altered the table in the database.prediction
+2023-08-01/10:36:09		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/10:36:11		Deleted the Existing table Good_RAW_Data
+2023-08-01/10:36:12		Created the table inside the database.Query executed successfully
+2023-08-01/10:36:12		Altered the table in the database.prediction
+2023-08-01/11:10:31		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/11:10:34		Deleted the Existing table Good_RAW_Data
+2023-08-01/11:10:34		Created the table inside the database.Query executed successfully
+2023-08-01/11:10:34		Altered the table in the database.prediction
+2023-08-01/11:17:46		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/11:17:48		Deleted the Existing table Good_RAW_Data
+2023-08-01/11:17:48		Created the table inside the database.Query executed successfully
+2023-08-01/11:17:48		Altered the table in the database.prediction
+2023-08-01/11:23:04		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/11:23:06		Deleted the Existing table Good_RAW_Data
+2023-08-01/11:23:06		Created the table inside the database.Query executed successfully
+2023-08-01/11:23:06		Altered the table in the database.prediction
+2023-08-01/11:25:20		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/11:25:22		Deleted the Existing table Good_RAW_Data
+2023-08-01/11:25:22		Created the table inside the database.Query executed successfully
+2023-08-01/11:25:22		Altered the table in the database.prediction
+2023-08-01/11:35:29		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/11:35:32		Deleted the Existing table Good_RAW_Data
+2023-08-01/11:35:32		Created the table inside the database.Query executed successfully
+2023-08-01/11:35:32		Altered the table in the database.prediction
+2023-08-01/11:45:49		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/11:45:50		Deleted the Existing table Good_RAW_Data
+2023-08-01/11:45:50		Created the table inside the database.Query executed successfully
+2023-08-01/11:45:50		Altered the table in the database.prediction
+2023-08-01/11:53:19		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/11:53:20		Deleted the Existing table Good_RAW_Data
+2023-08-01/11:53:20		Created the table inside the database.Query executed successfully
+2023-08-01/11:53:21		Altered the table in the database.prediction
+2023-08-01/12:02:48		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/12:02:51		Deleted the Existing table Good_RAW_Data
+2023-08-01/12:02:51		Created the table inside the database.Query executed successfully
+2023-08-01/12:02:51		Altered the table in the database.prediction

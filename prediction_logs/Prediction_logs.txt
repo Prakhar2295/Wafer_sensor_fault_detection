@@ -1,0 +1,296 @@
+2023-08-01/00:18:06		Start of Validation on files for prediction!!
+2023-08-01/00:29:52		Start of Validation on files for prediction!!
+2023-08-01/00:37:01		Start of Validation on files for prediction!!
+2023-08-01/00:43:17		Start of Validation on files for prediction!!
+2023-08-01/00:48:23		Start of Validation on files for prediction!!
+2023-08-01/00:55:20		Start of Validation on files for prediction!!
+2023-08-01/00:55:22		Raw File Validation completed
+2023-08-01/00:55:22		Starting Data Transformation!!
+2023-08-01/00:55:26		Data Transformation Completed
+2023-08-01/00:55:26		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/01:04:36		Start of Validation on files for prediction!!
+2023-08-01/01:04:40		Raw File Validation completed
+2023-08-01/01:04:40		Starting Data Transformation!!
+2023-08-01/01:04:44		Data Transformation Completed
+2023-08-01/01:04:44		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/01:05:39		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/01:05:39		Inserting of data into table started !!!!
+2023-08-01/01:35:38		Start of Validation on files for prediction!!
+2023-08-01/01:35:42		Raw File Validation completed
+2023-08-01/01:35:42		Starting Data Transformation!!
+2023-08-01/01:35:46		Data Transformation Completed
+2023-08-01/01:35:46		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/01:36:40		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/01:36:40		Inserting of data into table started !!!!
+2023-08-01/01:59:50		Start of Validation on files for prediction!!
+2023-08-01/01:59:54		Raw File Validation completed
+2023-08-01/01:59:54		Starting Data Transformation!!
+2023-08-01/01:59:59		Data Transformation Completed
+2023-08-01/01:59:59		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/02:00:48		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/02:00:48		Inserting of data into table started !!!!
+2023-08-01/02:05:18		Start of Validation on files for prediction!!
+2023-08-01/02:05:22		Raw File Validation completed
+2023-08-01/02:05:22		Starting Data Transformation!!
+2023-08-01/02:05:27		Data Transformation Completed
+2023-08-01/02:05:27		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/02:06:32		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/02:06:32		Inserting of data into table started !!!!
+2023-08-01/03:22:09		Start of Validation on files for prediction!!
+2023-08-01/03:22:15		Raw File Validation completed
+2023-08-01/03:22:15		Starting Data Transformation!!
+2023-08-01/03:22:20		Data Transformation Completed
+2023-08-01/03:22:20		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/03:23:36		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/03:23:36		Inserting of data into table started !!!!
+2023-08-01/03:23:38		Inserting data into table completed !!!!
+2023-08-01/03:23:38		Deleteing the good data directory !!!
+2023-08-01/03:23:39		Deleted the good data directory !!!
+2023-08-01/03:23:39		Moving the bad data to the Archive bad directory!!!
+2023-08-01/03:35:09		Start of Validation on files for prediction!!
+2023-08-01/03:35:13		Raw File Validation completed
+2023-08-01/03:35:13		Starting Data Transformation!!
+2023-08-01/03:35:17		Data Transformation Completed
+2023-08-01/03:35:17		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/03:36:07		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/03:36:07		Inserting of data into table started !!!!
+2023-08-01/03:36:08		Inserting data into table completed !!!!
+2023-08-01/03:36:08		Deleteing the good data directory !!!
+2023-08-01/03:36:08		Deleted the good data directory !!!
+2023-08-01/03:36:08		Moving the bad data to the Archive bad directory!!!
+2023-08-01/03:38:32		Start of Validation on files for prediction!!
+2023-08-01/03:38:35		Raw File Validation completed
+2023-08-01/03:38:35		Starting Data Transformation!!
+2023-08-01/03:38:40		Data Transformation Completed
+2023-08-01/03:38:40		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/03:39:29		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/03:39:29		Inserting of data into table started !!!!
+2023-08-01/03:39:31		Inserting data into table completed !!!!
+2023-08-01/03:39:31		Deleteing the good data directory !!!
+2023-08-01/03:39:31		Deleted the good data directory !!!
+2023-08-01/03:39:31		Moving the bad data to the Archive bad directory!!!
+2023-08-01/03:39:31		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/03:39:31		File Validation Operation completed!!!
+2023-08-01/03:39:31		Extracting CSV files from the Database table
+2023-08-01/03:47:21		Start of Validation on files for prediction!!
+2023-08-01/03:47:24		Raw File Validation completed
+2023-08-01/03:47:24		Starting Data Transformation!!
+2023-08-01/03:47:29		Data Transformation Completed
+2023-08-01/03:47:29		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/03:48:19		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/03:48:19		Inserting of data into table started !!!!
+2023-08-01/03:48:20		Inserting data into table completed !!!!
+2023-08-01/03:48:20		Deleteing the good data directory !!!
+2023-08-01/03:48:20		Deleted the good data directory !!!
+2023-08-01/03:48:20		Moving the bad data to the Archive bad directory!!!
+2023-08-01/03:48:20		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/03:48:20		File Validation Operation completed!!!
+2023-08-01/03:48:20		Extracting CSV files from the Database table
+2023-08-01/03:50:28		Start of Validation on files for prediction!!
+2023-08-01/03:50:32		Raw File Validation completed
+2023-08-01/03:50:32		Starting Data Transformation!!
+2023-08-01/03:50:37		Data Transformation Completed
+2023-08-01/03:50:37		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/03:51:25		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/03:51:25		Inserting of data into table started !!!!
+2023-08-01/03:51:26		Inserting data into table completed !!!!
+2023-08-01/03:51:26		Deleteing the good data directory !!!
+2023-08-01/03:51:26		Deleted the good data directory !!!
+2023-08-01/03:51:26		Moving the bad data to the Archive bad directory!!!
+2023-08-01/03:51:26		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/03:51:26		File Validation Operation completed!!!
+2023-08-01/03:51:26		Extracting CSV files from the Database table
+2023-08-01/03:53:44		Start of Validation on files for prediction!!
+2023-08-01/03:53:47		Raw File Validation completed
+2023-08-01/03:53:47		Starting Data Transformation!!
+2023-08-01/03:53:52		Data Transformation Completed
+2023-08-01/03:53:52		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/03:54:37		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/03:54:37		Inserting of data into table started !!!!
+2023-08-01/03:54:38		Inserting data into table completed !!!!
+2023-08-01/03:54:38		Deleteing the good data directory !!!
+2023-08-01/03:54:38		Deleted the good data directory !!!
+2023-08-01/03:54:38		Moving the bad data to the Archive bad directory!!!
+2023-08-01/03:54:39		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/03:54:39		File Validation Operation completed!!!
+2023-08-01/03:54:39		Extracting CSV files from the Database table
+2023-08-01/04:03:42		Start of Validation on files for prediction!!
+2023-08-01/04:03:48		Raw File Validation completed
+2023-08-01/04:03:48		Starting Data Transformation!!
+2023-08-01/04:03:53		Data Transformation Completed
+2023-08-01/04:03:53		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/04:04:58		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/04:04:58		Inserting of data into table started !!!!
+2023-08-01/04:05:00		Inserting data into table completed !!!!
+2023-08-01/04:05:00		Deleteing the good data directory !!!
+2023-08-01/04:05:00		Deleted the good data directory !!!
+2023-08-01/04:05:00		Moving the bad data to the Archive bad directory!!!
+2023-08-01/04:05:00		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/04:05:00		File Validation Operation completed!!!
+2023-08-01/04:05:00		Extracting CSV files from the Database table
+2023-08-01/04:06:54		Start of Validation on files for prediction!!
+2023-08-01/04:06:58		Raw File Validation completed
+2023-08-01/04:06:58		Starting Data Transformation!!
+2023-08-01/04:07:02		Data Transformation Completed
+2023-08-01/04:07:02		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/04:07:55		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/04:07:55		Inserting of data into table started !!!!
+2023-08-01/04:07:57		Inserting data into table completed !!!!
+2023-08-01/04:07:57		Deleteing the good data directory !!!
+2023-08-01/04:07:57		Deleted the good data directory !!!
+2023-08-01/04:07:57		Moving the bad data to the Archive bad directory!!!
+2023-08-01/04:07:57		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/04:07:57		File Validation Operation completed!!!
+2023-08-01/04:07:57		Extracting CSV files from the Database table
+2023-08-01/04:13:59		Start of Validation on files for prediction!!
+2023-08-01/04:14:04		Raw File Validation completed
+2023-08-01/04:14:04		Starting Data Transformation!!
+2023-08-01/04:14:09		Data Transformation Completed
+2023-08-01/04:14:09		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/04:15:04		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/04:15:04		Inserting of data into table started !!!!
+2023-08-01/04:15:05		Inserting data into table completed !!!!
+2023-08-01/04:15:05		Deleteing the good data directory !!!
+2023-08-01/04:15:05		Deleted the good data directory !!!
+2023-08-01/04:15:05		Moving the bad data to the Archive bad directory!!!
+2023-08-01/04:15:05		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/04:15:05		File Validation Operation completed!!!
+2023-08-01/04:15:05		Extracting CSV files from the Database table
+2023-08-01/04:22:18		Start of Validation on files for prediction!!
+2023-08-01/04:22:22		Raw File Validation completed
+2023-08-01/04:22:22		Starting Data Transformation!!
+2023-08-01/04:22:26		Data Transformation Completed
+2023-08-01/04:22:26		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/04:23:21		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/04:23:21		Inserting of data into table started !!!!
+2023-08-01/04:23:23		Inserting data into table completed !!!!
+2023-08-01/04:23:23		Deleteing the good data directory !!!
+2023-08-01/04:23:23		Deleted the good data directory !!!
+2023-08-01/04:23:23		Moving the bad data to the Archive bad directory!!!
+2023-08-01/04:23:23		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/04:23:23		File Validation Operation completed!!!
+2023-08-01/04:23:23		Extracting CSV files from the Database table
+2023-08-01/10:26:59		Start of Validation on files for prediction!!
+2023-08-01/10:27:05		Raw File Validation completed
+2023-08-01/10:27:05		Starting Data Transformation!!
+2023-08-01/10:27:10		Data Transformation Completed
+2023-08-01/10:27:10		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/10:28:32		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/10:28:32		Inserting of data into table started !!!!
+2023-08-01/10:33:27		Start of Validation on files for prediction!!
+2023-08-01/10:35:50		Raw File Validation completed
+2023-08-01/10:35:53		Starting Data Transformation!!
+2023-08-01/10:36:05		Data Transformation Completed
+2023-08-01/10:36:06		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/10:37:20		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/10:37:23		Inserting of data into table started !!!!
+2023-08-01/11:10:22		Start of Validation on files for prediction!!
+2023-08-01/11:10:26		Raw File Validation completed
+2023-08-01/11:10:26		Starting Data Transformation!!
+2023-08-01/11:10:31		Data Transformation Completed
+2023-08-01/11:10:31		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/11:11:27		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/11:11:27		Inserting of data into table started !!!!
+2023-08-01/11:17:37		Start of Validation on files for prediction!!
+2023-08-01/11:17:41		Raw File Validation completed
+2023-08-01/11:17:41		Starting Data Transformation!!
+2023-08-01/11:17:46		Data Transformation Completed
+2023-08-01/11:17:46		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/11:18:55		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/11:18:55		Inserting of data into table started !!!!
+2023-08-01/11:18:56		Inserting data into table completed !!!!
+2023-08-01/11:18:56		Deleteing the good data directory !!!
+2023-08-01/11:18:56		Deleted the good data directory !!!
+2023-08-01/11:18:56		Moving the bad data to the Archive bad directory!!!
+2023-08-01/11:18:57		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/11:18:57		File Validation Operation completed!!!
+2023-08-01/11:18:57		Extracting CSV files from the Database table
+2023-08-01/11:22:55		Start of Validation on files for prediction!!
+2023-08-01/11:23:00		Raw File Validation completed
+2023-08-01/11:23:00		Starting Data Transformation!!
+2023-08-01/11:23:04		Data Transformation Completed
+2023-08-01/11:23:04		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/11:24:09		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/11:24:09		Inserting of data into table started !!!!
+2023-08-01/11:24:11		Inserting data into table completed !!!!
+2023-08-01/11:24:11		Deleteing the good data directory !!!
+2023-08-01/11:24:11		Deleted the good data directory !!!
+2023-08-01/11:24:11		Moving the bad data to the Archive bad directory!!!
+2023-08-01/11:24:11		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/11:24:11		File Validation Operation completed!!!
+2023-08-01/11:24:11		Extracting CSV files from the Database table
+2023-08-01/11:25:11		Start of Validation on files for prediction!!
+2023-08-01/11:25:15		Raw File Validation completed
+2023-08-01/11:25:15		Starting Data Transformation!!
+2023-08-01/11:25:20		Data Transformation Completed
+2023-08-01/11:25:20		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/11:26:23		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/11:26:23		Inserting of data into table started !!!!
+2023-08-01/11:26:25		Inserting data into table completed !!!!
+2023-08-01/11:26:25		Deleteing the good data directory !!!
+2023-08-01/11:26:25		Deleted the good data directory !!!
+2023-08-01/11:26:25		Moving the bad data to the Archive bad directory!!!
+2023-08-01/11:26:25		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/11:26:25		File Validation Operation completed!!!
+2023-08-01/11:26:25		Extracting CSV files from the Database table
+2023-08-01/11:26:27		Expoerting the data from table to csv file Completed succesfully!! File Saved!!
+2023-08-01/11:35:21		Start of Validation on files for prediction!!
+2023-08-01/11:35:25		Raw File Validation completed
+2023-08-01/11:35:25		Starting Data Transformation!!
+2023-08-01/11:35:29		Data Transformation Completed
+2023-08-01/11:35:29		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/11:36:33		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/11:36:33		Inserting of data into table started !!!!
+2023-08-01/11:36:34		Inserting data into table completed !!!!
+2023-08-01/11:36:34		Deleteing the good data directory !!!
+2023-08-01/11:36:34		Deleted the good data directory !!!
+2023-08-01/11:36:34		Moving the bad data to the Archive bad directory!!!
+2023-08-01/11:36:34		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/11:36:34		File Validation Operation completed!!!
+2023-08-01/11:36:34		Extracting CSV files from the Database table
+2023-08-01/11:36:36		Expoerting the data from table to csv file Completed succesfully!! File Saved!!
+2023-08-01/11:45:40		Start of Validation on files for prediction!!
+2023-08-01/11:45:44		Raw File Validation completed
+2023-08-01/11:45:44		Starting Data Transformation!!
+2023-08-01/11:45:49		Data Transformation Completed
+2023-08-01/11:45:49		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/11:46:44		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/11:46:44		Inserting of data into table started !!!!
+2023-08-01/11:46:45		Inserting data into table completed !!!!
+2023-08-01/11:46:45		Deleteing the good data directory !!!
+2023-08-01/11:46:45		Deleted the good data directory !!!
+2023-08-01/11:46:45		Moving the bad data to the Archive bad directory!!!
+2023-08-01/11:46:45		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/11:46:45		File Validation Operation completed!!!
+2023-08-01/11:46:45		Extracting CSV files from the Database table
+2023-08-01/11:46:47		Expoerting the data from table to csv file Completed succesfully!! File Saved!!
+2023-08-01/11:53:10		Start of Validation on files for prediction!!
+2023-08-01/11:53:14		Raw File Validation completed
+2023-08-01/11:53:14		Starting Data Transformation!!
+2023-08-01/11:53:19		Data Transformation Completed
+2023-08-01/11:53:19		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/11:54:29		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/11:54:29		Inserting of data into table started !!!!
+2023-08-01/11:54:31		Inserting data into table completed !!!!
+2023-08-01/11:54:31		Deleteing the good data directory !!!
+2023-08-01/11:54:31		Deleted the good data directory !!!
+2023-08-01/11:54:31		Moving the bad data to the Archive bad directory!!!
+2023-08-01/11:54:31		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/11:54:31		File Validation Operation completed!!!
+2023-08-01/11:54:31		Extracting CSV files from the Database table
+2023-08-01/11:54:33		Expoerting the data from table to csv file Completed succesfully!! File Saved!!
+2023-08-01/12:02:40		Start of Validation on files for prediction!!
+2023-08-01/12:02:44		Raw File Validation completed
+2023-08-01/12:02:44		Starting Data Transformation!!
+2023-08-01/12:02:48		Data Transformation Completed
+2023-08-01/12:02:48		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/12:03:53		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/12:03:53		Inserting of data into table started !!!!
+2023-08-01/12:03:54		Inserting data into table completed !!!!
+2023-08-01/12:03:54		Deleteing the good data directory !!!
+2023-08-01/12:03:55		Deleted the good data directory !!!
+2023-08-01/12:03:55		Moving the bad data to the Archive bad directory!!!
+2023-08-01/12:03:55		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/12:03:55		File Validation Operation completed!!!
+2023-08-01/12:03:55		Extracting CSV files from the Database table
+2023-08-01/12:03:57		Expoerting the data from table to csv file Completed succesfully!! File Saved!!

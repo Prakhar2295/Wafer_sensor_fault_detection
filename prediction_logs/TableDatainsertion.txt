@@ -1,0 +1,11 @@
+2023-08-01/10:28:32		Entered inside the insertintoTableGooddata method inside the db operation class
+2023-08-01/10:38:57		Entered inside the insertintoTableGooddata method inside the db operation class
+2023-08-01/11:11:27		Entered inside the insertintoTableGooddata method inside the db operation class
+2023-08-01/11:36:33		Entered Inside the insertIntoTableGoodData method inside the db operations class 
+2023-08-01/11:36:34		 Inserting into table Good Data completed successfully!!
+2023-08-01/11:46:44		Entered Inside the insertIntoTableGoodData method inside the db operations class 
+2023-08-01/11:46:45		 Inserting into table Good Data completed successfully!!
+2023-08-01/11:54:29		Entered Inside the insertIntoTableGoodData method inside the db operations class 
+2023-08-01/11:54:31		 Inserting into table Good Data completed successfully!!
+2023-08-01/12:03:53		Entered Inside the insertIntoTableGoodData method inside the db operations class 
+2023-08-01/12:03:54		 Inserting into table Good Data completed successfully!!

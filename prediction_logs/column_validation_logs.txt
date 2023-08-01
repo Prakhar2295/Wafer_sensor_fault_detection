@@ -1,0 +1,78 @@
+2023-08-01/00:48:23		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/00:48:23		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/00:48:23		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/00:55:20		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/00:55:20		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/00:55:20		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/01:04:37		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/01:04:37		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/01:04:37		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/01:35:40		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/01:35:40		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/01:35:40		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/01:59:51		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/01:59:52		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/01:59:52		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/02:05:19		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/02:05:19		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/02:05:19		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/03:22:12		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/03:22:12		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/03:22:12		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/03:35:10		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/03:35:11		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/03:35:11		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/03:38:32		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/03:38:33		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/03:38:33		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/03:47:21		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/03:47:22		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/03:47:22		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/03:50:28		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/03:50:28		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/03:50:28		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/03:53:44		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/03:53:44		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/03:53:44		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/04:03:44		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/04:03:44		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/04:03:44		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/04:06:55		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/04:06:55		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/04:06:55		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/04:14:00		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/04:14:00		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/04:14:00		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/04:22:19		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/04:22:19		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/04:22:19		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/10:27:02		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/10:27:02		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/10:27:02		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/10:33:28		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/10:35:11		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/10:35:16		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/11:10:24		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/11:10:24		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/11:10:24		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/11:17:38		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/11:17:38		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/11:17:38		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/11:22:57		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/11:22:57		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/11:22:57		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/11:25:11		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/11:25:12		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/11:25:12		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/11:35:21		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/11:35:21		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/11:35:21		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/11:45:42		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/11:45:42		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/11:45:42		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/11:53:11		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/11:53:11		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/11:53:11		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/12:02:41		Entered the validateColumnLength method of prediction_data_validation
+2023-08-01/12:02:41		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/12:02:41		Exception occurred while validating the columns length not all arguments converted during string formatting

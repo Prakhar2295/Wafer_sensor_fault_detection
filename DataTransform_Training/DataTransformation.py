@@ -47,8 +47,7 @@ class dataTransform:
             for file in onlyfiles:
                 csv = pandas.read_csv(self.goodDataPath + "/" + file)
                 csv.fillna("NULL",inplace = True)
-
-                csv["wafer"] = csv["wafer"].str[6:]
+                csv["Wafer"] = csv["Wafer"].str[6:]
                 csv.to_csv(self.goodDataPath + "/" + file,index = None,header= True)
                 self.logger.log(log_file,"%s: File Transformed succesfully!!" %file)
                 

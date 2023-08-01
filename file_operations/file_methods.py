@@ -54,10 +54,10 @@ class File_operation:
            self.logger_object.log(self.file_object,"Exception occurred while saving the model.Exception message:: %s"%e)
            raise Exception()
        
-    def load_nodel(self,filename):
+    def load_model(self,filename):
 
         """
-             Method Name: load_nodel
+             Method Name: load_model
              Description: This method will load the trained model saved in a pickle file.
              Output: Load the trained model into memory
              On failure: Raises an exception

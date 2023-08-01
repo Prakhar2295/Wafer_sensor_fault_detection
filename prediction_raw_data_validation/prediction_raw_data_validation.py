@@ -89,7 +89,7 @@ class prediction_data_validation:
  
         
         """
-        regex = "[\wafer]+['\_'']+[\d_]+[\d]+\.csv"
+        regex = "['wafer']+['\_'']+[\d_]+[\d]+\.csv"
         return regex
 
     def createdirectoryforGoodBadpredictiondata(self):
@@ -120,7 +120,7 @@ class prediction_data_validation:
             if not os.path.isdir(Bad_data_path):
                 os.makedirs(Bad_data_path)
             file = open("prediction_logs/General_logs.txt",'a+')
-            self.logger.log(file,"Created Directory for good data and bad data:: %s " %Good_data_path ,"Bad Data %s" %Bad_data_path)
+            self.logger.log(file,"Created Directory for good data and bad data:: %s" %Good_data_path)
             file.close()
         except OSError:
             file = open("prediction_logs/General_logs.txt",'a+')
@@ -162,39 +162,39 @@ class prediction_data_validation:
             raise OSError
 
 
-def deletedirectoryforBaddata(self):
-    """
-          Method Name:  deletedirectoryforBaddata
-          Description: This method will be used to delete the bad data directory
-          after moving the data to prediction db for space optimization.
+    def deletedirectoryforBaddata(self):
+        """
+              Method Name:  deletedirectoryforBaddata
+              Description: This method will be used to delete the bad data directory
+              after moving the data to prediction db for space optimization.
 
-          Output:None
-          On Failure: OS Error
+              Output:None
+              On Failure: OS Error
 
-          Written By: JSL
-          Version: 1.0
-          Revisions: None
+              Written By: JSL
+              Version: 1.0
+              Revisions: None
 
-    """
-    file = open("prediction_logs/General_logs.txt", 'a+')
-    self.logger.log(file, "Entered inside deletedirectoryforBaddata method inside prediction_raw_data class")
-    file.close()
-    #Good_data_path = "Raw_prediction_data/Good_data"
-
-    try:
-        Bad_data_path = "Raw_prediction_data/Bad_data"
-        if os.path.isdir(Bad_data_path):
-            shutil.rmtree(Bad_data_path)
-
+        """
         file = open("prediction_logs/General_logs.txt", 'a+')
-        self.logger.log(file, "Deleted bad data directory Successfully!!")
+        self.logger.log(file, "Entered inside deletedirectoryforBaddata method inside prediction_raw_data class")
         file.close()
+        #Good_data_path = "Raw_prediction_data/Good_data"
 
-    except OSError as e:
-        file = open("prediction_logs/General_logs.txt", 'a+')
-        self.logger.log(file, "Error Occurred while deleting the bad data directory.Exception Message::" + str(e))
-        file.close()
-        raise OSError
+        try:
+            Bad_data_path = "Raw_prediction_data/Bad_data"
+            if os.path.isdir(Bad_data_path):
+                shutil.rmtree(Bad_data_path)
+
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(file, "Deleted bad data directory Successfully!!")
+            file.close()
+
+        except OSError as e:
+            file = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(file, "Error Occurred while deleting the bad data directory.Exception Message::" + str(e))
+            file.close()
+            raise OSError
 
     def moveBadDatatoArchivebad(self):
 
@@ -227,17 +227,18 @@ def deletedirectoryforBaddata(self):
             dest_path = "Prediction_Archive_Bad_data/ArchiveBad_" +str(date) + '_' + str(time)
             if not os.path.isdir(dest_path):
                 os.makedirs(dest_path)
-            file = open("prediction_logs/General_logs.txt", 'a+')
+            #f = open("prediction_logs/General_logs.txt", 'a+')
             for file in os.listdir(src_path):
                 if file not in os.listdir(dest_path):
                     shutil.move(src_path + "/" + file,dest_path)
-
-            self.logger.log(file, "Successfully moved the Bad files to Archive bad Directory!!")
-
+            f = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(f, "Successfully moved the Bad files to Archive bad Directory!!")
+            f.close()
             if os.path.isdir(Bad_data_path):
                 shutil.rmtree(Bad_data_path)
-            self.logger.log(file, "Successfully Deleted the Bad data directory!!")
-            file.close()
+            f = open("prediction_logs/General_logs.txt", 'a+')
+            self.logger.log(f, "Successfully Deleted the Bad data directory!!")
+            f.close()
         except OSError as e:
             file = open("prediction_logs/General_logs.txt", 'a+')
             self.logger.log(file, "Error occurred while moving the bad data files to archive bad directory!!.Exception Message:: %s" %e)
@@ -274,8 +275,8 @@ def deletedirectoryforBaddata(self):
             file.close()
             Bad_data_path = "Raw_prediction_data/Bad_data"
             Good_data_path = "Raw_prediction_data/Good_data"
-            for file in os.listdir(self.batch_directory):
-                file_path = self.batch_directory + '/' + file
+            for file in os.listdir(self.Batch_Directory):
+                file_path = self.Batch_Directory + '/' + file
                 if re.match(regex,file):
                     file_name = re.split(".csv",file)
                     file_name = re.split('_',file_name[0])
@@ -362,64 +363,65 @@ def deletedirectoryforBaddata(self):
             self.logger.log(f, "Exception occurred while validating the columns length %s" % e)
             f.close()
 
-        def deletepredictionfile(self):
+    def deletepredictionfile(self):
 
-            if os.path.exists('Prediction_Output_File/Predictions.csv'):
-                os.remove('Prediction_Output_File/Predictions.csv')
+        if os.path.exists('Prediction_Output_File/Predictions.csv'):
+            os.remove('Prediction_Output_File/Predictions.csv')
 
-        def validatemissingvaluesinwholecolumn(self):
-            """
+    def validatemissingvaluesinwholecolumn(self):
+        """
 
-                  Method Name: validatemissingvaluesinwholecolumn
-                  Description: This method will be used to validate the given prediction csv
-                  if there is any column with having missing values throughout the column.
-                  This method will also change the unnamed column name in csv file "wafer".
+              Method Name: validatemissingvaluesinwholecolumn
+              Description: This method will be used to validate the given prediction csv
+              if there is any column with having missing values throughout the column.
+              This method will also change the unnamed column name in csv file "wafer".
 
-                  Output: None
-                  On failure: Exception
+              Output: None
+              On failure: Exception
 
-                  Written By: JSL
-                  Version: 1.0
-                  Revisions: None
+              Written By: JSL
+              Version: 1.0
+              Revisions: None
 
 
-            """
-            Good_data_path = "Raw_prediction_data/Good_data"
-            Bad_data_path = "Raw_prediction_data/Bad_data"
-            try:
-                f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
-                self.logger.log(f, "Entered the validatemissingvaluesinwholecolumn method of prediction_data_validation")
-                for file in os.listdir(Good_data_path):
-                    file_path = Good_data_path + '/' + file
-                    if file.endswith(".csv"):
-                        # file_path = Good_data_path + '/' + file
-                        df = pd.read_csv(file_path)
-                        count = 0
-                        for cols in df:
-                            if (df[cols].count()) == 0:
-                                # print(cols)
-                                count += 1
-                                if file not in os.listdir(Bad_data_path):
-                                    shutil.move(file_path, Bad_data_path)
-                                    self.logger.log(f,"Invalid files moved from good data to bad data %s" %file)
-                                    f.close()
-                                else:
-                                    pass
-                        if count == 0:
-                            df.rename(columns={"Unnamed: 0": "Wafer"}, inplace=True)
-                            df.to_csv(file_path, index=None, header=True)
-                        f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
-                        self.logger.log(f, "Unnamed column name changed successfully")
-                        f.close()
+        """
+        Good_data_path = "Raw_prediction_data/Good_data"
+        Bad_data_path = "Raw_prediction_data/Bad_data"
+        try:
+            f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
+            self.logger.log(f, "Entered the validatemissingvaluesinwholecolumn method of prediction_data_validation")
+            for file in os.listdir(Good_data_path):
+                file_path = Good_data_path + '/' + file
+                if file.endswith(".csv"):
+                    # file_path = Good_data_path + '/' + file
+                    df = pd.read_csv(file_path)
+                    count = 0
+                    for cols in df:
+                        if (df[cols].count()) == 0:
+                            # print(cols)
+                            count += 1
+                            if file not in os.listdir(Bad_data_path):
+                                shutil.move(file_path, Bad_data_path)
+                                f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
+                                self.logger.log(f,"Invalid files moved from good data to bad data %s" %file)
+                                f.close()
+                            else:
+                                pass
+                    if count == 0:
+                        df.rename(columns={"Unnamed: 0": "Wafer"}, inplace=True)
+                        df.to_csv(file_path, index=None, header=True)
+                    f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
+                    self.logger.log(f, "Unnamed column name changed successfully")
+                    f.close()
 
-            except OSError:
-                f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
-                self.logger.log(f, "Error occurred while validating the column length. %s" %OSError)
-                raise OSError
-            except Exception as e:
-                self.logger.log(f, "Exception occurred while validating the column length. %s" % OSError)
-                f.close()
-                raise e
+        except OSError:
+            f = open("prediction_logs/missingvaluesincolumn.txt", 'a+')
+            self.logger.log(f, "Error occurred while validating the column length. %s" %OSError)
+            raise OSError
+        except Exception as e:
+            self.logger.log(f, "Exception occurred while validating the column length. %s" % OSError)
+            f.close()
+            raise e
 
 
 

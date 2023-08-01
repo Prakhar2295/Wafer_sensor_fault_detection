@@ -1,0 +1,441 @@
+2023-07-29/13:49:35		Column length Validation started
+2023-07-29/13:49:35		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw\wafer_16012020_134553.csv' already exists
+2023-07-29/14:02:14		Column length Validation started
+2023-07-29/14:02:14		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/wafer_16012020_134553.csv' already exists
+2023-07-29/14:09:52		Column length Validation started
+2023-07-29/14:09:52		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/wafer_16012020_134553.csv' already exists
+2023-07-29/14:17:19		Column length Validation started
+2023-07-29/14:17:19		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/wafer_16012020_134553.csv' already exists
+2023-07-29/14:51:06		Column length Validation started
+2023-07-29/14:51:06		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/14:52:38		Column length Validation started
+2023-07-29/14:52:38		Error occurred 'str' object has no attribute 'write'
+2023-07-29/14:54:28		Column length Validation started
+2023-07-29/14:54:28		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/14:58:49		Column length Validation started
+2023-07-29/14:58:50		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:15:02		Column length Validation started
+2023-07-29/15:15:02		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:15:09		Column length Validation started
+2023-07-29/15:15:09		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:15:17		Column length Validation started
+2023-07-29/15:15:17		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:15:26		Column length Validation started
+2023-07-29/15:15:26		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:15:53		Column length Validation started
+2023-07-29/15:15:53		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:16:54		Column length Validation started
+2023-07-29/15:16:54		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:19:31		Column length Validation started
+2023-07-29/15:19:31		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:26:16		Column length Validation started
+2023-07-29/15:26:17		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:26:30		Column length Validation started
+2023-07-29/15:26:30		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:26:45		Column length Validation started
+2023-07-29/15:26:45		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:27:30		Column length Validation started
+2023-07-29/15:27:30		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:38:16		Column length Validation started
+2023-07-29/15:38:16		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:42:04		Column length Validation started
+2023-07-29/15:42:04		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:42:26		Column length Validation started
+2023-07-29/15:42:26		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:51:00		Column length Validation started
+2023-07-29/15:51:00		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:52:24		Column length Validation started
+2023-07-29/15:52:24		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:57:28		Column length Validation started
+2023-07-29/15:57:28		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/15:58:15		Column length Validation started
+2023-07-29/15:58:15		Error occurred 'str' object has no attribute 'write'
+2023-07-29/16:00:24		Column length Validation started
+2023-07-29/16:00:24		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/16:00:45		Column length Validation started
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_07012020_000000.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_07012020_223345.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_08012020_120000.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_10012020_131534.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_11012020_151432.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_12012020_111213.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_13012020_141000.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_14012020_113045.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_15012020_130532.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_18012020_121532.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_19012020_141432.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_20012020_135132.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_21012020_143634.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_22012020_173245.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_23012020_163456.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_24012020_150121.csv
+2023-07-29/16:00:45		Invalid valid column Length for the file!! file moved Wafer_25012020_142112.csv
+2023-07-29/16:00:45		Column Length validation completed!!
+2023-07-29/16:00:46		Column length Validation started
+2023-07-29/16:00:46		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/wafer_16012020_134553.csv' already exists
+2023-07-29/16:09:26		Column length Validation started
+2023-07-29/16:09:26		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/16:13:27		Column length Validation started
+2023-07-29/16:13:28		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/16:14:24		Column length Validation started
+2023-07-29/16:14:24		OS error occurred while moving the file:: Destination path 'Training_RAW_files_validated/Bad_Raw/Wafer_07012020_000000.csv' already exists
+2023-07-29/16:19:24		Column Length Validation Started!!
+2023-07-29/16:19:24		Error Occured while moving the file :: <class 'OSError'>
+2023-07-29/16:21:53		Column Length Validation Started!!
+2023-07-29/16:21:53		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/16:22:58		Column Length Validation Started!!
+2023-07-29/16:22:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+2023-07-29/16:22:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+2023-07-29/16:22:58		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+2023-07-29/16:22:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+2023-07-29/16:22:59		Column Length Validation Completed!!
+2023-07-29/16:22:59		Column Length Validation Started!!
+2023-07-29/16:22:59		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/16:23:27		Column Length Validation Started!!
+2023-07-29/16:23:27		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/16:25:45		Column Length Validation Started!!
+2023-07-29/16:25:46		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/16:32:55		Column Length Validation Started!!
+2023-07-29/16:43:42		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/17:02:28		Column Length Validation Started!!
+2023-07-29/17:02:29		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/17:03:24		Column Length Validation Started!!
+2023-07-29/17:52:23		Column Length Validation Started!!
+2023-07-29/17:58:03		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/18:18:11		Column Length Validation Started!!
+2023-07-29/18:18:11		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/18:32:03		Column Length Validation Started!!
+2023-07-29/18:32:04		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/18:32:50		Column Length Validation Started!!
+2023-07-29/18:32:50		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2023-07-29/18:32:50		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2023-07-29/18:32:51		Column Length Validation Completed!!
+2023-07-29/18:37:16		Column Length Validation Started!!
+2023-07-29/18:37:16		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/18:38:42		Column Length Validation Started!!
+2023-07-29/18:38:42		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/18:41:28		Column Length Validation Started!!
+2023-07-29/18:41:29		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/18:42:41		Column Length Validation Started!!
+2023-07-29/18:42:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2023-07-29/18:42:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2023-07-29/18:42:41		Column Length Validation Completed!!
+2023-07-29/18:47:59		Column Length Validation Started!!
+2023-07-29/18:47:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2023-07-29/18:47:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2023-07-29/18:47:59		Column Length Validation Completed!!
+2023-07-29/18:48:49		Column Length Validation Started!!
+2023-07-29/18:48:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2023-07-29/18:48:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2023-07-29/18:48:50		Column Length Validation Completed!!
+2023-07-29/18:51:07		Column Length Validation Started!!
+2023-07-29/18:51:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2023-07-29/18:51:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2023-07-29/18:51:08		Column Length Validation Completed!!
+2023-07-29/21:22:12		Column Length Validation Started!!
+2023-07-29/21:22:12		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/21:26:24		Column Length Validation Started!!
+2023-07-29/21:26:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2023-07-29/21:26:24		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2023-07-29/21:26:25		Column Length Validation Completed!!
+2023-07-29/21:30:14		Column Length Validation Started!!
+2023-07-29/21:30:32		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/21:32:02		Column Length Validation Started!!
+2023-07-29/21:32:03		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/21:33:02		Column Length Validation Started!!
+2023-07-29/21:33:02		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/21:33:44		Column Length Validation Started!!
+2023-07-29/21:33:58		Error Occurred while moving the file :: <class 'OSError'>
+2023-07-29/21:37:28		Column Length Validation Started!!
+2023-07-29/21:37:28		Error Occurred while moving the file :: <class 'OSError'>
+2023-08-01/12:32:16		Column Length Validation Started!!
+2023-08-01/12:32:16		Error Occurred while moving the file :: <class 'OSError'>
+2023-08-01/12:34:55		Column Length Validation Started!!
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2023-08-01/12:34:55		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+2023-08-01/12:34:56		Invalid Column Length for the file!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+2023-08-01/12:34:57		Column Length Validation Completed!!
+2023-08-01/12:56:47		Column Length Validation Started!!
+2023-08-01/12:56:47		Error Occurred while moving the file :: <class 'OSError'>
+2023-08-01/13:09:22		Column Length Validation Started!!
+2023-08-01/13:09:22		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/13:09:22		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/13:30:46		Column Length Validation Started!!
+2023-08-01/13:30:47		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/13:30:47		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/13:38:03		Column Length Validation Started!!
+2023-08-01/13:38:03		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/13:38:03		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/14:05:37		Column Length Validation Started!!
+2023-08-01/14:05:37		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/14:05:37		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/15:14:59		Column Length Validation Started!!
+2023-08-01/15:15:00		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/15:15:00		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/15:21:30		Column Length Validation Started!!
+2023-08-01/15:21:30		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/15:21:30		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/15:23:43		Column Length Validation Started!!
+2023-08-01/15:23:43		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/15:23:43		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/15:27:52		Column Length Validation Started!!
+2023-08-01/15:27:52		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/15:27:52		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/15:49:35		Column Length Validation Started!!
+2023-08-01/15:49:36		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/15:49:36		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/16:04:48		Column Length Validation Started!!
+2023-08-01/16:04:48		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/16:04:48		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/16:31:59		Column Length Validation Started!!
+2023-08-01/16:31:59		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/16:31:59		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/16:42:07		Column Length Validation Started!!
+2023-08-01/16:42:08		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/16:42:08		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/16:54:49		Column Length Validation Started!!
+2023-08-01/16:54:49		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/16:54:49		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/17:00:48		Column Length Validation Started!!
+2023-08-01/17:00:48		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/17:00:48		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/17:03:05		Column Length Validation Started!!
+2023-08-01/17:03:05		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/17:03:05		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/17:16:33		Column Length Validation Started!!
+2023-08-01/17:16:33		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/17:16:33		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/17:18:42		Column Length Validation Started!!
+2023-08-01/17:18:42		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/17:18:42		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:18:57		Column Length Validation Started!!
+2023-08-01/18:18:57		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:18:57		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:20:34		Column Length Validation Started!!
+2023-08-01/18:20:34		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:20:34		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:23:23		Column Length Validation Started!!
+2023-08-01/18:23:23		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:23:23		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:26:31		Column Length Validation Started!!
+2023-08-01/18:26:31		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:26:31		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:32:24		Column Length Validation Started!!
+2023-08-01/18:32:24		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:32:24		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:35:13		Column Length Validation Started!!
+2023-08-01/18:38:01		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:39:38		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:45:45		Column Length Validation Started!!
+2023-08-01/18:47:13		Exception occurred while validating the columns length not all arguments converted during string formatting
+2023-08-01/18:46:15		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:49:14		Column Length Validation Started!!
+2023-08-01/18:49:22		The file names with valid column lengths are :: wafer_07012020_041011.csv
+2023-08-01/18:52:18		Column Length Validation Started!!
+2023-08-01/18:55:29		Column Length Validation Started!!
+2023-08-01/18:58:20		Column Length Validation Started!!
+2023-08-01/19:05:52		Column Length Validation Started!!
+2023-08-01/21:31:23		Column Length Validation Started!!
+2023-08-01/21:31:23		The file names with valid column lengths are ::wafer_07012020_041011.csv
+2023-08-01/21:31:23		The column name has been renamed Successfully
+2023-08-01/21:31:23		The file names with valid column lengths are ::wafer_13012020_090817.csv
+2023-08-01/21:31:23		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_16012020_051629.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with invalid column lengths are::wafer_16012020_134553.csv
+2023-08-01/21:31:24		The file names with invalid column lengths are::wafer_17012020_125434.csv
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_20012020_090819.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_20022020_090716.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_21012020_080913.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_22022020_041119.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_23012020_011008.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_23012020_041211.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_27012020_080911.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_28012020_051011.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_28012020_090817.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_28042020_031911.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_29012020_050617.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_29012020_060756.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:31:24		The file names with valid column lengths are ::wafer_31012020_090811.csv
+2023-08-01/21:31:24		The column name has been renamed Successfully
+2023-08-01/21:47:50		Column Length Validation Started!!
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_07012020_041011.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_13012020_090817.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_16012020_051629.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		Invalid file name successfully moved to Bad data folder are::wafer_16012020_134553.csv
+2023-08-01/21:47:50		Invalid file name successfully moved to Bad data folder are::wafer_17012020_125434.csv
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_20012020_090819.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_20022020_090716.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_21012020_080913.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_22022020_041119.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_23012020_011008.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_23012020_041211.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_27012020_080911.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_28012020_051011.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_28012020_090817.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_28042020_031911.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_29012020_050617.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_29012020_060756.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/21:47:50		The file names with valid column lengths are ::wafer_31012020_090811.csv
+2023-08-01/21:47:50		The column name has been renamed Successfully
+2023-08-01/22:02:45		Column Length Validation Started!!
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_07012020_041011.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_13012020_090817.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_16012020_051629.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		Invalid file name successfully moved to Bad data folder are::wafer_16012020_134553.csv
+2023-08-01/22:02:45		Invalid file name successfully moved to Bad data folder are::wafer_17012020_125434.csv
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_20012020_090819.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_20022020_090716.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_21012020_080913.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_22022020_041119.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_23012020_011008.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_23012020_041211.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_27012020_080911.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_28012020_051011.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_28012020_090817.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_28042020_031911.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_29012020_050617.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:45		The file names with valid column lengths are ::wafer_29012020_060756.csv
+2023-08-01/22:02:45		The column name has been renamed Successfully
+2023-08-01/22:02:46		The file names with valid column lengths are ::wafer_31012020_090811.csv
+2023-08-01/22:02:46		The column name has been renamed Successfully
+2023-08-01/22:06:18		Column Length Validation Started!!
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_07012020_041011.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_13012020_090817.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_16012020_051629.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		Invalid file name successfully moved to Bad data folder are::wafer_16012020_134553.csv
+2023-08-01/22:06:19		Invalid file name successfully moved to Bad data folder are::wafer_17012020_125434.csv
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_20012020_090819.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_20022020_090716.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_21012020_080913.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_22022020_041119.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_23012020_011008.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_23012020_041211.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_27012020_080911.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_28012020_051011.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_28012020_090817.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_28042020_031911.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_29012020_050617.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_29012020_060756.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:06:19		The file names with valid column lengths are ::wafer_31012020_090811.csv
+2023-08-01/22:06:19		The column name has been renamed Successfully
+2023-08-01/22:10:38		Column Length Validation Started!!
+2023-08-01/22:10:38		The file names with valid column lengths are ::wafer_07012020_041011.csv
+2023-08-01/22:10:38		The column name has been renamed Successfully
+2023-08-01/22:10:38		The file names with valid column lengths are ::wafer_13012020_090817.csv
+2023-08-01/22:10:38		The column name has been renamed Successfully
+2023-08-01/22:10:38		The file names with valid column lengths are ::wafer_16012020_051629.csv
+2023-08-01/22:10:38		The column name has been renamed Successfully
+2023-08-01/22:10:38		Invalid file name successfully moved to Bad data folder are::wafer_16012020_134553.csv
+2023-08-01/22:10:38		Invalid file name successfully moved to Bad data folder are::wafer_17012020_125434.csv
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_20012020_090819.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_20022020_090716.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_21012020_080913.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_22022020_041119.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_23012020_011008.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_23012020_041211.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_27012020_080911.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_28012020_051011.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_28012020_090817.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_28042020_031911.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_29012020_050617.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_29012020_060756.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully
+2023-08-01/22:10:39		The file names with valid column lengths are ::wafer_31012020_090811.csv
+2023-08-01/22:10:39		The column name has been renamed Successfully

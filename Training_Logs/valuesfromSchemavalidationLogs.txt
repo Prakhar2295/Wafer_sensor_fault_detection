@@ -4,3 +4,217 @@
 
 2023-07-28/00:04:39		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
 
+2023-07-29/09:15:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/09:31:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/09:31:44		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/09:31:44		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/09:35:16		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/09:35:16		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/09:49:14		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/09:49:14		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/10:31:23		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/10:31:23		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/10:36:28		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/10:36:28		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/12:17:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/12:17:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/12:48:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/12:48:12		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:03:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:03:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:07:54		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:07:54		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:08:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:08:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:20:18		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:20:19		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:21:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:21:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:24:05		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:31:41		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:38:56		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:41:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/13:49:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/14:02:14		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/14:09:52		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/14:17:18		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/16:00:46		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/16:22:59		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/16:24:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/16:25:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/16:29:46		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/17:02:27		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/17:03:12		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/17:29:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/17:59:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:00:06		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:01:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:02:29		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:03:15		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:16:10		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:18:10		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:32:02		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:32:50		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:37:16		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:38:42		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:41:28		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:42:40		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:47:59		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:48:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/18:51:07		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:22:12		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:26:24		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:29:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:31:55		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:33:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:33:22		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:37:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:37:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/21:41:07		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/22:01:57		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-07-29/22:04:30		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/12:32:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/12:34:53		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/12:56:45		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/13:09:18		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/13:30:43		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/13:38:01		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/14:05:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/15:14:59		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/15:21:29		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/15:23:43		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/15:27:51		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/15:49:35		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/16:04:46		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/16:31:56		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/16:42:07		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/16:54:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/17:00:48		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/17:02:29		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/17:16:32		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/17:18:40		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:17:11		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:18:56		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:20:34		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:23:22		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:26:31		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:32:23		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:34:26		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:45:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:49:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:52:10		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:55:29		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/18:58:20		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/19:05:51		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/21:31:21		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/21:47:49		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/22:02:43		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/22:06:18		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+
+2023-08-01/22:10:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	NumberofColumns:: 592	Filename:: wafer_08012020_120000.csv
+

@@ -1,0 +1,906 @@
+2023-07-29/16:24:25		Missing values validation started!!
+2023-07-29/16:24:25		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/16:24:25		Error occurred <class 'OSError'>
+2023-07-29/18:32:51		Missing values validation started!!
+2023-07-29/18:32:51		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/18:32:51		Error occurred <class 'OSError'>
+2023-07-29/18:42:41		Missing values validation started!!
+2023-07-29/18:42:41		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/18:42:41		Error occurred <class 'OSError'>
+2023-07-29/18:47:59		Missing values validation started!!
+2023-07-29/18:47:59		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/18:47:59		Error occurred <class 'OSError'>
+2023-07-29/18:48:50		Missing values validation started!!
+2023-07-29/18:48:50		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/18:48:50		Error occurred <class 'OSError'>
+2023-07-29/18:51:08		Missing values validation started!!
+2023-07-29/18:51:08		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/18:51:08		Error occurred <class 'OSError'>
+2023-07-29/21:26:25		Missing values validation started!!
+2023-07-29/21:26:25		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/21:26:25		Error occurred <class 'OSError'>
+2023-07-29/22:01:58		Missing values validation started!!
+2023-07-29/22:02:03		Error occurred <class 'OSError'>
+2023-07-29/22:04:31		Missing values validation started!!
+2023-07-29/22:04:37		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-07-29/22:04:37		Error occurred <class 'OSError'>
+2023-08-01/12:34:57		Missing values validation started!!
+2023-08-01/12:35:04		Invalid file!! File move Bad Raw Data folder:: wafer_07012020_041011.csv
+2023-08-01/12:35:04		Error occurred <class 'OSError'>
+2023-08-01/13:09:22		Missing values validation started!!
+2023-08-01/13:09:22		Unnamed column name changed successfully
+2023-08-01/13:09:22		Unnamed column name changed successfully
+2023-08-01/13:09:23		Unnamed column name changed successfully
+2023-08-01/13:09:23		Unnamed column name changed successfully
+2023-08-01/13:09:23		Unnamed column name changed successfully
+2023-08-01/13:09:23		Unnamed column name changed successfully
+2023-08-01/13:09:23		Unnamed column name changed successfully
+2023-08-01/13:09:24		Unnamed column name changed successfully
+2023-08-01/13:09:24		Unnamed column name changed successfully
+2023-08-01/13:09:24		Unnamed column name changed successfully
+2023-08-01/13:09:24		Unnamed column name changed successfully
+2023-08-01/13:09:24		Unnamed column name changed successfully
+2023-08-01/13:09:24		Unnamed column name changed successfully
+2023-08-01/13:09:24		Unnamed column name changed successfully
+2023-08-01/13:09:25		Unnamed column name changed successfully
+2023-08-01/13:09:25		Unnamed column name changed successfully
+2023-08-01/13:09:25		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/13:09:25		Unnamed column name changed successfully
+2023-08-01/13:09:25		Unnamed column name changed successfully
+2023-08-01/13:09:25		Unnamed column name changed successfully
+2023-08-01/13:09:26		Unnamed column name changed successfully
+2023-08-01/13:09:26		Unnamed column name changed successfully
+2023-08-01/13:09:26		Unnamed column name changed successfully
+2023-08-01/13:09:26		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/13:09:26		Unnamed column name changed successfully
+2023-08-01/13:09:26		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/13:09:26		Unnamed column name changed successfully
+2023-08-01/13:09:26		Unnamed column name changed successfully
+2023-08-01/13:09:26		Unnamed column name changed successfully
+2023-08-01/13:09:27		Unnamed column name changed successfully
+2023-08-01/13:09:27		Unnamed column name changed successfully
+2023-08-01/13:09:27		Unnamed column name changed successfully
+2023-08-01/13:09:27		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/13:09:27		Unnamed column name changed successfully
+2023-08-01/13:09:27		Unnamed column name changed successfully
+2023-08-01/13:09:27		Unnamed column name changed successfully
+2023-08-01/13:09:28		Unnamed column name changed successfully
+2023-08-01/13:09:28		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/13:09:28		Unnamed column name changed successfully
+2023-08-01/13:09:28		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/13:09:28		Unnamed column name changed successfully
+2023-08-01/13:30:47		Missing values validation started!!
+2023-08-01/13:30:47		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/13:30:47		Unnamed column name changed successfully
+2023-08-01/13:30:47		Unnamed column name changed successfully
+2023-08-01/13:30:47		Unnamed column name changed successfully
+2023-08-01/13:30:48		Unnamed column name changed successfully
+2023-08-01/13:30:48		Invalid files moved from good data to bad data Wafer_11012020_151432.csv
+2023-08-01/13:30:48		Unnamed column name changed successfully
+2023-08-01/13:30:48		Invalid files moved from good data to bad data Wafer_12012020_111.csv
+2023-08-01/13:30:48		Unnamed column name changed successfully
+2023-08-01/13:30:48		Invalid files moved from good data to bad data Wafer_12012020_111213.csv
+2023-08-01/13:30:48		Unnamed column name changed successfully
+2023-08-01/13:30:48		Unnamed column name changed successfully
+2023-08-01/13:30:48		Invalid files moved from good data to bad data Wafer_13012020_141000.csv
+2023-08-01/13:30:48		Unnamed column name changed successfully
+2023-08-01/13:30:48		Invalid files moved from good data to bad data Wafer_14012020_113045.csv
+2023-08-01/13:30:49		Unnamed column name changed successfully
+2023-08-01/13:30:49		Invalid files moved from good data to bad data Wafer_15012020_130532.csv
+2023-08-01/13:30:49		Unnamed column name changed successfully
+2023-08-01/13:30:49		Unnamed column name changed successfully
+2023-08-01/13:30:49		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/13:30:49		Unnamed column name changed successfully
+2023-08-01/13:30:49		Unnamed column name changed successfully
+2023-08-01/13:30:49		Unnamed column name changed successfully
+2023-08-01/13:30:49		Unnamed column name changed successfully
+2023-08-01/13:30:50		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/13:30:50		Unnamed column name changed successfully
+2023-08-01/13:30:50		Invalid files moved from good data to bad data Wafer_20012020_135132.csv
+2023-08-01/13:30:50		Unnamed column name changed successfully
+2023-08-01/13:30:50		Unnamed column name changed successfully
+2023-08-01/13:30:50		Unnamed column name changed successfully
+2023-08-01/13:30:50		Unnamed column name changed successfully
+2023-08-01/13:30:50		Unnamed column name changed successfully
+2023-08-01/13:30:50		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/13:30:50		Unnamed column name changed successfully
+2023-08-01/13:30:51		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/13:30:51		Unnamed column name changed successfully
+2023-08-01/13:30:51		Unnamed column name changed successfully
+2023-08-01/13:30:51		Unnamed column name changed successfully
+2023-08-01/13:30:51		Invalid files moved from good data to bad data Wafer_24012020_150121.csv
+2023-08-01/13:30:51		Unnamed column name changed successfully
+2023-08-01/13:30:51		Invalid files moved from good data to bad data Wafer_25012020_142112.csv
+2023-08-01/13:30:51		Unnamed column name changed successfully
+2023-08-01/13:30:52		Unnamed column name changed successfully
+2023-08-01/13:30:52		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/13:30:52		Unnamed column name changed successfully
+2023-08-01/13:30:52		Unnamed column name changed successfully
+2023-08-01/13:30:52		Unnamed column name changed successfully
+2023-08-01/13:30:52		Unnamed column name changed successfully
+2023-08-01/13:30:52		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/13:30:52		Unnamed column name changed successfully
+2023-08-01/13:30:52		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/13:30:53		Unnamed column name changed successfully
+2023-08-01/13:38:03		Missing values validation started!!
+2023-08-01/13:38:04		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/13:38:04		Unnamed column name changed successfully
+2023-08-01/13:38:04		Unnamed column name changed successfully
+2023-08-01/13:38:04		Unnamed column name changed successfully
+2023-08-01/13:38:04		Unnamed column name changed successfully
+2023-08-01/13:38:04		Invalid files moved from good data to bad data Wafer_11012020_151432.csv
+2023-08-01/13:38:04		Unnamed column name changed successfully
+2023-08-01/13:38:04		Invalid files moved from good data to bad data Wafer_12012020_111.csv
+2023-08-01/13:38:04		Unnamed column name changed successfully
+2023-08-01/13:38:04		Invalid files moved from good data to bad data Wafer_12012020_111213.csv
+2023-08-01/13:38:05		Unnamed column name changed successfully
+2023-08-01/13:38:05		Unnamed column name changed successfully
+2023-08-01/13:38:05		Invalid files moved from good data to bad data Wafer_13012020_141000.csv
+2023-08-01/13:38:05		Unnamed column name changed successfully
+2023-08-01/13:38:05		Invalid files moved from good data to bad data Wafer_14012020_113045.csv
+2023-08-01/13:38:05		Unnamed column name changed successfully
+2023-08-01/13:38:05		Invalid files moved from good data to bad data Wafer_15012020_130532.csv
+2023-08-01/13:38:05		Unnamed column name changed successfully
+2023-08-01/13:38:05		Unnamed column name changed successfully
+2023-08-01/13:38:05		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/13:38:05		Unnamed column name changed successfully
+2023-08-01/13:38:06		Unnamed column name changed successfully
+2023-08-01/13:38:06		Unnamed column name changed successfully
+2023-08-01/13:38:06		Unnamed column name changed successfully
+2023-08-01/13:38:06		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/13:38:06		Unnamed column name changed successfully
+2023-08-01/13:38:06		Invalid files moved from good data to bad data Wafer_20012020_135132.csv
+2023-08-01/13:38:06		Unnamed column name changed successfully
+2023-08-01/13:38:06		Unnamed column name changed successfully
+2023-08-01/13:38:06		Unnamed column name changed successfully
+2023-08-01/13:38:07		Unnamed column name changed successfully
+2023-08-01/13:38:07		Unnamed column name changed successfully
+2023-08-01/13:38:07		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/13:38:07		Unnamed column name changed successfully
+2023-08-01/13:38:07		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/13:38:07		Unnamed column name changed successfully
+2023-08-01/13:38:07		Unnamed column name changed successfully
+2023-08-01/13:38:07		Unnamed column name changed successfully
+2023-08-01/13:38:07		Invalid files moved from good data to bad data Wafer_24012020_150121.csv
+2023-08-01/13:38:07		Unnamed column name changed successfully
+2023-08-01/13:38:07		Invalid files moved from good data to bad data Wafer_25012020_142112.csv
+2023-08-01/13:38:08		Unnamed column name changed successfully
+2023-08-01/13:38:08		Unnamed column name changed successfully
+2023-08-01/13:38:08		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/13:38:08		Unnamed column name changed successfully
+2023-08-01/13:38:08		Unnamed column name changed successfully
+2023-08-01/13:38:08		Unnamed column name changed successfully
+2023-08-01/13:38:08		Unnamed column name changed successfully
+2023-08-01/13:38:08		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/13:38:08		Unnamed column name changed successfully
+2023-08-01/13:38:09		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/13:38:09		Unnamed column name changed successfully
+2023-08-01/14:05:37		Missing values validation started!!
+2023-08-01/14:05:37		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/14:05:37		Unnamed column name changed successfully
+2023-08-01/14:05:37		Unnamed column name changed successfully
+2023-08-01/14:05:37		Unnamed column name changed successfully
+2023-08-01/14:05:38		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/14:05:38		Unnamed column name changed successfully
+2023-08-01/14:05:38		Unnamed column name changed successfully
+2023-08-01/14:05:38		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/14:05:38		Unnamed column name changed successfully
+2023-08-01/14:05:38		Unnamed column name changed successfully
+2023-08-01/14:05:38		Unnamed column name changed successfully
+2023-08-01/14:05:38		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/14:05:38		Unnamed column name changed successfully
+2023-08-01/14:05:38		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/14:05:39		Unnamed column name changed successfully
+2023-08-01/14:05:39		Unnamed column name changed successfully
+2023-08-01/14:05:39		Unnamed column name changed successfully
+2023-08-01/14:05:39		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/14:05:39		Unnamed column name changed successfully
+2023-08-01/14:05:39		Unnamed column name changed successfully
+2023-08-01/14:05:40		Unnamed column name changed successfully
+2023-08-01/14:05:40		Unnamed column name changed successfully
+2023-08-01/14:05:40		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/14:05:40		Unnamed column name changed successfully
+2023-08-01/14:05:40		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/14:05:40		Unnamed column name changed successfully
+2023-08-01/15:15:00		Missing values validation started!!
+2023-08-01/15:15:00		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:00		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:00		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:00		Unnamed column name changed successfully
+2023-08-01/15:15:01		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/15:15:01		Unnamed column name changed successfully
+2023-08-01/15:15:01		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/15:15:02		Unnamed column name changed successfully
+2023-08-01/15:21:30		Missing values validation started!!
+2023-08-01/15:21:30		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:30		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:30		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:30		Unnamed column name changed successfully
+2023-08-01/15:21:31		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:31		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/15:21:31		Unnamed column name changed successfully
+2023-08-01/15:21:32		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/15:21:32		Unnamed column name changed successfully
+2023-08-01/15:23:43		Missing values validation started!!
+2023-08-01/15:23:43		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/15:23:44		Unnamed column name changed successfully
+2023-08-01/15:23:44		Unnamed column name changed successfully
+2023-08-01/15:23:44		Unnamed column name changed successfully
+2023-08-01/15:23:44		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/15:23:44		Unnamed column name changed successfully
+2023-08-01/15:23:44		Unnamed column name changed successfully
+2023-08-01/15:23:44		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/15:23:44		Unnamed column name changed successfully
+2023-08-01/15:23:44		Unnamed column name changed successfully
+2023-08-01/15:23:45		Unnamed column name changed successfully
+2023-08-01/15:23:45		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/15:23:45		Unnamed column name changed successfully
+2023-08-01/15:23:45		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/15:23:45		Unnamed column name changed successfully
+2023-08-01/15:23:45		Unnamed column name changed successfully
+2023-08-01/15:23:45		Unnamed column name changed successfully
+2023-08-01/15:23:45		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/15:23:45		Unnamed column name changed successfully
+2023-08-01/15:23:45		Unnamed column name changed successfully
+2023-08-01/15:23:46		Unnamed column name changed successfully
+2023-08-01/15:23:46		Unnamed column name changed successfully
+2023-08-01/15:23:46		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/15:23:46		Unnamed column name changed successfully
+2023-08-01/15:23:46		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/15:23:46		Unnamed column name changed successfully
+2023-08-01/15:27:52		Missing values validation started!!
+2023-08-01/15:27:52		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/15:27:52		Unnamed column name changed successfully
+2023-08-01/15:27:52		Unnamed column name changed successfully
+2023-08-01/15:27:52		Unnamed column name changed successfully
+2023-08-01/15:27:52		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/15:27:52		Unnamed column name changed successfully
+2023-08-01/15:27:53		Unnamed column name changed successfully
+2023-08-01/15:27:53		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/15:27:53		Unnamed column name changed successfully
+2023-08-01/15:27:53		Unnamed column name changed successfully
+2023-08-01/15:27:53		Unnamed column name changed successfully
+2023-08-01/15:27:53		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/15:27:53		Unnamed column name changed successfully
+2023-08-01/15:27:54		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/15:27:54		Unnamed column name changed successfully
+2023-08-01/15:27:54		Unnamed column name changed successfully
+2023-08-01/15:27:54		Unnamed column name changed successfully
+2023-08-01/15:27:54		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/15:27:54		Unnamed column name changed successfully
+2023-08-01/15:27:54		Unnamed column name changed successfully
+2023-08-01/15:27:55		Unnamed column name changed successfully
+2023-08-01/15:27:55		Unnamed column name changed successfully
+2023-08-01/15:27:55		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/15:27:55		Unnamed column name changed successfully
+2023-08-01/15:27:55		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/15:27:55		Unnamed column name changed successfully
+2023-08-01/15:49:36		Missing values validation started!!
+2023-08-01/15:49:36		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/15:49:36		Unnamed column name changed successfully
+2023-08-01/15:49:36		Unnamed column name changed successfully
+2023-08-01/15:49:36		Unnamed column name changed successfully
+2023-08-01/15:49:36		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/15:49:36		Unnamed column name changed successfully
+2023-08-01/15:49:36		Unnamed column name changed successfully
+2023-08-01/15:49:37		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:37		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:37		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:37		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/15:49:37		Unnamed column name changed successfully
+2023-08-01/15:49:38		Unnamed column name changed successfully
+2023-08-01/15:49:38		Unnamed column name changed successfully
+2023-08-01/15:49:38		Unnamed column name changed successfully
+2023-08-01/15:49:38		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/15:49:38		Unnamed column name changed successfully
+2023-08-01/15:49:38		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/15:49:38		Unnamed column name changed successfully
+2023-08-01/16:04:48		Missing values validation started!!
+2023-08-01/16:04:48		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/16:04:48		Unnamed column name changed successfully
+2023-08-01/16:04:48		Unnamed column name changed successfully
+2023-08-01/16:04:48		Unnamed column name changed successfully
+2023-08-01/16:04:48		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/16:04:48		Unnamed column name changed successfully
+2023-08-01/16:04:49		Unnamed column name changed successfully
+2023-08-01/16:04:49		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/16:04:49		Unnamed column name changed successfully
+2023-08-01/16:04:49		Unnamed column name changed successfully
+2023-08-01/16:04:49		Unnamed column name changed successfully
+2023-08-01/16:04:49		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/16:04:49		Unnamed column name changed successfully
+2023-08-01/16:04:49		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/16:04:49		Unnamed column name changed successfully
+2023-08-01/16:04:50		Unnamed column name changed successfully
+2023-08-01/16:04:50		Unnamed column name changed successfully
+2023-08-01/16:04:50		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/16:04:50		Unnamed column name changed successfully
+2023-08-01/16:04:50		Unnamed column name changed successfully
+2023-08-01/16:04:50		Unnamed column name changed successfully
+2023-08-01/16:04:51		Unnamed column name changed successfully
+2023-08-01/16:04:51		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/16:04:51		Unnamed column name changed successfully
+2023-08-01/16:04:51		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/16:04:51		Unnamed column name changed successfully
+2023-08-01/16:31:59		Missing values validation started!!
+2023-08-01/16:31:59		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/16:31:59		Unnamed column name changed successfully
+2023-08-01/16:31:59		Unnamed column name changed successfully
+2023-08-01/16:31:59		Unnamed column name changed successfully
+2023-08-01/16:31:59		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/16:31:59		Unnamed column name changed successfully
+2023-08-01/16:31:59		Unnamed column name changed successfully
+2023-08-01/16:32:00		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:00		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:00		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:00		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/16:32:00		Unnamed column name changed successfully
+2023-08-01/16:32:01		Unnamed column name changed successfully
+2023-08-01/16:32:01		Unnamed column name changed successfully
+2023-08-01/16:32:01		Unnamed column name changed successfully
+2023-08-01/16:32:01		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/16:32:01		Unnamed column name changed successfully
+2023-08-01/16:32:01		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/16:32:01		Unnamed column name changed successfully
+2023-08-01/16:42:08		Missing values validation started!!
+2023-08-01/16:42:08		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/16:42:08		Unnamed column name changed successfully
+2023-08-01/16:42:08		Unnamed column name changed successfully
+2023-08-01/16:42:08		Unnamed column name changed successfully
+2023-08-01/16:42:08		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/16:42:08		Unnamed column name changed successfully
+2023-08-01/16:42:08		Unnamed column name changed successfully
+2023-08-01/16:42:08		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/16:42:08		Unnamed column name changed successfully
+2023-08-01/16:42:09		Unnamed column name changed successfully
+2023-08-01/16:42:09		Unnamed column name changed successfully
+2023-08-01/16:42:09		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/16:42:09		Unnamed column name changed successfully
+2023-08-01/16:42:09		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/16:42:09		Unnamed column name changed successfully
+2023-08-01/16:42:09		Unnamed column name changed successfully
+2023-08-01/16:42:09		Unnamed column name changed successfully
+2023-08-01/16:42:09		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/16:42:09		Unnamed column name changed successfully
+2023-08-01/16:42:10		Unnamed column name changed successfully
+2023-08-01/16:42:10		Unnamed column name changed successfully
+2023-08-01/16:42:10		Unnamed column name changed successfully
+2023-08-01/16:42:10		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/16:42:10		Unnamed column name changed successfully
+2023-08-01/16:42:10		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/16:42:10		Unnamed column name changed successfully
+2023-08-01/16:54:49		Missing values validation started!!
+2023-08-01/16:54:49		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/16:54:49		Unnamed column name changed successfully
+2023-08-01/16:54:49		Unnamed column name changed successfully
+2023-08-01/16:54:49		Unnamed column name changed successfully
+2023-08-01/16:54:50		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:50		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:50		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:50		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:50		Unnamed column name changed successfully
+2023-08-01/16:54:51		Unnamed column name changed successfully
+2023-08-01/16:54:51		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/16:54:51		Unnamed column name changed successfully
+2023-08-01/16:54:51		Unnamed column name changed successfully
+2023-08-01/16:54:51		Unnamed column name changed successfully
+2023-08-01/16:54:51		Unnamed column name changed successfully
+2023-08-01/16:54:51		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/16:54:51		Unnamed column name changed successfully
+2023-08-01/16:54:51		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/16:54:52		Unnamed column name changed successfully
+2023-08-01/17:00:48		Missing values validation started!!
+2023-08-01/17:00:48		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/17:00:48		Unnamed column name changed successfully
+2023-08-01/17:00:48		Unnamed column name changed successfully
+2023-08-01/17:00:48		Unnamed column name changed successfully
+2023-08-01/17:00:48		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/17:00:48		Unnamed column name changed successfully
+2023-08-01/17:00:48		Unnamed column name changed successfully
+2023-08-01/17:00:48		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:49		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:49		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:49		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/17:00:49		Unnamed column name changed successfully
+2023-08-01/17:00:50		Unnamed column name changed successfully
+2023-08-01/17:00:50		Unnamed column name changed successfully
+2023-08-01/17:00:50		Unnamed column name changed successfully
+2023-08-01/17:00:50		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/17:00:50		Unnamed column name changed successfully
+2023-08-01/17:00:50		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/17:00:50		Unnamed column name changed successfully
+2023-08-01/17:03:28		Missing values validation started!!
+2023-08-01/17:03:28		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/17:03:29		Unnamed column name changed successfully
+2023-08-01/17:03:29		Unnamed column name changed successfully
+2023-08-01/17:03:29		Unnamed column name changed successfully
+2023-08-01/17:03:29		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/17:03:29		Unnamed column name changed successfully
+2023-08-01/17:03:30		Unnamed column name changed successfully
+2023-08-01/17:03:30		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/17:03:30		Unnamed column name changed successfully
+2023-08-01/17:03:30		Unnamed column name changed successfully
+2023-08-01/17:03:30		Unnamed column name changed successfully
+2023-08-01/17:03:31		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/17:03:31		Unnamed column name changed successfully
+2023-08-01/17:03:31		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/17:03:31		Unnamed column name changed successfully
+2023-08-01/17:03:31		Unnamed column name changed successfully
+2023-08-01/17:03:31		Unnamed column name changed successfully
+2023-08-01/17:03:31		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/17:03:32		Unnamed column name changed successfully
+2023-08-01/17:03:32		Unnamed column name changed successfully
+2023-08-01/17:03:32		Unnamed column name changed successfully
+2023-08-01/17:03:32		Unnamed column name changed successfully
+2023-08-01/17:03:33		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/17:03:33		Unnamed column name changed successfully
+2023-08-01/17:03:33		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/17:03:33		Unnamed column name changed successfully
+2023-08-01/17:16:33		Missing values validation started!!
+2023-08-01/17:16:33		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/17:16:33		Unnamed column name changed successfully
+2023-08-01/17:16:34		Unnamed column name changed successfully
+2023-08-01/17:16:34		Unnamed column name changed successfully
+2023-08-01/17:16:34		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/17:16:35		Unnamed column name changed successfully
+2023-08-01/17:16:35		Unnamed column name changed successfully
+2023-08-01/17:16:35		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/17:16:35		Unnamed column name changed successfully
+2023-08-01/17:16:35		Unnamed column name changed successfully
+2023-08-01/17:16:36		Unnamed column name changed successfully
+2023-08-01/17:16:36		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/17:16:36		Unnamed column name changed successfully
+2023-08-01/17:16:36		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/17:16:36		Unnamed column name changed successfully
+2023-08-01/17:16:36		Unnamed column name changed successfully
+2023-08-01/17:16:37		Unnamed column name changed successfully
+2023-08-01/17:16:37		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/17:16:37		Unnamed column name changed successfully
+2023-08-01/17:16:37		Unnamed column name changed successfully
+2023-08-01/17:16:37		Unnamed column name changed successfully
+2023-08-01/17:16:38		Unnamed column name changed successfully
+2023-08-01/17:16:38		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/17:16:38		Unnamed column name changed successfully
+2023-08-01/17:16:38		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/17:16:38		Unnamed column name changed successfully
+2023-08-01/17:18:42		Missing values validation started!!
+2023-08-01/17:18:42		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/17:18:42		Unnamed column name changed successfully
+2023-08-01/17:18:42		Unnamed column name changed successfully
+2023-08-01/17:18:42		Unnamed column name changed successfully
+2023-08-01/17:18:42		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/17:18:42		Unnamed column name changed successfully
+2023-08-01/17:18:43		Unnamed column name changed successfully
+2023-08-01/17:18:43		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/17:18:43		Unnamed column name changed successfully
+2023-08-01/17:18:43		Unnamed column name changed successfully
+2023-08-01/17:18:43		Unnamed column name changed successfully
+2023-08-01/17:18:43		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/17:18:43		Unnamed column name changed successfully
+2023-08-01/17:18:43		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/17:18:43		Unnamed column name changed successfully
+2023-08-01/17:18:43		Unnamed column name changed successfully
+2023-08-01/17:18:44		Unnamed column name changed successfully
+2023-08-01/17:18:44		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/17:18:44		Unnamed column name changed successfully
+2023-08-01/17:18:44		Unnamed column name changed successfully
+2023-08-01/17:18:44		Unnamed column name changed successfully
+2023-08-01/17:18:44		Unnamed column name changed successfully
+2023-08-01/17:18:44		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/17:18:44		Unnamed column name changed successfully
+2023-08-01/17:18:44		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/17:18:44		Unnamed column name changed successfully
+2023-08-01/18:18:57		Missing values validation started!!
+2023-08-01/18:18:57		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:18:57		Unnamed column name changed successfully
+2023-08-01/18:18:57		Unnamed column name changed successfully
+2023-08-01/18:18:57		Unnamed column name changed successfully
+2023-08-01/18:18:57		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/18:18:57		Unnamed column name changed successfully
+2023-08-01/18:18:57		Unnamed column name changed successfully
+2023-08-01/18:18:58		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:58		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:58		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:58		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:18:58		Unnamed column name changed successfully
+2023-08-01/18:18:59		Unnamed column name changed successfully
+2023-08-01/18:18:59		Unnamed column name changed successfully
+2023-08-01/18:18:59		Unnamed column name changed successfully
+2023-08-01/18:18:59		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:18:59		Unnamed column name changed successfully
+2023-08-01/18:18:59		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:18:59		Unnamed column name changed successfully
+2023-08-01/18:20:34		Missing values validation started!!
+2023-08-01/18:20:34		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:20:34		Unnamed column name changed successfully
+2023-08-01/18:20:34		Unnamed column name changed successfully
+2023-08-01/18:20:34		Unnamed column name changed successfully
+2023-08-01/18:20:34		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/18:20:34		Unnamed column name changed successfully
+2023-08-01/18:20:34		Unnamed column name changed successfully
+2023-08-01/18:20:34		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:20:34		Unnamed column name changed successfully
+2023-08-01/18:20:34		Unnamed column name changed successfully
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:35		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:35		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:35		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:35		Unnamed column name changed successfully
+2023-08-01/18:20:36		Unnamed column name changed successfully
+2023-08-01/18:20:36		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:20:36		Unnamed column name changed successfully
+2023-08-01/18:20:36		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:20:36		Unnamed column name changed successfully
+2023-08-01/18:23:23		Missing values validation started!!
+2023-08-01/18:23:23		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:23:23		Unnamed column name changed successfully
+2023-08-01/18:23:23		Unnamed column name changed successfully
+2023-08-01/18:23:23		Unnamed column name changed successfully
+2023-08-01/18:23:23		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/18:23:23		Unnamed column name changed successfully
+2023-08-01/18:23:23		Unnamed column name changed successfully
+2023-08-01/18:23:24		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:23:24		Unnamed column name changed successfully
+2023-08-01/18:23:24		Unnamed column name changed successfully
+2023-08-01/18:23:24		Unnamed column name changed successfully
+2023-08-01/18:23:24		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:23:24		Unnamed column name changed successfully
+2023-08-01/18:23:24		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:23:24		Unnamed column name changed successfully
+2023-08-01/18:23:24		Unnamed column name changed successfully
+2023-08-01/18:23:24		Unnamed column name changed successfully
+2023-08-01/18:23:24		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:23:25		Unnamed column name changed successfully
+2023-08-01/18:23:25		Unnamed column name changed successfully
+2023-08-01/18:23:25		Unnamed column name changed successfully
+2023-08-01/18:23:25		Unnamed column name changed successfully
+2023-08-01/18:23:25		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:23:25		Unnamed column name changed successfully
+2023-08-01/18:23:25		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:23:25		Unnamed column name changed successfully
+2023-08-01/18:26:31		Missing values validation started!!
+2023-08-01/18:26:32		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:32		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:32		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:32		Unnamed column name changed successfully
+2023-08-01/18:26:33		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:26:33		Unnamed column name changed successfully
+2023-08-01/18:26:33		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:26:33		Unnamed column name changed successfully
+2023-08-01/18:26:33		Unnamed column name changed successfully
+2023-08-01/18:26:33		Unnamed column name changed successfully
+2023-08-01/18:26:33		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:26:33		Unnamed column name changed successfully
+2023-08-01/18:26:33		Unnamed column name changed successfully
+2023-08-01/18:26:33		Unnamed column name changed successfully
+2023-08-01/18:26:34		Unnamed column name changed successfully
+2023-08-01/18:26:34		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:26:34		Unnamed column name changed successfully
+2023-08-01/18:26:34		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:26:34		Unnamed column name changed successfully
+2023-08-01/18:32:24		Missing values validation started!!
+2023-08-01/18:32:24		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:32:24		Unnamed column name changed successfully
+2023-08-01/18:32:24		Unnamed column name changed successfully
+2023-08-01/18:32:24		Unnamed column name changed successfully
+2023-08-01/18:32:24		Invalid files moved from good data to bad data wafer_16012020_134553.csv
+2023-08-01/18:32:24		Unnamed column name changed successfully
+2023-08-01/18:32:25		Unnamed column name changed successfully
+2023-08-01/18:32:25		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:32:25		Unnamed column name changed successfully
+2023-08-01/18:32:25		Unnamed column name changed successfully
+2023-08-01/18:32:25		Unnamed column name changed successfully
+2023-08-01/18:32:25		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:32:25		Unnamed column name changed successfully
+2023-08-01/18:32:25		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:32:25		Unnamed column name changed successfully
+2023-08-01/18:32:25		Unnamed column name changed successfully
+2023-08-01/18:32:26		Unnamed column name changed successfully
+2023-08-01/18:32:26		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:32:26		Unnamed column name changed successfully
+2023-08-01/18:32:26		Unnamed column name changed successfully
+2023-08-01/18:32:26		Unnamed column name changed successfully
+2023-08-01/18:32:26		Unnamed column name changed successfully
+2023-08-01/18:32:26		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:32:26		Unnamed column name changed successfully
+2023-08-01/18:32:26		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:32:26		Unnamed column name changed successfully
+2023-08-01/18:54:15		Missing values validation started!!
+2023-08-01/18:54:15		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:54:15		Unnamed column name changed successfully
+2023-08-01/18:54:15		Unnamed column name changed successfully
+2023-08-01/18:54:16		Unnamed column name changed successfully
+2023-08-01/18:54:16		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:54:16		Unnamed column name changed successfully
+2023-08-01/18:54:16		Unnamed column name changed successfully
+2023-08-01/18:54:16		Unnamed column name changed successfully
+2023-08-01/18:54:16		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:54:17		Unnamed column name changed successfully
+2023-08-01/18:54:17		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:54:17		Unnamed column name changed successfully
+2023-08-01/18:54:17		Unnamed column name changed successfully
+2023-08-01/18:54:17		Unnamed column name changed successfully
+2023-08-01/18:54:17		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:54:17		Unnamed column name changed successfully
+2023-08-01/18:54:18		Unnamed column name changed successfully
+2023-08-01/18:54:18		Unnamed column name changed successfully
+2023-08-01/18:54:18		Unnamed column name changed successfully
+2023-08-01/18:54:18		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:54:18		Unnamed column name changed successfully
+2023-08-01/18:54:19		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:54:19		Unnamed column name changed successfully
+2023-08-01/18:55:30		Missing values validation started!!
+2023-08-01/18:55:30		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:55:30		Unnamed column name changed successfully
+2023-08-01/18:55:30		Unnamed column name changed successfully
+2023-08-01/18:55:30		Unnamed column name changed successfully
+2023-08-01/18:55:30		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:55:30		Unnamed column name changed successfully
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:31		Unnamed column name changed successfully
+2023-08-01/18:55:32		Unnamed column name changed successfully
+2023-08-01/18:55:32		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:55:32		Unnamed column name changed successfully
+2023-08-01/18:55:32		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:55:32		Unnamed column name changed successfully
+2023-08-01/18:58:21		Missing values validation started!!
+2023-08-01/18:58:21		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/18:58:21		Unnamed column name changed successfully
+2023-08-01/18:58:21		Unnamed column name changed successfully
+2023-08-01/18:58:21		Unnamed column name changed successfully
+2023-08-01/18:58:21		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/18:58:21		Unnamed column name changed successfully
+2023-08-01/18:58:21		Unnamed column name changed successfully
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:22		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:22		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:22		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:22		Unnamed column name changed successfully
+2023-08-01/18:58:23		Unnamed column name changed successfully
+2023-08-01/18:58:23		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/18:58:23		Unnamed column name changed successfully
+2023-08-01/18:58:23		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/18:58:23		Unnamed column name changed successfully
+2023-08-01/19:05:52		Missing values validation started!!
+2023-08-01/19:05:52		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:53		Unnamed column name changed successfully
+2023-08-01/19:05:54		Unnamed column name changed successfully
+2023-08-01/19:05:54		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/19:05:54		Unnamed column name changed successfully
+2023-08-01/19:05:54		Unnamed column name changed successfully
+2023-08-01/19:05:54		Unnamed column name changed successfully
+2023-08-01/19:05:54		Unnamed column name changed successfully
+2023-08-01/19:05:54		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/19:05:54		Unnamed column name changed successfully
+2023-08-01/19:05:54		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/19:05:54		Unnamed column name changed successfully
+2023-08-01/21:31:24		Missing values validation started!!
+2023-08-01/21:31:24		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/21:31:24		Unnamed column name changed successfully
+2023-08-01/21:31:25		Unnamed column name changed successfully
+2023-08-01/21:31:25		Unnamed column name changed successfully
+2023-08-01/21:31:25		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/21:31:25		Unnamed column name changed successfully
+2023-08-01/21:31:25		Unnamed column name changed successfully
+2023-08-01/21:31:25		Unnamed column name changed successfully
+2023-08-01/21:31:25		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/21:31:25		Unnamed column name changed successfully
+2023-08-01/21:31:26		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/21:31:26		Unnamed column name changed successfully
+2023-08-01/21:31:26		Unnamed column name changed successfully
+2023-08-01/21:31:26		Unnamed column name changed successfully
+2023-08-01/21:31:26		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/21:31:26		Unnamed column name changed successfully
+2023-08-01/21:31:26		Unnamed column name changed successfully
+2023-08-01/21:31:26		Unnamed column name changed successfully
+2023-08-01/21:31:26		Unnamed column name changed successfully
+2023-08-01/21:31:26		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/21:31:27		Unnamed column name changed successfully
+2023-08-01/21:31:27		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/21:31:27		Unnamed column name changed successfully
+2023-08-01/21:47:50		Missing values validation started!!
+2023-08-01/21:47:50		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/21:47:50		Unnamed column name changed successfully
+2023-08-01/21:47:50		Unnamed column name changed successfully
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:51		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/21:47:51		Unnamed column name changed successfully
+2023-08-01/21:47:52		Unnamed column name changed successfully
+2023-08-01/21:47:52		Unnamed column name changed successfully
+2023-08-01/21:47:52		Unnamed column name changed successfully
+2023-08-01/21:47:52		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/21:47:52		Unnamed column name changed successfully
+2023-08-01/21:47:52		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/21:47:52		Unnamed column name changed successfully
+2023-08-01/22:02:46		Missing values validation started!!
+2023-08-01/22:02:46		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/22:02:46		Unnamed column name changed successfully
+2023-08-01/22:02:46		Unnamed column name changed successfully
+2023-08-01/22:02:46		Unnamed column name changed successfully
+2023-08-01/22:02:46		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/22:02:46		Unnamed column name changed successfully
+2023-08-01/22:02:46		Unnamed column name changed successfully
+2023-08-01/22:02:46		Unnamed column name changed successfully
+2023-08-01/22:02:47		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/22:02:47		Unnamed column name changed successfully
+2023-08-01/22:02:47		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/22:02:47		Unnamed column name changed successfully
+2023-08-01/22:02:47		Unnamed column name changed successfully
+2023-08-01/22:02:47		Unnamed column name changed successfully
+2023-08-01/22:02:47		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/22:02:47		Unnamed column name changed successfully
+2023-08-01/22:02:47		Unnamed column name changed successfully
+2023-08-01/22:02:47		Unnamed column name changed successfully
+2023-08-01/22:02:48		Unnamed column name changed successfully
+2023-08-01/22:02:48		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/22:02:48		Unnamed column name changed successfully
+2023-08-01/22:02:48		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/22:02:48		Unnamed column name changed successfully
+2023-08-01/22:06:19		Missing values validation started!!
+2023-08-01/22:06:20		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/22:06:20		Unnamed column name changed successfully
+2023-08-01/22:06:20		Unnamed column name changed successfully
+2023-08-01/22:06:20		Unnamed column name changed successfully
+2023-08-01/22:06:20		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/22:06:20		Unnamed column name changed successfully
+2023-08-01/22:06:20		Unnamed column name changed successfully
+2023-08-01/22:06:20		Unnamed column name changed successfully
+2023-08-01/22:06:20		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/22:06:20		Unnamed column name changed successfully
+2023-08-01/22:06:21		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/22:06:21		Unnamed column name changed successfully
+2023-08-01/22:06:21		Unnamed column name changed successfully
+2023-08-01/22:06:21		Unnamed column name changed successfully
+2023-08-01/22:06:21		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/22:06:21		Unnamed column name changed successfully
+2023-08-01/22:06:21		Unnamed column name changed successfully
+2023-08-01/22:06:21		Unnamed column name changed successfully
+2023-08-01/22:06:22		Unnamed column name changed successfully
+2023-08-01/22:06:22		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/22:06:22		Unnamed column name changed successfully
+2023-08-01/22:06:22		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/22:06:22		Unnamed column name changed successfully
+2023-08-01/22:10:39		Missing values validation started!!
+2023-08-01/22:10:39		Invalid files moved from good data to bad data wafer_07012020_041011.csv
+2023-08-01/22:10:39		Unnamed column name changed successfully
+2023-08-01/22:10:39		Unnamed column name changed successfully
+2023-08-01/22:10:39		Unnamed column name changed successfully
+2023-08-01/22:10:39		Invalid files moved from good data to bad data wafer_20012020_090819.csv
+2023-08-01/22:10:39		Unnamed column name changed successfully
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:40		Invalid files moved from good data to bad data wafer_22022020_041119.csv
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:40		Invalid files moved from good data to bad data wafer_23012020_011008.csv
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:40		Invalid files moved from good data to bad data wafer_28012020_051011.csv
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:40		Unnamed column name changed successfully
+2023-08-01/22:10:41		Unnamed column name changed successfully
+2023-08-01/22:10:41		Unnamed column name changed successfully
+2023-08-01/22:10:41		Invalid files moved from good data to bad data wafer_29012020_060756.csv
+2023-08-01/22:10:41		Unnamed column name changed successfully
+2023-08-01/22:10:41		Invalid files moved from good data to bad data wafer_31012020_090811.csv
+2023-08-01/22:10:41		Unnamed column name changed successfully

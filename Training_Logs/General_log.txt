@@ -1,0 +1,151 @@
+2023-07-29/09:35:16		Good Raw directory has been deleted succesfully!!!
+2023-07-29/09:49:14		Good Raw directory has been deleted succesfully!!!
+2023-07-29/10:31:23		Good Raw directory has been deleted succesfully!!!
+2023-07-29/10:36:28		Good Raw directory has been deleted succesfully!!!
+2023-07-29/13:07:54		Good Raw directory has been deleted successfully!!!
+2023-07-29/13:08:38		Good Raw directory has been deleted successfully!!!
+2023-07-29/13:20:19		Good Raw directory has been deleted successfully!!!
+2023-07-29/13:21:01		Good Raw directory has been deleted successfully!!!
+2023-07-29/13:31:41		Good Raw directory has been deleted successfully!!!
+2023-07-29/13:38:56		Good Raw directory has been deleted successfully!!!
+2023-07-29/13:49:33		Good Raw directory has been deleted successfully!!!
+2023-07-29/13:49:34		Good Raw directory has been deleted successfully!!!
+2023-07-29/14:02:13		Good Raw directory has been deleted successfully!!!
+2023-07-29/14:02:14		Good Raw directory has been deleted successfully!!!
+2023-07-29/14:09:52		Good Raw directory has been deleted successfully!!!
+2023-07-29/14:17:18		Good Raw directory has been deleted successfully!!!
+2023-07-29/14:51:06		Good Raw directory has been deleted successfully!!!
+2023-07-29/14:54:28		Good Raw directory has been deleted successfully!!!
+2023-07-29/14:58:47		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:13:28		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:15:09		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:15:16		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:15:26		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:15:53		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:16:54		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:19:31		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:26:16		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:26:30		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:26:45		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:27:30		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:38:13		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:42:04		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:42:26		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:51:00		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:52:24		Good Raw directory has been deleted successfully!!!
+2023-07-29/15:57:28		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:00:23		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:00:46		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:09:26		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:13:26		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:14:24		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:16:51		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:17:57		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:19:24		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:21:52		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:22:59		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:23:27		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:24:24		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:25:45		Good Raw directory has been deleted successfully!!!
+2023-07-29/16:30:45		Good Raw directory has been deleted successfully!!!
+2023-07-29/17:02:27		Good Raw directory has been deleted successfully!!!
+2023-07-29/17:03:15		Good Raw directory has been deleted successfully!!!
+2023-07-29/17:30:57		Good Raw directory has been deleted successfully!!!
+2023-07-29/17:59:41		OS error occurred in deleting good raw training directory:: [WinError 32] The process cannot access the file because it is being used by another process: 'Training_RAW_files_validated/Good_Raw/wafer_16012020_134553.csv'
+2023-07-29/18:00:25		OS error occurred in deleting good raw training directory:: [WinError 32] The process cannot access the file because it is being used by another process: 'Training_RAW_files_validated/Good_Raw/wafer_16012020_134553.csv'
+2023-07-29/18:01:37		OS error occurred in deleting good raw training directory:: [WinError 32] The process cannot access the file because it is being used by another process: 'Training_RAW_files_validated/Good_Raw/wafer_16012020_134553.csv'
+2023-07-29/18:02:36		OS error occurred in deleting good raw training directory:: [WinError 32] The process cannot access the file because it is being used by another process: 'Training_RAW_files_validated/Good_Raw/wafer_16012020_134553.csv'
+2023-07-29/18:03:26		OS error occurred in deleting good raw training directory:: [WinError 32] The process cannot access the file because it is being used by another process: 'Training_RAW_files_validated/Good_Raw/wafer_16012020_134553.csv'
+2023-07-29/18:16:10		OS error occurred in deleting good raw training directory:: [WinError 32] The process cannot access the file because it is being used by another process: 'Training_RAW_files_validated/Good_Raw/wafer_16012020_134553.csv'
+2023-07-29/18:18:10		Good Raw directory has been deleted successfully!!!
+2023-07-29/18:32:02		Good Raw directory has been deleted successfully!!!
+2023-07-29/18:37:16		Good Raw directory has been deleted successfully!!!
+2023-07-29/18:38:42		Good Raw directory has been deleted successfully!!!
+2023-07-29/18:41:28		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:22:12		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:29:38		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:31:57		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:33:01		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:33:22		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:37:11		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:37:49		Good Raw directory has been deleted successfully!!!
+2023-07-29/21:41:07		Good Raw directory has been deleted successfully!!!
+2023-07-29/22:01:57		Good Raw directory has been deleted successfully!!!
+2023-08-01/12:32:10		Good Raw directory has been deleted successfully!!!
+2023-08-01/12:56:45		Good Raw directory has been deleted successfully!!!
+2023-08-01/13:09:18		Good Raw directory has been deleted successfully!!!
+2023-08-01/13:30:44		Deleted Bad Raw Data Training Directory
+2023-08-01/13:30:44		Good Raw directory has been deleted successfully!!!
+2023-08-01/13:38:01		Deleted Bad Raw Data Training Directory
+2023-08-01/13:38:01		Good Raw directory has been deleted successfully!!!
+2023-08-01/14:05:34		Deleted Bad Raw Data Training Directory
+2023-08-01/14:05:34		Good Raw directory has been deleted successfully!!!
+2023-08-01/15:14:59		Deleted Bad Raw Data Training Directory
+2023-08-01/15:14:59		Good Raw directory has been deleted successfully!!!
+2023-08-01/15:21:29		Deleted Bad Raw Data Training Directory
+2023-08-01/15:21:29		Good Raw directory has been deleted successfully!!!
+2023-08-01/15:23:43		Deleted Bad Raw Data Training Directory
+2023-08-01/15:23:43		Good Raw directory has been deleted successfully!!!
+2023-08-01/15:27:51		Deleted Bad Raw Data Training Directory
+2023-08-01/15:27:51		Good Raw directory has been deleted successfully!!!
+2023-08-01/15:49:35		Deleted Bad Raw Data Training Directory
+2023-08-01/15:49:35		Good Raw directory has been deleted successfully!!!
+2023-08-01/16:04:46		Deleted Bad Raw Data Training Directory
+2023-08-01/16:04:46		Good Raw directory has been deleted successfully!!!
+2023-08-01/16:31:57		Deleted Bad Raw Data Training Directory
+2023-08-01/16:31:57		Good Raw directory has been deleted successfully!!!
+2023-08-01/16:42:07		Deleted Bad Raw Data Training Directory
+2023-08-01/16:42:07		Good Raw directory has been deleted successfully!!!
+2023-08-01/16:54:49		Deleted Bad Raw Data Training Directory
+2023-08-01/16:54:49		Good Raw directory has been deleted successfully!!!
+2023-08-01/17:00:48		Deleted Bad Raw Data Training Directory
+2023-08-01/17:00:48		Good Raw directory has been deleted successfully!!!
+2023-08-01/17:02:29		Deleted Bad Raw Data Training Directory
+2023-08-01/17:02:29		Good Raw directory has been deleted successfully!!!
+2023-08-01/17:16:32		Deleted Bad Raw Data Training Directory
+2023-08-01/17:16:32		Good Raw directory has been deleted successfully!!!
+2023-08-01/17:18:40		Deleted Bad Raw Data Training Directory
+2023-08-01/17:18:40		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:17:11		Deleted Bad Raw Data Training Directory
+2023-08-01/18:17:11		OS error occurred in deleting good raw training directory:: [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/'
+2023-08-01/18:18:56		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:20:34		Deleted Bad Raw Data Training Directory
+2023-08-01/18:20:34		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:23:22		Deleted Bad Raw Data Training Directory
+2023-08-01/18:23:22		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:26:31		Deleted Bad Raw Data Training Directory
+2023-08-01/18:26:31		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:32:23		Deleted Bad Raw Data Training Directory
+2023-08-01/18:32:24		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:34:26		Deleted Bad Raw Data Training Directory
+2023-08-01/18:34:26		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:45:38		Deleted Bad Raw Data Training Directory
+2023-08-01/18:45:38		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:49:08		Deleted Bad Raw Data Training Directory
+2023-08-01/18:49:08		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:52:11		Deleted Bad Raw Data Training Directory
+2023-08-01/18:52:11		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:55:29		Deleted Bad Raw Data Training Directory
+2023-08-01/18:55:29		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:58:20		Deleted Bad Raw Data Training Directory
+2023-08-01/18:58:20		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:59:06		Good Raw directory has been deleted successfully!!!
+2023-08-01/18:59:06		OS error occurred during movement of bad raw data into Archive raw data:: [Errno 2] No such file or directory: 'Training_Raw_files_validated/Bad_RawWafer12_20012.csv'
+2023-08-01/19:05:51		Deleted Bad Raw Data Training Directory
+2023-08-01/19:06:44		Good Raw directory has been deleted successfully!!!
+2023-08-01/19:06:44		Bad Raw Data moved to Training Raw data Archive directory
+2023-08-01/19:06:44		Bad Raw data directory has been deleted Successfully
+2023-08-01/21:32:16		Good Raw directory has been deleted successfully!!!
+2023-08-01/21:32:16		Bad Raw Data moved to Training Raw data Archive directory
+2023-08-01/21:32:16		Bad Raw data directory has been deleted Successfully
+2023-08-01/21:48:42		Good Raw directory has been deleted successfully!!!
+2023-08-01/21:48:42		Bad Raw Data moved to Training Raw data Archive directory
+2023-08-01/21:48:42		Bad Raw data directory has been deleted Successfully
+2023-08-01/22:06:18		Deleted Bad Raw Data Training Directory
+2023-08-01/22:06:18		Good Raw directory has been deleted successfully!!!
+2023-08-01/22:07:09		Good Raw directory has been deleted successfully!!!
+2023-08-01/22:07:09		Bad Raw Data moved to Training Raw data Archive directory
+2023-08-01/22:07:09		Bad Raw data directory has been deleted Successfully
+2023-08-01/22:11:22		Good Raw directory has been deleted successfully!!!
+2023-08-01/22:11:22		Bad Raw Data moved to Training Raw data Archive directory
+2023-08-01/22:11:22		Bad Raw data directory has been deleted Successfully

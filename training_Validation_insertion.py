@@ -1,6 +1,6 @@
 from datetime import datetime
 from Training_raw_data_validation.rawvalidation import Raw_Data_Validation
-from DataTypeValidation_Insertion_Training.DataTypeValidation import dboperation
+from DataTypeValidation_Insertion_Training.Datatypevalidation_mysql_training2 import dboperation
 from DataTransform_Training.DataTransformation import dataTransform
 from application_logging import logger
 
@@ -22,11 +22,11 @@ class train_validation:
             ##Getting the regex defined to validate filename
             regex = self.raw_data.manualregexcreation()
             ###validating filename of raw data files
-            self.raw_data.validationFileNameRaw(regex,LengthOfDateStampInFile,LengthOfTimeStampInFile)
+            self.raw_data.raw_file_name_validation(regex,LengthOfDateStampInFile)
             ##validate column length in the file
             self.raw_data.validateColumnLength(NumberofColumns)
             ##validating if any column has all the values missing
-            self.raw_data.validateMissingValuesInWholeColumn()
+            self.raw_data.validatemissingvaluesinwholecolumn()
             self.log_writer.log(self.file_object,"Raw Data File Validation completed!!")
 
             self.log_writer.log(self.file_object,"Starting Data Transformation")
@@ -37,15 +37,15 @@ class train_validation:
 
             self.log_writer.log(self.file_object,"Creating Training_Database and tables on the basis of given schema!!")
             # create database with given name, if present open the connection! Create table with columns given in schema
-            """
-            self.dboperation.createTableDb("Training",column_names)
+
+            self.dboperation.createtabledb("training",column_names)
             self.log_writer.log(self.file_object,"Table creation Completed!!")
 
             self.log_writer.log(self.file_object,"Insertion of Data into Table started!!!!")
             ## inserting csv files in the table
 
-            self.dboperation.insertIntotableGoodData("Training")
-            self.log_writer.log(self.file_object,"Inserting in table complted !!!")
+            self.dboperation.insertIntoTableGoodData("training")
+            self.log_writer.log(self.file_object,"Inserting in table completed !!!")
             self.log_writer.log(self.file_object,"Deleting Good Data Folder !!!")
            ### Deleting the good data training folder
             self.raw_data.deleteExistingGoodDataTrainingFolder()
@@ -53,13 +53,14 @@ class train_validation:
             self.log_writer.log(self.file_object,"Moving Bad Data files to archive folder and deleting the bad data folder")
            ## Moveing the bada raw raw data files to archive folder
             self.raw_data.moveBadFilesToArchiveBad()
-            self.log_writer.log(self.file_object,"Moved the bada data to archive !! Deleted the good data training folder!!")
+            self.log_writer.log(self.file_object,"Moved the bad data to archive !! Deleted the good data training folder!!")
             self.log_writer.log(self.file_object,"Validation operation completed !!")
             self.log_writer.log(self.file_object,"Extracting csv files from table")
             ## Export data from table to csv file
-            self.dboperation.selectingDataFromTableintocsv("Training")
+            self.dboperation.selectingDatafromtableintocsv("training")
+            self.log_writer.log(self.file_object, "Export data from database table to csv file completed successfully!!")
             self.file_object.close()
-           """
+
         except Exception as e:
             raise e
         

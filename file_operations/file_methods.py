@@ -1,6 +1,7 @@
 import os
 import pickle
 import shutil
+from datetime import datetime
 
 class File_operation:
 
@@ -18,7 +19,7 @@ class File_operation:
     def __init__(self,file_object,logger_object):
         self.file_object = file_object
         self.logger_object = logger_object
-        self.model_directory = "models/"
+        self.model_directory = "models"
 
     def save_model(self,model,filename):
 
@@ -36,22 +37,24 @@ class File_operation:
 
         
         """
-       self.logger_object.log(self.file_object,"Entered the save model method inside the file_operation class")
+       #self.logger_object.log(self.file_object,"Entered the save model method inside the file_operation class")
+       now = datetime.now()
+       date = now.date()
+       time = now.strftime("%H%M%S")
        try:
-           path = os.path.join(self.model_directory,filename)  ###Create separate directory for each cluster 
-           if os.oath.isdir(path):   ###remove previously existing directory for each clusters
-               shutil.rmtree(self.model_directory)
+           path = self.model_directory + "/" + filename + "_" + str(date) + "_" + str(time)
+           if not os.path.isdir(path):  # remove previously existing models for each clusters
                os.makedirs(path)
            else:
-               os.makedirs(path)
+               pass
            with open(path +'/' + filename + '.sav','wb') as f:
-               pickle.dump(model,f)
-           self.logger_object.log(self.file_object,'Model File' +filename +'saved.Exited the saved_model method of the file operation class')
+                   pickle.dump(model,f)
+          # self.logger_object.log(self.file_object,'Model File' +filename +'saved.Exited the saved_model method of the file operation class')
 
            return "success"
        except Exception as e:
-           self.logger_object.log(self.file_object,"Exiting the saved_model method of the file operation class")
-           self.logger_object.log(self.file_object,"Exception occurred while saving the model.Exception message:: %s"%e)
+           #self.logger_object.log(self.file_object,"Exiting the saved_model method of the file operation class")
+           #self.logger_object.log(self.file_object,"Exception occurred while saving the model.Exception message:: %s"%e)
            raise Exception()
        
     def load_model(self,filename):
@@ -67,11 +70,11 @@ class File_operation:
              Revisions: None
 
         """
-        self.logger_object.log(self.file_object, 'Entered the load_model method of the file_operation class')
+        #self.logger_object.log(self.file_object, 'Entered the load_model method of the file_operation class')
         try:
             with open(self.model_directory + filename + '/' + filename + '.sav','rb') as f:
 
-                self.logger_object.log(self.file_object,'Model File' + filename+ 'loaded.Exited The load_model method of the file_oipration class')
+                #self.logger_object.log(self.file_object,'Model File' + filename+ 'loaded.Exited The load_model method of the file_oipration class')
                 return pickle.load(f)
 
         except Exception as e:
@@ -94,7 +97,7 @@ class File_operation:
     
         """
 
-        self.logger_object.log(self.file_object,"Entered inside the find_correct_model_file inside file_operations class")
+        #self.logger_object.log(self.file_object,"Entered inside the find_correct_model_file inside file_operations class")
 
         try:
             self.cluster_number = cluster_number
@@ -108,13 +111,13 @@ class File_operation:
                 except:
                     continue
             self.model_name = self.model_name.split('.')[0]
-            self.logger_object.log(self.file_object,"Exited the find_correct_model_file method of the file opration class")
+            #self.logger_object.log(self.file_object,"Exited the find_correct_model_file method of the file opration class")
 
             return self.model_name
 
         except Exception as e:
-            self.logger_object.log(self.file_object,"Failed to finds the the correct model file")
-            self.logger_object.log(self.file_object,"Exception occurred.Exception message :: %s" %e)
+            #self.logger_object.log(self.file_object,"Failed to finds the the correct model file")
+            #self.logger_object.log(self.file_object,"Exception occurred.Exception message :: %s" %e)
 
             raise Exception()
                      

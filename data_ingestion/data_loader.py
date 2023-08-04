@@ -1,5 +1,5 @@
 import pandas as pd
-#from application_logging import logger
+#from application_logging.logger import App_Logger
 
 
 
@@ -14,7 +14,7 @@ class Data_Getter:
 
     """
     def __init__(self,file_object,logger_object):
-        self.training_file = "Training_FileFromDB/INPUTfile.csv"
+        self.training_file = "TrainingFileFromDB/InputFile.csv"
         self.file_object = file_object
         self.logger_object = logger_object
 
@@ -36,6 +36,7 @@ class Data_Getter:
         try:
             self.data = pd.read_csv(self.training_file)  ###reading the training data
             self.logger_object.log(self.file_object,"Data Load Successfull.Exited the get_data method of the Data Getter class")
+            return self.data
 
         except Exception as e:
             self.logger_object.log(self.file_object,'Exception occured in get_data method of the Data Getter class:' + str(e))

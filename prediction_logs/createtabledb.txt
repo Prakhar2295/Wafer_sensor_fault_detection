@@ -98,3 +98,11 @@
 2023-08-01/12:02:51		Deleted the Existing table Good_RAW_Data
 2023-08-01/12:02:51		Created the table inside the database.Query executed successfully
 2023-08-01/12:02:51		Altered the table in the database.prediction
+2023-08-01/14:07:26		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/14:07:37		Deleted the Existing table Good_RAW_Data
+2023-08-01/14:07:37		Created the table inside the database.Query executed successfully
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/15:40:29		Entered Inside the Create table db method inside the db operations class 
+2023-08-01/15:40:32		Deleted the Existing table Good_RAW_Data
+2023-08-01/15:40:33		Created the table inside the database.Query executed successfully
+2023-08-01/15:40:33		Altered the table in the database.prediction

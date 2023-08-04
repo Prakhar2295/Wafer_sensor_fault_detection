@@ -247,3 +247,25 @@
 2023-08-01/12:03:55		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
 2023-08-01/12:03:55		Successfully moved the Bad files to Archive bad Directory!!
 2023-08-01/12:03:55		Successfully Deleted the Bad data directory!!
+2023-08-01/14:07:14		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/14:07:14		Deleted bad data directory Successfully!!
+2023-08-01/14:07:14		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/14:07:14		Deleted good data directory Successfully!!
+2023-08-01/14:07:14		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/14:07:14		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/14:08:44		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/14:08:44		Deleted good data directory Successfully!!
+2023-08-01/14:08:44		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/14:08:44		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/14:08:44		Successfully Deleted the Bad data directory!!
+2023-08-01/15:40:23		Entered inside deletedirectoryforBaddata method inside prediction_raw_data class
+2023-08-01/15:40:23		Deleted bad data directory Successfully!!
+2023-08-01/15:40:23		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/15:40:23		Deleted good data directory Successfully!!
+2023-08-01/15:40:23		Entered inside the createdirectoryforGoodBadpredictiondata method inside prediction raw data class
+2023-08-01/15:40:23		Created Directory for good data and bad data:: Raw_prediction_data/Good_data
+2023-08-01/15:41:25		Entered inside deletedirectoryforGooddata inside prediction_raw_data class
+2023-08-01/15:41:25		Deleted good data directory Successfully!!
+2023-08-01/15:41:25		Entered inside moveBadDatatoArchivebad method inside prediction_raw_data class
+2023-08-01/15:41:25		Successfully moved the Bad files to Archive bad Directory!!
+2023-08-01/15:41:25		Successfully Deleted the Bad data directory!!

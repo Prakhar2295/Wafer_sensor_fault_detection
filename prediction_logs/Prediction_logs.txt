@@ -294,3 +294,33 @@
 2023-08-01/12:03:55		File Validation Operation completed!!!
 2023-08-01/12:03:55		Extracting CSV files from the Database table
 2023-08-01/12:03:57		Expoerting the data from table to csv file Completed succesfully!! File Saved!!
+2023-08-01/14:07:14		Start of Validation on files for prediction!!
+2023-08-01/14:07:20		Raw File Validation completed
+2023-08-01/14:07:20		Starting Data Transformation!!
+2023-08-01/14:07:26		Data Transformation Completed
+2023-08-01/14:07:26		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/14:08:43		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/14:08:43		Inserting of data into table started !!!!
+2023-08-01/14:08:44		Inserting data into table completed !!!!
+2023-08-01/14:08:44		Deleteing the good data directory !!!
+2023-08-01/14:08:44		Deleted the good data directory !!!
+2023-08-01/14:08:44		Moving the bad data to the Archive bad directory!!!
+2023-08-01/14:08:44		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/14:08:44		File Validation Operation completed!!!
+2023-08-01/14:08:44		Extracting CSV files from the Database table
+2023-08-01/14:08:48		Expoerting the data from table to csv file Completed succesfully!! File Saved!!
+2023-08-01/15:40:23		Start of Validation on files for prediction!!
+2023-08-01/15:40:25		Raw File Validation completed
+2023-08-01/15:40:25		Starting Data Transformation!!
+2023-08-01/15:40:29		Data Transformation Completed
+2023-08-01/15:40:29		Creating Prediction database and Tables on the basis of given given schema!!
+2023-08-01/15:41:21		Creation of database done.Cration of tabel complted successfully!!
+2023-08-01/15:41:21		Inserting of data into table started !!!!
+2023-08-01/15:41:25		Inserting data into table completed !!!!
+2023-08-01/15:41:25		Deleteing the good data directory !!!
+2023-08-01/15:41:25		Deleted the good data directory !!!
+2023-08-01/15:41:25		Moving the bad data to the Archive bad directory!!!
+2023-08-01/15:41:25		Bad data files moved to the Archive bad folder!!! Bad data folder Deleted!!!
+2023-08-01/15:41:25		File Validation Operation completed!!!
+2023-08-01/15:41:25		Extracting CSV files from the Database table
+2023-08-01/15:41:28		Expoerting the data from table to csv file Completed succesfully!! File Saved!!

@@ -1,0 +1,107 @@
+2023-08-03/21:43:26		Entered inside the prediction from class succesfully
+2023-08-03/21:43:26		Entered inside the prediction from class succesfully
+2023-08-03/21:46:27		Entered inside the prediction from class succesfully
+2023-08-03/21:46:27		Entered inside the prediction from class succesfully
+2023-08-03/21:49:07		Entered inside the prediction from class succesfully
+2023-08-03/21:49:07		Entered inside the prediction from class succesfully
+2023-08-03/21:52:34		Entered inside the prediction from class succesfully
+2023-08-03/21:52:34		Entered inside the prediction from class succesfully
+2023-08-03/21:54:52		Entered inside the prediction from class succesfully
+2023-08-03/21:54:52		Entered inside the prediction from class succesfully
+2023-08-03/21:59:34		Entered inside the prediction from class succesfully
+2023-08-03/21:59:34		Entered inside the prediction from class succesfully
+2023-08-03/21:59:39		End of Prediction
+2023-08-03/22:50:22		Entered inside the prediction from class succesfully
+2023-08-03/22:50:22		Entered inside the prediction from class succesfully
+2023-08-03/22:50:47		Entered inside the prediction from class succesfully
+2023-08-03/22:50:47		Entered inside the prediction from class succesfully
+2023-08-03/22:50:51		End of Prediction
+2023-08-04/11:55:25		Entered inside the prediction from class succesfully
+2023-08-04/11:55:59		Deleted the old prediction files succesfully !!!
+2023-08-04/12:00:57		Entered inside the prediction from class succesfully
+2023-08-04/12:00:57		Deleted the old prediction files succesfully !!!
+2023-08-04/12:14:39		Entered inside the prediction from class succesfully
+2023-08-04/12:14:39		Deleted the old prediction files succesfully !!!
+2023-08-04/12:15:38		Entered the load_model method of the file_operation class
+2023-08-04/12:16:34		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:22:16		Entered the load_model method of the file_operation class
+2023-08-04/12:22:21		Model FileRANDOMFOREST0loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:35:09		Entered inside the prediction from class succesfully
+2023-08-04/12:35:09		Deleted the old prediction files succesfully !!!
+2023-08-04/12:37:18		Entered the load_model method of the file_operation class
+2023-08-04/12:37:25		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:40:19		Entered inside the prediction from class succesfully
+2023-08-04/12:40:19		Deleted the old prediction files succesfully !!!
+2023-08-04/12:40:50		Entered the load_model method of the file_operation class
+2023-08-04/12:40:52		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:41:38		Entered inside the prediction from class succesfully
+2023-08-04/12:41:38		Deleted the old prediction files succesfully !!!
+2023-08-04/12:41:58		Entered the load_model method of the file_operation class
+2023-08-04/12:42:00		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:44:50		Entered inside the prediction from class succesfully
+2023-08-04/12:44:50		Deleted the old prediction files succesfully !!!
+2023-08-04/12:45:04		Entered the load_model method of the file_operation class
+2023-08-04/12:45:07		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:45:36		Entered the load_model method of the file_operation class
+2023-08-04/12:45:38		Model FileRANDOMFOREST0loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:47:24		Entered inside the prediction from class succesfully
+2023-08-04/12:47:24		Deleted the old prediction files succesfully !!!
+2023-08-04/12:47:40		Entered the load_model method of the file_operation class
+2023-08-04/12:47:43		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:48:31		Entered the load_model method of the file_operation class
+2023-08-04/12:48:35		Model FileRANDOMFOREST0loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:49:13		Entered the load_model method of the file_operation class
+2023-08-04/12:49:16		Model FileRANDOMFOREST3loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:49:48		Entered the load_model method of the file_operation class
+2023-08-04/12:49:51		Model FileRANDOMFOREST2loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:50:14		Entered the load_model method of the file_operation class
+2023-08-04/12:50:16		Model FileRANDOMFOREST1loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:51:22		End of Prediction
+2023-08-04/12:58:38		Entered inside the prediction from class succesfully
+2023-08-04/12:58:56		Entered inside the prediction from class succesfully
+2023-08-04/12:58:56		Deleted the old prediction files succesfully !!!
+2023-08-04/12:58:59		Entered the load_model method of the file_operation class
+2023-08-04/12:58:59		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:58:59		Entered the load_model method of the file_operation class
+2023-08-04/12:58:59		Model FileRANDOMFOREST0loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:59:00		Entered the load_model method of the file_operation class
+2023-08-04/12:59:00		Model FileRANDOMFOREST3loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:59:00		Entered the load_model method of the file_operation class
+2023-08-04/12:59:00		Model FileRANDOMFOREST2loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:59:00		Entered the load_model method of the file_operation class
+2023-08-04/12:59:00		Model FileRANDOMFOREST1loaded.Exited The load_model method of the file_oipration class
+2023-08-04/12:59:00		End of Prediction
+2023-08-04/13:14:15		Entered inside the prediction from class succesfully
+2023-08-04/13:14:15		Deleted the old prediction files succesfully !!!
+2023-08-04/13:14:18		Entered the load_model method of the file_operation class
+2023-08-04/13:14:18		Model FileKMeansloaded.Exited The load_model method of the file_oipration class
+2023-08-04/13:14:18		Entered the load_model method of the file_operation class
+2023-08-04/13:14:18		Model FileRANDOMFOREST0loaded.Exited The load_model method of the file_oipration class
+2023-08-04/13:14:19		Entered the load_model method of the file_operation class
+2023-08-04/13:14:19		Model FileRANDOMFOREST3loaded.Exited The load_model method of the file_oipration class
+2023-08-04/13:14:19		Entered the load_model method of the file_operation class
+2023-08-04/13:14:19		Model FileRANDOMFOREST2loaded.Exited The load_model method of the file_oipration class
+2023-08-04/13:14:19		Entered the load_model method of the file_operation class
+2023-08-04/13:14:19		Model FileRANDOMFOREST1loaded.Exited The load_model method of the file_oipration class
+2023-08-04/13:14:19		End of Prediction
+2023-08-04/14:17:03		Entered inside the prediction from class succesfully
+2023-08-04/14:17:03		Deleted the old prediction files succesfully !!!
+2023-08-04/14:17:06		Entered the load_model method of the file_operation class
+2023-08-04/14:17:06		Model FileKMeansloaded.Exited The load_model method of the file_operation class
+2023-08-04/14:17:06		Entered inside the find_correct_model_file inside file_operations class
+2023-08-04/14:17:06		Exited the find_correct_model_file method of the file opration class
+2023-08-04/14:17:06		Entered the load_model method of the file_operation class
+2023-08-04/14:17:06		Model FileRANDOMFOREST0loaded.Exited The load_model method of the file_operation class
+2023-08-04/14:17:06		Entered inside the find_correct_model_file inside file_operations class
+2023-08-04/14:17:06		Exited the find_correct_model_file method of the file opration class
+2023-08-04/14:17:06		Entered the load_model method of the file_operation class
+2023-08-04/14:17:06		Model FileRANDOMFOREST3loaded.Exited The load_model method of the file_operation class
+2023-08-04/14:17:06		Entered inside the find_correct_model_file inside file_operations class
+2023-08-04/14:17:06		Exited the find_correct_model_file method of the file opration class
+2023-08-04/14:17:06		Entered the load_model method of the file_operation class
+2023-08-04/14:17:07		Model FileRANDOMFOREST2loaded.Exited The load_model method of the file_operation class
+2023-08-04/14:17:07		Entered inside the find_correct_model_file inside file_operations class
+2023-08-04/14:17:07		Exited the find_correct_model_file method of the file opration class
+2023-08-04/14:17:07		Entered the load_model method of the file_operation class
+2023-08-04/14:17:07		Model FileRANDOMFOREST1loaded.Exited The load_model method of the file_operation class
+2023-08-04/14:17:07		End of Prediction!! CSV file saved Successfully!!

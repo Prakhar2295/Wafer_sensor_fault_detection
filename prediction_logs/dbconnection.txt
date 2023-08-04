@@ -28381,3 +28381,2375 @@
 2023-08-01/12:03:55		Entered inside databaseconnection method inside dboperation class
 2023-08-01/12:03:56		Database already existed:: prediction
 2023-08-01/12:03:57		Database connection closed successfully !!Database name:: prediction
+2023-08-01/14:07:26		Entered inside databaseconnection method inside dboperation class
+2023-08-01/14:07:30		Database already existed:: prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:37		Altered the table in the database.prediction
+2023-08-01/14:07:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:38		Altered the table in the database.prediction
+2023-08-01/14:07:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:39		Altered the table in the database.prediction
+2023-08-01/14:07:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:40		Altered the table in the database.prediction
+2023-08-01/14:07:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:41		Altered the table in the database.prediction
+2023-08-01/14:07:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:42		Altered the table in the database.prediction
+2023-08-01/14:07:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:43		Altered the table in the database.prediction
+2023-08-01/14:07:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:44		Altered the table in the database.prediction
+2023-08-01/14:07:44		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:45		Altered the table in the database.prediction
+2023-08-01/14:07:45		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:46		Altered the table in the database.prediction
+2023-08-01/14:07:46		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:47		Altered the table in the database.prediction
+2023-08-01/14:07:47		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:48		Altered the table in the database.prediction
+2023-08-01/14:07:48		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:49		Altered the table in the database.prediction
+2023-08-01/14:07:49		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:50		Altered the table in the database.prediction
+2023-08-01/14:07:50		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:51		Altered the table in the database.prediction
+2023-08-01/14:07:51		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:52		Altered the table in the database.prediction
+2023-08-01/14:07:52		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:53		Altered the table in the database.prediction
+2023-08-01/14:07:53		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:54		Altered the table in the database.prediction
+2023-08-01/14:07:54		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:55		Altered the table in the database.prediction
+2023-08-01/14:07:55		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:56		Altered the table in the database.prediction
+2023-08-01/14:07:56		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:57		Altered the table in the database.prediction
+2023-08-01/14:07:57		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:58		Altered the table in the database.prediction
+2023-08-01/14:07:58		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:07:59		Altered the table in the database.prediction
+2023-08-01/14:07:59		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:00		Altered the table in the database.prediction
+2023-08-01/14:08:00		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:01		Altered the table in the database.prediction
+2023-08-01/14:08:01		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:02		Altered the table in the database.prediction
+2023-08-01/14:08:02		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:02		Altered the table in the database.prediction
+2023-08-01/14:08:02		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:02		Altered the table in the database.prediction
+2023-08-01/14:08:02		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:02		Altered the table in the database.prediction
+2023-08-01/14:08:02		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:02		Altered the table in the database.prediction
+2023-08-01/14:08:02		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:02		Altered the table in the database.prediction
+2023-08-01/14:08:02		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:02		Altered the table in the database.prediction
+2023-08-01/14:08:02		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:03		Altered the table in the database.prediction
+2023-08-01/14:08:03		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:04		Altered the table in the database.prediction
+2023-08-01/14:08:04		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:04		Altered the table in the database.prediction
+2023-08-01/14:08:04		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:04		Altered the table in the database.prediction
+2023-08-01/14:08:04		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:04		Altered the table in the database.prediction
+2023-08-01/14:08:04		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:04		Altered the table in the database.prediction
+2023-08-01/14:08:04		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:04		Altered the table in the database.prediction
+2023-08-01/14:08:04		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:04		Altered the table in the database.prediction
+2023-08-01/14:08:04		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:05		Altered the table in the database.prediction
+2023-08-01/14:08:05		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:06		Altered the table in the database.prediction
+2023-08-01/14:08:06		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:06		Altered the table in the database.prediction
+2023-08-01/14:08:06		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:06		Altered the table in the database.prediction
+2023-08-01/14:08:06		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:06		Altered the table in the database.prediction
+2023-08-01/14:08:06		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:06		Altered the table in the database.prediction
+2023-08-01/14:08:06		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:06		Altered the table in the database.prediction
+2023-08-01/14:08:06		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:06		Altered the table in the database.prediction
+2023-08-01/14:08:06		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:07		Altered the table in the database.prediction
+2023-08-01/14:08:07		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:07		Altered the table in the database.prediction
+2023-08-01/14:08:07		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:07		Altered the table in the database.prediction
+2023-08-01/14:08:07		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:07		Altered the table in the database.prediction
+2023-08-01/14:08:07		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:07		Altered the table in the database.prediction
+2023-08-01/14:08:07		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:07		Altered the table in the database.prediction
+2023-08-01/14:08:07		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:07		Altered the table in the database.prediction
+2023-08-01/14:08:07		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:08		Altered the table in the database.prediction
+2023-08-01/14:08:08		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:08		Altered the table in the database.prediction
+2023-08-01/14:08:08		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:08		Altered the table in the database.prediction
+2023-08-01/14:08:08		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:08		Altered the table in the database.prediction
+2023-08-01/14:08:08		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:08		Altered the table in the database.prediction
+2023-08-01/14:08:08		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:08		Altered the table in the database.prediction
+2023-08-01/14:08:08		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:08		Altered the table in the database.prediction
+2023-08-01/14:08:08		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:09		Altered the table in the database.prediction
+2023-08-01/14:08:09		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:10		Altered the table in the database.prediction
+2023-08-01/14:08:10		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:10		Altered the table in the database.prediction
+2023-08-01/14:08:10		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:10		Altered the table in the database.prediction
+2023-08-01/14:08:10		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:10		Altered the table in the database.prediction
+2023-08-01/14:08:10		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:10		Altered the table in the database.prediction
+2023-08-01/14:08:10		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:10		Altered the table in the database.prediction
+2023-08-01/14:08:10		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:10		Altered the table in the database.prediction
+2023-08-01/14:08:10		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:11		Altered the table in the database.prediction
+2023-08-01/14:08:11		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:11		Altered the table in the database.prediction
+2023-08-01/14:08:11		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:11		Altered the table in the database.prediction
+2023-08-01/14:08:11		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:11		Altered the table in the database.prediction
+2023-08-01/14:08:11		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:11		Altered the table in the database.prediction
+2023-08-01/14:08:11		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:11		Altered the table in the database.prediction
+2023-08-01/14:08:11		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:11		Altered the table in the database.prediction
+2023-08-01/14:08:11		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:12		Altered the table in the database.prediction
+2023-08-01/14:08:12		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:13		Altered the table in the database.prediction
+2023-08-01/14:08:13		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:14		Altered the table in the database.prediction
+2023-08-01/14:08:14		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:15		Altered the table in the database.prediction
+2023-08-01/14:08:15		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:16		Altered the table in the database.prediction
+2023-08-01/14:08:16		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:16		Altered the table in the database.prediction
+2023-08-01/14:08:16		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:16		Altered the table in the database.prediction
+2023-08-01/14:08:16		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:16		Altered the table in the database.prediction
+2023-08-01/14:08:16		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:16		Altered the table in the database.prediction
+2023-08-01/14:08:16		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:16		Altered the table in the database.prediction
+2023-08-01/14:08:16		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:17		Altered the table in the database.prediction
+2023-08-01/14:08:17		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:17		Altered the table in the database.prediction
+2023-08-01/14:08:17		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:17		Altered the table in the database.prediction
+2023-08-01/14:08:17		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:17		Altered the table in the database.prediction
+2023-08-01/14:08:17		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:18		Altered the table in the database.prediction
+2023-08-01/14:08:18		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:18		Altered the table in the database.prediction
+2023-08-01/14:08:18		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:18		Altered the table in the database.prediction
+2023-08-01/14:08:18		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:18		Altered the table in the database.prediction
+2023-08-01/14:08:18		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:18		Altered the table in the database.prediction
+2023-08-01/14:08:18		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:18		Altered the table in the database.prediction
+2023-08-01/14:08:18		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:18		Altered the table in the database.prediction
+2023-08-01/14:08:18		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:19		Altered the table in the database.prediction
+2023-08-01/14:08:19		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:19		Altered the table in the database.prediction
+2023-08-01/14:08:19		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:19		Altered the table in the database.prediction
+2023-08-01/14:08:19		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:19		Altered the table in the database.prediction
+2023-08-01/14:08:19		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:19		Altered the table in the database.prediction
+2023-08-01/14:08:19		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:19		Altered the table in the database.prediction
+2023-08-01/14:08:19		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:20		Altered the table in the database.prediction
+2023-08-01/14:08:20		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:20		Altered the table in the database.prediction
+2023-08-01/14:08:20		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:20		Altered the table in the database.prediction
+2023-08-01/14:08:20		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:20		Altered the table in the database.prediction
+2023-08-01/14:08:20		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:20		Altered the table in the database.prediction
+2023-08-01/14:08:20		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:20		Altered the table in the database.prediction
+2023-08-01/14:08:20		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:20		Altered the table in the database.prediction
+2023-08-01/14:08:20		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:21		Altered the table in the database.prediction
+2023-08-01/14:08:21		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:21		Altered the table in the database.prediction
+2023-08-01/14:08:21		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:21		Altered the table in the database.prediction
+2023-08-01/14:08:21		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:21		Altered the table in the database.prediction
+2023-08-01/14:08:21		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:22		Altered the table in the database.prediction
+2023-08-01/14:08:22		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:22		Altered the table in the database.prediction
+2023-08-01/14:08:22		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:22		Altered the table in the database.prediction
+2023-08-01/14:08:22		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:22		Altered the table in the database.prediction
+2023-08-01/14:08:22		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:22		Altered the table in the database.prediction
+2023-08-01/14:08:22		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:23		Altered the table in the database.prediction
+2023-08-01/14:08:23		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:23		Altered the table in the database.prediction
+2023-08-01/14:08:23		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:24		Altered the table in the database.prediction
+2023-08-01/14:08:24		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:24		Altered the table in the database.prediction
+2023-08-01/14:08:24		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:24		Altered the table in the database.prediction
+2023-08-01/14:08:24		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:24		Altered the table in the database.prediction
+2023-08-01/14:08:24		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:24		Altered the table in the database.prediction
+2023-08-01/14:08:24		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:25		Altered the table in the database.prediction
+2023-08-01/14:08:25		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:25		Altered the table in the database.prediction
+2023-08-01/14:08:25		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:25		Altered the table in the database.prediction
+2023-08-01/14:08:25		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:25		Altered the table in the database.prediction
+2023-08-01/14:08:25		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:25		Altered the table in the database.prediction
+2023-08-01/14:08:25		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:25		Altered the table in the database.prediction
+2023-08-01/14:08:25		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:26		Altered the table in the database.prediction
+2023-08-01/14:08:26		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:26		Altered the table in the database.prediction
+2023-08-01/14:08:26		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:26		Altered the table in the database.prediction
+2023-08-01/14:08:26		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:26		Altered the table in the database.prediction
+2023-08-01/14:08:26		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:26		Altered the table in the database.prediction
+2023-08-01/14:08:26		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:26		Altered the table in the database.prediction
+2023-08-01/14:08:26		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:27		Altered the table in the database.prediction
+2023-08-01/14:08:27		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:27		Altered the table in the database.prediction
+2023-08-01/14:08:27		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:27		Altered the table in the database.prediction
+2023-08-01/14:08:27		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:27		Altered the table in the database.prediction
+2023-08-01/14:08:27		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:27		Altered the table in the database.prediction
+2023-08-01/14:08:27		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:27		Altered the table in the database.prediction
+2023-08-01/14:08:27		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:28		Altered the table in the database.prediction
+2023-08-01/14:08:28		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:28		Altered the table in the database.prediction
+2023-08-01/14:08:28		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:28		Altered the table in the database.prediction
+2023-08-01/14:08:28		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:28		Altered the table in the database.prediction
+2023-08-01/14:08:28		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:28		Altered the table in the database.prediction
+2023-08-01/14:08:28		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:29		Altered the table in the database.prediction
+2023-08-01/14:08:29		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:29		Altered the table in the database.prediction
+2023-08-01/14:08:29		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:29		Altered the table in the database.prediction
+2023-08-01/14:08:29		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:29		Altered the table in the database.prediction
+2023-08-01/14:08:29		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:29		Altered the table in the database.prediction
+2023-08-01/14:08:29		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:30		Altered the table in the database.prediction
+2023-08-01/14:08:30		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:30		Altered the table in the database.prediction
+2023-08-01/14:08:30		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:30		Altered the table in the database.prediction
+2023-08-01/14:08:30		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:30		Altered the table in the database.prediction
+2023-08-01/14:08:30		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:30		Altered the table in the database.prediction
+2023-08-01/14:08:30		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:30		Altered the table in the database.prediction
+2023-08-01/14:08:30		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:31		Altered the table in the database.prediction
+2023-08-01/14:08:31		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:31		Altered the table in the database.prediction
+2023-08-01/14:08:31		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:31		Altered the table in the database.prediction
+2023-08-01/14:08:31		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:31		Altered the table in the database.prediction
+2023-08-01/14:08:31		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:31		Altered the table in the database.prediction
+2023-08-01/14:08:31		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:31		Altered the table in the database.prediction
+2023-08-01/14:08:31		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:32		Altered the table in the database.prediction
+2023-08-01/14:08:32		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:32		Altered the table in the database.prediction
+2023-08-01/14:08:32		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:32		Altered the table in the database.prediction
+2023-08-01/14:08:32		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:32		Altered the table in the database.prediction
+2023-08-01/14:08:32		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:32		Altered the table in the database.prediction
+2023-08-01/14:08:32		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:32		Altered the table in the database.prediction
+2023-08-01/14:08:32		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:33		Altered the table in the database.prediction
+2023-08-01/14:08:33		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:33		Altered the table in the database.prediction
+2023-08-01/14:08:33		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:33		Altered the table in the database.prediction
+2023-08-01/14:08:33		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:33		Altered the table in the database.prediction
+2023-08-01/14:08:33		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:34		Altered the table in the database.prediction
+2023-08-01/14:08:34		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:34		Altered the table in the database.prediction
+2023-08-01/14:08:34		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:34		Altered the table in the database.prediction
+2023-08-01/14:08:35		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:35		Altered the table in the database.prediction
+2023-08-01/14:08:35		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:35		Altered the table in the database.prediction
+2023-08-01/14:08:35		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:35		Altered the table in the database.prediction
+2023-08-01/14:08:35		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:35		Altered the table in the database.prediction
+2023-08-01/14:08:35		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:36		Altered the table in the database.prediction
+2023-08-01/14:08:36		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:36		Altered the table in the database.prediction
+2023-08-01/14:08:36		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:36		Altered the table in the database.prediction
+2023-08-01/14:08:36		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:36		Altered the table in the database.prediction
+2023-08-01/14:08:36		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:37		Altered the table in the database.prediction
+2023-08-01/14:08:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:37		Altered the table in the database.prediction
+2023-08-01/14:08:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:37		Altered the table in the database.prediction
+2023-08-01/14:08:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:37		Altered the table in the database.prediction
+2023-08-01/14:08:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:37		Altered the table in the database.prediction
+2023-08-01/14:08:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:37		Altered the table in the database.prediction
+2023-08-01/14:08:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:37		Altered the table in the database.prediction
+2023-08-01/14:08:37		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:38		Altered the table in the database.prediction
+2023-08-01/14:08:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:38		Altered the table in the database.prediction
+2023-08-01/14:08:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:38		Altered the table in the database.prediction
+2023-08-01/14:08:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:38		Altered the table in the database.prediction
+2023-08-01/14:08:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:38		Altered the table in the database.prediction
+2023-08-01/14:08:38		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:39		Altered the table in the database.prediction
+2023-08-01/14:08:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:39		Altered the table in the database.prediction
+2023-08-01/14:08:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:39		Altered the table in the database.prediction
+2023-08-01/14:08:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:39		Altered the table in the database.prediction
+2023-08-01/14:08:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:39		Altered the table in the database.prediction
+2023-08-01/14:08:39		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:40		Altered the table in the database.prediction
+2023-08-01/14:08:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:40		Altered the table in the database.prediction
+2023-08-01/14:08:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:40		Altered the table in the database.prediction
+2023-08-01/14:08:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:40		Altered the table in the database.prediction
+2023-08-01/14:08:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:40		Altered the table in the database.prediction
+2023-08-01/14:08:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:40		Altered the table in the database.prediction
+2023-08-01/14:08:40		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:41		Altered the table in the database.prediction
+2023-08-01/14:08:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:41		Altered the table in the database.prediction
+2023-08-01/14:08:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:41		Altered the table in the database.prediction
+2023-08-01/14:08:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:41		Altered the table in the database.prediction
+2023-08-01/14:08:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:41		Altered the table in the database.prediction
+2023-08-01/14:08:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:41		Altered the table in the database.prediction
+2023-08-01/14:08:41		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:42		Altered the table in the database.prediction
+2023-08-01/14:08:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:42		Altered the table in the database.prediction
+2023-08-01/14:08:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:42		Altered the table in the database.prediction
+2023-08-01/14:08:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:42		Altered the table in the database.prediction
+2023-08-01/14:08:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:42		Altered the table in the database.prediction
+2023-08-01/14:08:42		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:43		Altered the table in the database.prediction
+2023-08-01/14:08:43		Database connections closed successfully inside the database.prediction
+2023-08-01/14:08:43		Entered inside databaseconnection method inside dboperation class
+2023-08-01/14:08:43		Database already existed:: prediction
+2023-08-01/14:08:45		Entered inside databaseconnection method inside dboperation class
+2023-08-01/14:08:45		Database already existed:: prediction
+2023-08-01/14:08:48		Database connection closed successfully !!Database name:: prediction
+2023-08-01/15:40:29		Entered inside databaseconnection method inside dboperation class
+2023-08-01/15:40:30		Database already existed:: prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:33		Altered the table in the database.prediction
+2023-08-01/15:40:33		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:34		Altered the table in the database.prediction
+2023-08-01/15:40:34		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:35		Altered the table in the database.prediction
+2023-08-01/15:40:35		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:36		Altered the table in the database.prediction
+2023-08-01/15:40:36		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:37		Altered the table in the database.prediction
+2023-08-01/15:40:37		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:38		Altered the table in the database.prediction
+2023-08-01/15:40:38		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:39		Altered the table in the database.prediction
+2023-08-01/15:40:39		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:40		Altered the table in the database.prediction
+2023-08-01/15:40:40		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:41		Altered the table in the database.prediction
+2023-08-01/15:40:41		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:42		Altered the table in the database.prediction
+2023-08-01/15:40:42		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:43		Altered the table in the database.prediction
+2023-08-01/15:40:43		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:44		Altered the table in the database.prediction
+2023-08-01/15:40:44		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:45		Altered the table in the database.prediction
+2023-08-01/15:40:45		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:45		Altered the table in the database.prediction
+2023-08-01/15:40:45		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:45		Altered the table in the database.prediction
+2023-08-01/15:40:45		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:46		Altered the table in the database.prediction
+2023-08-01/15:40:46		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:47		Altered the table in the database.prediction
+2023-08-01/15:40:47		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:48		Altered the table in the database.prediction
+2023-08-01/15:40:48		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:48		Altered the table in the database.prediction
+2023-08-01/15:40:48		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:48		Altered the table in the database.prediction
+2023-08-01/15:40:48		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:48		Altered the table in the database.prediction
+2023-08-01/15:40:48		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:48		Altered the table in the database.prediction
+2023-08-01/15:40:48		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:48		Altered the table in the database.prediction
+2023-08-01/15:40:48		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:48		Altered the table in the database.prediction
+2023-08-01/15:40:48		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:49		Altered the table in the database.prediction
+2023-08-01/15:40:49		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:50		Altered the table in the database.prediction
+2023-08-01/15:40:50		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:51		Altered the table in the database.prediction
+2023-08-01/15:40:51		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:52		Altered the table in the database.prediction
+2023-08-01/15:40:52		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:53		Altered the table in the database.prediction
+2023-08-01/15:40:53		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:54		Altered the table in the database.prediction
+2023-08-01/15:40:54		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:55		Altered the table in the database.prediction
+2023-08-01/15:40:55		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:56		Altered the table in the database.prediction
+2023-08-01/15:40:56		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:57		Altered the table in the database.prediction
+2023-08-01/15:40:57		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:58		Altered the table in the database.prediction
+2023-08-01/15:40:58		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:40:59		Altered the table in the database.prediction
+2023-08-01/15:40:59		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:00		Altered the table in the database.prediction
+2023-08-01/15:41:00		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:01		Altered the table in the database.prediction
+2023-08-01/15:41:01		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:02		Altered the table in the database.prediction
+2023-08-01/15:41:02		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:03		Altered the table in the database.prediction
+2023-08-01/15:41:03		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:04		Altered the table in the database.prediction
+2023-08-01/15:41:04		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:05		Altered the table in the database.prediction
+2023-08-01/15:41:05		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:06		Altered the table in the database.prediction
+2023-08-01/15:41:06		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:07		Altered the table in the database.prediction
+2023-08-01/15:41:07		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:08		Altered the table in the database.prediction
+2023-08-01/15:41:08		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:09		Altered the table in the database.prediction
+2023-08-01/15:41:09		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:10		Altered the table in the database.prediction
+2023-08-01/15:41:10		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:10		Altered the table in the database.prediction
+2023-08-01/15:41:10		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:10		Altered the table in the database.prediction
+2023-08-01/15:41:10		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:10		Altered the table in the database.prediction
+2023-08-01/15:41:10		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:10		Altered the table in the database.prediction
+2023-08-01/15:41:10		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:10		Altered the table in the database.prediction
+2023-08-01/15:41:10		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:10		Altered the table in the database.prediction
+2023-08-01/15:41:10		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:11		Altered the table in the database.prediction
+2023-08-01/15:41:11		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:12		Altered the table in the database.prediction
+2023-08-01/15:41:12		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:13		Altered the table in the database.prediction
+2023-08-01/15:41:13		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:14		Altered the table in the database.prediction
+2023-08-01/15:41:14		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:15		Altered the table in the database.prediction
+2023-08-01/15:41:15		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:15		Altered the table in the database.prediction
+2023-08-01/15:41:15		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:15		Altered the table in the database.prediction
+2023-08-01/15:41:15		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:15		Altered the table in the database.prediction
+2023-08-01/15:41:15		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:15		Altered the table in the database.prediction
+2023-08-01/15:41:15		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:15		Altered the table in the database.prediction
+2023-08-01/15:41:15		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:15		Altered the table in the database.prediction
+2023-08-01/15:41:15		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:16		Altered the table in the database.prediction
+2023-08-01/15:41:16		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:16		Altered the table in the database.prediction
+2023-08-01/15:41:16		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:16		Altered the table in the database.prediction
+2023-08-01/15:41:16		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:16		Altered the table in the database.prediction
+2023-08-01/15:41:16		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:16		Altered the table in the database.prediction
+2023-08-01/15:41:16		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:16		Altered the table in the database.prediction
+2023-08-01/15:41:16		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:16		Altered the table in the database.prediction
+2023-08-01/15:41:16		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:17		Altered the table in the database.prediction
+2023-08-01/15:41:17		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:17		Altered the table in the database.prediction
+2023-08-01/15:41:17		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:17		Altered the table in the database.prediction
+2023-08-01/15:41:17		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:17		Altered the table in the database.prediction
+2023-08-01/15:41:17		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:17		Altered the table in the database.prediction
+2023-08-01/15:41:17		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:17		Altered the table in the database.prediction
+2023-08-01/15:41:17		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:18		Altered the table in the database.prediction
+2023-08-01/15:41:18		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:19		Altered the table in the database.prediction
+2023-08-01/15:41:19		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:19		Altered the table in the database.prediction
+2023-08-01/15:41:19		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:19		Altered the table in the database.prediction
+2023-08-01/15:41:19		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:19		Altered the table in the database.prediction
+2023-08-01/15:41:19		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:19		Altered the table in the database.prediction
+2023-08-01/15:41:19		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:20		Altered the table in the database.prediction
+2023-08-01/15:41:20		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:20		Altered the table in the database.prediction
+2023-08-01/15:41:20		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:20		Altered the table in the database.prediction
+2023-08-01/15:41:20		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:20		Altered the table in the database.prediction
+2023-08-01/15:41:20		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:20		Altered the table in the database.prediction
+2023-08-01/15:41:20		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:20		Altered the table in the database.prediction
+2023-08-01/15:41:20		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:21		Altered the table in the database.prediction
+2023-08-01/15:41:21		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:21		Altered the table in the database.prediction
+2023-08-01/15:41:21		Database connections closed successfully inside the database.prediction
+2023-08-01/15:41:21		Entered inside databaseconnection method inside dboperation class
+2023-08-01/15:41:21		Database already existed:: prediction
+2023-08-01/15:41:25		Entered inside databaseconnection method inside dboperation class
+2023-08-01/15:41:25		Database already existed:: prediction
+2023-08-01/15:41:28		Database connection closed successfully !!Database name:: prediction

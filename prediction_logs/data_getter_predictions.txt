@@ -1,0 +1,34 @@
+2023-08-03/21:49:07		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-03/21:49:07		Loaded the prediction dataframe succesfully
+2023-08-03/21:52:34		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-03/21:52:34		Loaded the prediction dataframe succesfully
+2023-08-03/21:54:52		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-03/21:54:52		Loaded the prediction dataframe succesfully
+2023-08-03/21:59:34		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-03/21:59:36		Loaded the prediction dataframe succesfully
+2023-08-03/22:50:22		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-03/22:50:23		Loaded the prediction dataframe succesfully
+2023-08-03/22:50:47		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-03/22:50:48		Loaded the prediction dataframe succesfully
+2023-08-04/11:56:10		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/11:56:10		Loaded the prediction dataframe succesfully
+2023-08-04/12:00:57		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:00:57		Loaded the prediction dataframe succesfully
+2023-08-04/12:14:39		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:14:41		Loaded the prediction dataframe succesfully
+2023-08-04/12:35:09		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:35:10		Loaded the prediction dataframe succesfully
+2023-08-04/12:40:19		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:40:20		Loaded the prediction dataframe succesfully
+2023-08-04/12:41:38		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:41:38		Loaded the prediction dataframe succesfully
+2023-08-04/12:44:50		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:44:50		Loaded the prediction dataframe succesfully
+2023-08-04/12:47:24		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:47:25		Loaded the prediction dataframe succesfully
+2023-08-04/12:58:56		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/12:58:57		Loaded the prediction dataframe succesfully
+2023-08-04/13:14:15		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/13:14:15		Loaded the prediction dataframe succesfully
+2023-08-04/14:17:03		Entered inside the data_loader method inside the data_getter_prediction
+2023-08-04/14:17:03		Loaded the prediction dataframe succesfully

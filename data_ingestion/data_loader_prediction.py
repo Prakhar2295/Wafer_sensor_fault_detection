@@ -39,6 +39,7 @@ class data_getter_prediction:
             file = open(self.file_object,'a+')
             self.logger_object.log(file,"Loaded the prediction dataframe succesfully")
             file.close()
+            return df
         except OSError:
             file = open(self.file_object,'a+')
             self.logger_object.log(file,"Error loading the prediction dataframe.Exception message:: %s"%OSError)

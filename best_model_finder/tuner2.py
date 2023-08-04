@@ -54,7 +54,7 @@ class model_finder:
 			self.max_depth = self.grid_xg.best_params_["max_depth"]
 			#self.gamma = self.grid_xg.best_params_["gamma"]
 			#self.objective = "binary:logistic"
-			self.xg = XGBClassifier(n_estimators=100,max_depth = 2,learning_rate=0.1)
+			self.xg = XGBClassifier(n_estimators=self.n_estimators,max_depth = self.max_depth,learning_rate=self.learning_rate)
 
 			self.xg.fit(x_train,y_train)
 
@@ -134,21 +134,50 @@ class model_finder:
 			self.file_object = open(self.file_path, 'a+')
 			self.logger_object.log(self.file_object,"Enterd inside the get_best_model method inside model_finder class!!")
 			self.file_object.close()
-			self.xg = self.get_best_params_for_xgboost(x_train, y_train)
-			self.RF = self.get_best_params_for_random_forest(x_train, y_train)
-			self.y_predict_xg = self.xg.predict(x_test)     ### y_pred (prediction) using XGboost
-			self.y_predict_rf = self.RF.predict(x_test)     ###y_pred (prediction) using RandomForest
-			if len(y_test.unique()) ==1:
+			self.xgboost = self.get_best_params_for_xgboost(x_train, y_train)
+			#self.Rforest = self.get_best_params_for_random_forest(x_train, y_train)
+
+			self.y_predict_xg = self.xgboost.predict(x_test)     ### y_pred (prediction) using XGboost
+			#self.y_predict_rf = self.Rforest.predict(x_test)###y_pred (prediction) using RandomForest
+
+			if len(y_test.unique()) ==1:         #if there is only one label in y, then roc_auc_score returns error. We will use accuracy in that case
 				self.score_xg = accuracy_score(y_test, self.y_predict_xg)
-				self.score_rf = accuracy_score(y_test, self.y_predict_rf)
+				#self.score_rf = accuracy_score(y_test, self.y_predict_rf)
+				self.file_object = open(self.file_path, 'a+')
+				self.logger_object.log(self.file_object,"The accuracy score for the xg_boost model is" + str(self.score_xg))
+				self.file_object.close()
 			else:
 				self.score_xg = roc_auc_score(y_test, self.y_predict_xg)
-				self.score_rf= roc_auc_score(y_test, self.y_predict_rf)
+				#self.score_rf= roc_auc_score(y_test, self.y_predict_rf)
+				self.file_object = open(self.file_path, 'a+')
+				self.logger_object.log(self.file_object,"The ROC_AUC_SCORE score for the xg_boost model is" + str(self.score_xg))
+				self.file_object.close()
 
-			if self.score_xg > self.score_rf:
+			self.Rforest = self.get_best_params_for_random_forest(x_train, y_train)
+			self.y_predict_rf = self.Rforest.predict(x_test)
+
+			if len(y_test.unique()) == 1:   #if there is only one label in y, then roc_auc_score returns error. We will use accuracy in that case
+				self.score_rf = accuracy_score(y_test, self.y_predict_rf)
+				self.file_object = open(self.file_path, 'a+')
+				self.logger_object.log(self.file_object,"The accuracy score for the Random Forest model is" + str(self.score_rf))
+				self.file_object.close()
+			else:
+				self.score_rf = roc_auc_score(y_test, self.y_predict_rf)
+				self.file_object = open(self.file_path, 'a+')
+				self.logger_object.log(self.file_object,"The ROC auc score is for the Random Forest model is" + str(self.score_rf))
+				self.file_object.close()
+
+			if (self.score_xg > self.score_rf):
+				self.file_object = open(self.file_path, 'a+')
+				self.logger_object.log(self.file_object,"The best model from the hyperparameter tuning and modelling chosen is  XGBoost and the score is" + str(self.score_xg))
+				self.file_object.close()
 				return "XGBOOST",self.xg
 			else:
+				self.file_object = open(self.file_path, 'a+')
+				self.logger_object.log(self.file_object,"The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is" + str(self.score_rf))
+				self.file_object.close()
 				return "RANDOMFOREST",self.RF
+
 		except Exception as e:
 			self.file_object = open(self.file_path, 'a+')
 			self.logger_object.log(self.file_object,"Exception occurred in getting get_best_model method ::%s" % e)

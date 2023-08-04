@@ -20,3 +20,5 @@
 2023-08-01/22:07:09		Inserted data into the table successfully!!
 2023-08-01/22:11:21		Entered inside the insertintoTableGooddata method inside the db operation class
 2023-08-01/22:11:22		Inserted data into the table successfully!!
+2023-08-01/22:55:00		Entered inside the insertintoTableGooddata method inside the db operation class
+2023-08-01/22:55:02		Inserted data into the table successfully!!

@@ -11904,3 +11904,8 @@
 2023-08-01/22:11:21		Entered inside databaseconnection method inside dboperation class
 2023-08-01/22:11:21		Database already existed:: training
 2023-08-01/22:11:24		Database connection closed succesfully::training
+2023-08-01/22:54:11		Entered inside databaseconnection method inside dboperation class
+2023-08-01/22:54:12		Database already existed:: training
+2023-08-01/22:55:00		Entered inside databaseconnection method inside dboperation class
+2023-08-01/22:55:01		Database already existed:: training
+2023-08-01/22:55:04		Database connection closed succesfully::training

@@ -315,3 +315,18 @@
 2023-08-01/22:11:22		Validation operation completed !!
 2023-08-01/22:11:22		Extracting csv files from table
 2023-08-01/22:11:24		Export data from database table to csv file completed successfully!!
+2023-08-01/22:54:03		Start of validation on files
+2023-08-01/22:54:06		Raw Data File Validation completed!!
+2023-08-01/22:54:06		Starting Data Transformation
+2023-08-01/22:54:11		Data Transformation Completed !!
+2023-08-01/22:54:11		Creating Training_Database and tables on the basis of given schema!!
+2023-08-01/22:55:00		Table creation Completed!!
+2023-08-01/22:55:00		Insertion of Data into Table started!!!!
+2023-08-01/22:55:02		Inserting in table completed !!!
+2023-08-01/22:55:02		Deleting Good Data Folder !!!
+2023-08-01/22:55:02		Deleted the good data training folder
+2023-08-01/22:55:02		Moving Bad Data files to archive folder and deleting the bad data folder
+2023-08-01/22:55:02		Moved the bad data to archive !! Deleted the good data training folder!!
+2023-08-01/22:55:02		Validation operation completed !!
+2023-08-01/22:55:02		Extracting csv files from table
+2023-08-01/22:55:04		Export data from database table to csv file completed successfully!!

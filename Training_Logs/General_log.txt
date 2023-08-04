@@ -149,3 +149,6 @@
 2023-08-01/22:11:22		Good Raw directory has been deleted successfully!!!
 2023-08-01/22:11:22		Bad Raw Data moved to Training Raw data Archive directory
 2023-08-01/22:11:22		Bad Raw data directory has been deleted Successfully
+2023-08-01/22:55:02		Good Raw directory has been deleted successfully!!!
+2023-08-01/22:55:02		Bad Raw Data moved to Training Raw data Archive directory
+2023-08-01/22:55:02		Bad Raw data directory has been deleted Successfully

@@ -1,0 +1,550 @@
+2023-08-03/14:35:47		Removed columns successfully inside remove_columns method
+2023-08-03/14:36:43		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/14:37:13		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/14:37:13		Finding null values inside the column completed successfully
+2023-08-03/14:37:41		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/14:37:42		Missing values imputation completed successfully !!
+2023-08-03/14:38:22		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/14:38:26		Found column names with_zero_std_deviation Successfully
+2023-08-03/14:39:24		Removed columns successfully inside remove_columns method
+2023-08-03/14:40:15		Entered inside the elbow plot method inside the clustering class
+2023-08-03/14:40:15		Plotting elbow plot failed.Exception occurred::the init parameter for the k-means should be 'k-means++' or 'random' or an ndarray, 'kmeans++' (type '<class 'str'>') was passed.
+2023-08-03/14:43:24		Removed columns successfully inside remove_columns method
+2023-08-03/14:43:27		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/14:43:30		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/14:43:31		Finding null values inside the column completed successfully
+2023-08-03/14:43:38		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/14:43:39		Missing values imputation completed successfully !!
+2023-08-03/14:43:48		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/14:43:51		Found column names with_zero_std_deviation Successfully
+2023-08-03/14:44:02		Removed columns successfully inside remove_columns method
+2023-08-03/14:46:20		Entered inside the elbow plot method inside the clustering class
+2023-08-03/14:46:26		Plotting elbow plot failed.Exception occurred::x and y must have same first dimension, but have shapes (2,) and (14,)
+2023-08-03/14:50:12		Removed columns successfully inside remove_columns method
+2023-08-03/14:50:12		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/14:50:12		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/14:50:12		Finding null values inside the column completed successfully
+2023-08-03/14:50:12		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/14:50:13		Missing values imputation completed successfully !!
+2023-08-03/14:50:13		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/14:50:14		Found column names with_zero_std_deviation Successfully
+2023-08-03/14:50:14		Removed columns successfully inside remove_columns method
+2023-08-03/14:50:14		Entered inside the elbow plot method inside the clustering class
+2023-08-03/14:50:19		Plotting elbow plot failed.Exception occurred::x and y must have same first dimension, but have shapes (2,) and (14,)
+2023-08-03/14:52:04		Removed columns successfully inside remove_columns method
+2023-08-03/14:52:06		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/14:52:07		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/14:52:07		Finding null values inside the column completed successfully
+2023-08-03/14:54:22		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/14:54:23		Missing values imputation completed successfully !!
+2023-08-03/14:54:37		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/14:54:40		Found column names with_zero_std_deviation Successfully
+2023-08-03/14:55:34		Removed columns successfully inside remove_columns method
+2023-08-03/14:58:40		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:03:48		Plotting elbow plot failed.Exception occurred::x and y must have same first dimension, but have shapes (2,) and (14,)
+2023-08-03/15:07:20		Removed columns successfully inside remove_columns method
+2023-08-03/15:07:20		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:07:20		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:07:20		Finding null values inside the column completed successfully
+2023-08-03/15:07:20		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:07:21		Missing values imputation completed successfully !!
+2023-08-03/15:07:21		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:07:26		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:07:26		Removed columns successfully inside remove_columns method
+2023-08-03/15:07:46		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:08:14		Plotting elbow plot failed.Exception occurred::x and y must have same first dimension, but have shapes (2,) and (14,)
+2023-08-03/15:09:03		Removed columns successfully inside remove_columns method
+2023-08-03/15:09:03		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:09:03		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:09:03		Finding null values inside the column completed successfully
+2023-08-03/15:09:03		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:09:04		Missing values imputation completed successfully !!
+2023-08-03/15:09:04		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:09:08		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:09:08		Removed columns successfully inside remove_columns method
+2023-08-03/15:09:27		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:09:33		Plotting elbow plot failed.Exception occurred::x and y must have same first dimension, but have shapes (2,) and (14,)
+2023-08-03/15:10:08		Removed columns successfully inside remove_columns method
+2023-08-03/15:10:08		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:10:08		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:10:08		Finding null values inside the column completed successfully
+2023-08-03/15:10:08		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:10:09		Missing values imputation completed successfully !!
+2023-08-03/15:10:09		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:10:12		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:10:12		Removed columns successfully inside remove_columns method
+2023-08-03/15:10:23		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:10:29		Plotting elbow plot failed.Exception occurred::x and y must have same first dimension, but have shapes (2,) and (14,)
+2023-08-03/15:11:18		Removed columns successfully inside remove_columns method
+2023-08-03/15:11:18		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:11:18		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:11:18		Finding null values inside the column completed successfully
+2023-08-03/15:11:18		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:11:19		Missing values imputation completed successfully !!
+2023-08-03/15:11:19		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:11:21		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:11:21		Removed columns successfully inside remove_columns method
+2023-08-03/15:11:21		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:11:27		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000001DF08AAB340>
+2023-08-03/15:13:40		Removed columns successfully inside remove_columns method
+2023-08-03/15:13:40		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:13:40		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:13:40		Finding null values inside the column completed successfully
+2023-08-03/15:13:40		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:13:41		Missing values imputation completed successfully !!
+2023-08-03/15:13:41		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:13:43		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:13:43		Removed columns successfully inside remove_columns method
+2023-08-03/15:13:43		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:13:49		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000025739FAB340>
+2023-08-03/15:13:49		Exception occurred.Creating clusters unsucessfull log() missing 1 required positional argument: 'log_message'
+2023-08-03/15:14:56		Removed columns successfully inside remove_columns method
+2023-08-03/15:14:56		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:14:56		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:14:56		Finding null values inside the column completed successfully
+2023-08-03/15:14:56		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:14:57		Missing values imputation completed successfully !!
+2023-08-03/15:14:57		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:14:59		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:14:59		Removed columns successfully inside remove_columns method
+2023-08-03/15:14:59		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:15:05		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000002106B34C340>
+2023-08-03/15:15:05		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/15:15:05		Exception occurred.Creating clusters unsucessfull '<' not supported between instances of 'int' and 'KneeLocator'
+2023-08-03/15:17:21		Removed columns successfully inside remove_columns method
+2023-08-03/15:17:21		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:17:21		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:17:21		Finding null values inside the column completed successfully
+2023-08-03/15:17:21		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:17:22		Missing values imputation completed successfully !!
+2023-08-03/15:17:22		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:17:25		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:17:25		Removed columns successfully inside remove_columns method
+2023-08-03/15:17:25		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:18:18		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x00000252A8DCC850>
+2023-08-03/15:21:38		Removed columns successfully inside remove_columns method
+2023-08-03/15:21:38		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:21:38		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:21:38		Finding null values inside the column completed successfully
+2023-08-03/15:21:38		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:21:38		Missing values imputation completed successfully !!
+2023-08-03/15:21:38		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:21:40		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:21:40		Removed columns successfully inside remove_columns method
+2023-08-03/15:21:40		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:21:46		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000027369ACB340>
+2023-08-03/15:21:46		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/15:21:47		Exception occurred.Creating clusters unsucessfull log() missing 1 required positional argument: 'log_message'
+2023-08-03/15:22:20		Removed columns successfully inside remove_columns method
+2023-08-03/15:22:20		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/15:22:20		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/15:22:20		Finding null values inside the column completed successfully
+2023-08-03/15:22:20		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/15:22:21		Missing values imputation completed successfully !!
+2023-08-03/15:22:21		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/15:22:23		Found column names with_zero_std_deviation Successfully
+2023-08-03/15:22:23		Removed columns successfully inside remove_columns method
+2023-08-03/15:22:23		Entered inside the elbow plot method inside the clustering class
+2023-08-03/15:22:29		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x00000178A3DFB340>
+2023-08-03/15:22:29		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/15:22:29		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/16:00:39		Removed columns successfully inside remove_columns method
+2023-08-03/16:00:39		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/16:00:39		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/16:00:39		Finding null values inside the column completed successfully
+2023-08-03/16:00:39		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/16:00:40		Missing values imputation completed successfully !!
+2023-08-03/16:00:40		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/16:00:44		Found column names with_zero_std_deviation Successfully
+2023-08-03/16:00:44		Removed columns successfully inside remove_columns method
+2023-08-03/16:00:44		Entered inside the elbow plot method inside the clustering class
+2023-08-03/16:00:51		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000002C9D864F070>
+2023-08-03/16:00:51		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/16:01:17		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/16:09:36		Removed columns successfully inside remove_columns method
+2023-08-03/16:09:36		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/16:09:36		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/16:09:37		Finding null values inside the column completed successfully
+2023-08-03/16:09:37		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/16:09:37		Missing values imputation completed successfully !!
+2023-08-03/16:09:37		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/16:09:41		Found column names with_zero_std_deviation Successfully
+2023-08-03/16:09:41		Removed columns successfully inside remove_columns method
+2023-08-03/16:09:41		Entered inside the elbow plot method inside the clustering class
+2023-08-03/16:09:48		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000017BB063ED00>
+2023-08-03/16:09:48		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/16:09:49		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/16:12:34		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/16:12:34		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/16:13:15		Removed columns successfully inside remove_columns method
+2023-08-03/16:13:15		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/16:13:15		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/16:13:15		Finding null values inside the column completed successfully
+2023-08-03/16:13:15		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/16:13:16		Missing values imputation completed successfully !!
+2023-08-03/16:13:16		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/16:13:18		Found column names with_zero_std_deviation Successfully
+2023-08-03/16:13:18		Removed columns successfully inside remove_columns method
+2023-08-03/16:13:18		Entered inside the elbow plot method inside the clustering class
+2023-08-03/16:13:23		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000027AAB0BB4C0>
+2023-08-03/16:13:23		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/16:13:24		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/16:13:24		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/16:13:24		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/17:24:44		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02], 'gamma': [0.1, 0.02, 0.3]}
+2023-08-03/17:24:44		Exception occurred in getting best_params_for_xgboost method ::__init__() got multiple values for argument 'verbosity'
+2023-08-03/17:24:44		Exception occurred in getting get_best_model method ::__init__() got multiple values for argument 'verbosity'
+2023-08-03/17:59:05		Removed columns successfully inside remove_columns method
+2023-08-03/17:59:05		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/17:59:05		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/17:59:05		Finding null values inside the column completed successfully
+2023-08-03/17:59:05		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/17:59:06		Missing values imputation completed successfully !!
+2023-08-03/17:59:06		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/17:59:08		Found column names with_zero_std_deviation Successfully
+2023-08-03/17:59:08		Removed columns successfully inside remove_columns method
+2023-08-03/17:59:08		Entered inside the elbow plot method inside the clustering class
+2023-08-03/17:59:17		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x00000258B947B490>
+2023-08-03/17:59:17		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/17:59:17		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/17:59:17		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/17:59:17		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/17:59:17		Exception occurred in getting best_params_for_xgboost method ::k-fold cross-validation requires at least one train/test split by setting n_splits=2 or more, got n_splits=1.
+2023-08-03/17:59:17		Exception occurred in getting get_best_model method ::k-fold cross-validation requires at least one train/test split by setting n_splits=2 or more, got n_splits=1.
+2023-08-03/18:03:22		Removed columns successfully inside remove_columns method
+2023-08-03/18:03:22		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/18:03:22		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/18:03:22		Finding null values inside the column completed successfully
+2023-08-03/18:03:22		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/18:03:23		Missing values imputation completed successfully !!
+2023-08-03/18:03:23		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/18:03:25		Found column names with_zero_std_deviation Successfully
+2023-08-03/18:03:25		Removed columns successfully inside remove_columns method
+2023-08-03/18:03:25		Entered inside the elbow plot method inside the clustering class
+2023-08-03/18:03:32		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000001FBB041A490>
+2023-08-03/18:03:32		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/18:03:32		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/18:03:33		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/18:03:33		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/18:19:55		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02], 'gamma': [0.1, 0.02, 0.3]}
+2023-08-03/18:19:55		Exception occurred in getting best_params_for_xgboost method ::'float' object cannot be interpreted as an integer
+2023-08-03/18:19:55		Exception occurred in getting get_best_model method ::'float' object cannot be interpreted as an integer
+2023-08-03/18:31:34		Removed columns successfully inside remove_columns method
+2023-08-03/18:31:34		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/18:31:34		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/18:31:35		Finding null values inside the column completed successfully
+2023-08-03/18:31:35		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/18:31:35		Missing values imputation completed successfully !!
+2023-08-03/18:31:35		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/18:31:37		Found column names with_zero_std_deviation Successfully
+2023-08-03/18:31:37		Removed columns successfully inside remove_columns method
+2023-08-03/18:31:37		Entered inside the elbow plot method inside the clustering class
+2023-08-03/18:31:45		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000001F94D4DB490>
+2023-08-03/18:31:45		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/18:31:45		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/18:31:45		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/18:31:45		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/18:32:26		Removed columns successfully inside remove_columns method
+2023-08-03/18:32:26		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/18:32:26		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/18:32:26		Finding null values inside the column completed successfully
+2023-08-03/18:32:26		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/18:32:27		Missing values imputation completed successfully !!
+2023-08-03/18:32:27		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/18:32:31		Found column names with_zero_std_deviation Successfully
+2023-08-03/18:32:31		Removed columns successfully inside remove_columns method
+2023-08-03/18:32:31		Entered inside the elbow plot method inside the clustering class
+2023-08-03/18:32:38		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x00000297ECC8CA00>
+2023-08-03/18:32:38		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/18:32:38		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/18:32:38		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/18:33:02		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/18:38:36		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-03/18:47:46		Exception occurred in getting best_params_for_xgboost method ::'float' object cannot be interpreted as an integer
+2023-08-03/18:48:21		Exception occurred in getting get_best_model method ::'float' object cannot be interpreted as an integer
+2023-08-03/18:51:30		Removed columns successfully inside remove_columns method
+2023-08-03/18:51:30		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/18:51:30		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/18:51:30		Finding null values inside the column completed successfully
+2023-08-03/18:51:30		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/18:51:31		Missing values imputation completed successfully !!
+2023-08-03/18:51:31		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/18:51:35		Found column names with_zero_std_deviation Successfully
+2023-08-03/18:51:35		Removed columns successfully inside remove_columns method
+2023-08-03/18:51:35		Entered inside the elbow plot method inside the clustering class
+2023-08-03/18:51:41		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000001E216A7DC40>
+2023-08-03/18:51:41		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/18:51:42		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/18:51:42		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/18:52:18		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/18:56:56		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-03/19:03:51		Exception occurred in getting best_params_for_xgboost method ::'float' object cannot be interpreted as an integer
+2023-08-03/19:04:09		Exception occurred in getting get_best_model method ::'float' object cannot be interpreted as an integer
+2023-08-03/19:09:17		Removed columns successfully inside remove_columns method
+2023-08-03/19:09:17		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/19:09:17		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/19:09:17		Finding null values inside the column completed successfully
+2023-08-03/19:09:17		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/19:09:18		Missing values imputation completed successfully !!
+2023-08-03/19:09:18		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/19:09:22		Found column names with_zero_std_deviation Successfully
+2023-08-03/19:09:22		Removed columns successfully inside remove_columns method
+2023-08-03/19:09:22		Entered inside the elbow plot method inside the clustering class
+2023-08-03/19:09:31		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000021A161103D0>
+2023-08-03/19:09:31		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/19:09:32		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/19:09:32		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/19:09:38		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/19:14:51		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-03/19:16:02		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-03/20:07:22		Removed columns successfully inside remove_columns method
+2023-08-03/20:07:22		Entered inside the separate label features method inside the preprocessing class.
+2023-08-03/20:07:22		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/20:07:22		Finding null values inside the column completed successfully
+2023-08-03/20:07:22		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/20:07:23		Missing values imputation completed successfully !!
+2023-08-03/20:07:23		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/20:07:26		Found column names with_zero_std_deviation Successfully
+2023-08-03/20:07:26		Removed columns successfully inside remove_columns method
+2023-08-03/20:07:26		Entered inside the elbow plot method inside the clustering class
+2023-08-03/20:07:35		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x00000195C00CB490>
+2023-08-03/20:07:35		Entered insdde the create cluster inside method inside the clustering class
+2023-08-03/20:07:36		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-03/20:07:36		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/20:07:36		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/20:12:51		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-03/20:12:52		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-03/20:21:16		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-03/20:21:16		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-03/20:21:16		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/20:21:16		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/20:22:34		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-03/20:22:34		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-03/20:30:09		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-03/20:30:09		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-03/20:30:09		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/20:30:09		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/20:32:05		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-03/20:32:05		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-03/20:39:58		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-03/20:39:59		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-03/20:39:59		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-03/20:39:59		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-03/20:41:19		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-03/20:41:20		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-03/20:48:34		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-03/20:48:34		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-03/21:49:07		Removed columns successfully inside remove_columns method
+2023-08-03/21:49:07		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/21:49:07		Finding null values inside the column completed successfully
+2023-08-03/21:49:07		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/21:49:08		Missing values imputation completed successfully !!
+2023-08-03/21:49:08		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/21:49:10		Found column names with_zero_std_deviation Successfully
+2023-08-03/21:49:10		Removed columns successfully inside remove_columns method
+2023-08-03/21:52:34		Removed columns successfully inside remove_columns method
+2023-08-03/21:52:34		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/21:52:34		Finding null values inside the column completed successfully
+2023-08-03/21:52:34		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/21:52:35		Missing values imputation completed successfully !!
+2023-08-03/21:52:35		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/21:52:36		Found column names with_zero_std_deviation Successfully
+2023-08-03/21:52:36		Removed columns successfully inside remove_columns method
+2023-08-03/21:54:52		Removed columns successfully inside remove_columns method
+2023-08-03/21:54:52		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/21:54:52		Finding null values inside the column completed successfully
+2023-08-03/21:54:52		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/21:54:53		Missing values imputation completed successfully !!
+2023-08-03/21:54:53		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/21:54:54		Found column names with_zero_std_deviation Successfully
+2023-08-03/21:54:54		Removed columns successfully inside remove_columns method
+2023-08-03/21:59:36		Removed columns successfully inside remove_columns method
+2023-08-03/21:59:36		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/21:59:36		Finding null values inside the column completed successfully
+2023-08-03/21:59:36		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/21:59:37		Missing values imputation completed successfully !!
+2023-08-03/21:59:37		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/21:59:38		Found column names with_zero_std_deviation Successfully
+2023-08-03/21:59:38		Removed columns successfully inside remove_columns method
+2023-08-03/22:50:23		Removed columns successfully inside remove_columns method
+2023-08-03/22:50:23		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/22:50:23		Finding null values inside the column completed successfully
+2023-08-03/22:50:23		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/22:50:24		Missing values imputation completed successfully !!
+2023-08-03/22:50:24		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/22:50:25		Found column names with_zero_std_deviation Successfully
+2023-08-03/22:50:25		Removed columns successfully inside remove_columns method
+2023-08-03/22:50:48		Removed columns successfully inside remove_columns method
+2023-08-03/22:50:48		Entered inside the is_null_present method inside the preprocessing class
+2023-08-03/22:50:48		Finding null values inside the column completed successfully
+2023-08-03/22:50:48		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-03/22:50:48		Missing values imputation completed successfully !!
+2023-08-03/22:50:48		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-03/22:50:50		Found column names with_zero_std_deviation Successfully
+2023-08-03/22:50:50		Removed columns successfully inside remove_columns method
+2023-08-04/01:05:51		Removed columns successfully inside remove_columns method
+2023-08-04/01:05:51		Entered inside the separate label features method inside the preprocessing class.
+2023-08-04/01:05:51		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/01:05:51		Finding null values inside the column completed successfully
+2023-08-04/01:05:51		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/01:05:52		Missing values imputation completed successfully !!
+2023-08-04/01:05:52		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/01:05:53		Found column names with_zero_std_deviation Successfully
+2023-08-04/01:05:53		Removed columns successfully inside remove_columns method
+2023-08-04/01:05:53		Entered inside the elbow plot method inside the clustering class
+2023-08-04/01:06:00		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000027BCF2705E0>
+2023-08-04/01:06:00		Entered insdde the create cluster inside method inside the clustering class
+2023-08-04/01:06:00		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-04/09:57:54		Removed columns successfully inside remove_columns method
+2023-08-04/09:57:54		Entered inside the separate label features method inside the preprocessing class.
+2023-08-04/09:57:54		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/09:57:54		Finding null values inside the column completed successfully
+2023-08-04/09:57:54		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/09:57:54		Missing values imputation completed successfully !!
+2023-08-04/09:57:54		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/09:57:55		Found column names with_zero_std_deviation Successfully
+2023-08-04/09:57:55		Removed columns successfully inside remove_columns method
+2023-08-04/09:57:55		Entered inside the elbow plot method inside the clustering class
+2023-08-04/09:58:00		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000001C9834AF5E0>
+2023-08-04/09:58:00		Entered insdde the create cluster inside method inside the clustering class
+2023-08-04/09:58:01		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-04/11:57:10		Removed columns successfully inside remove_columns method
+2023-08-04/11:57:17		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/11:57:18		Finding null values inside the column completed successfully
+2023-08-04/11:57:28		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/11:57:29		Missing values imputation completed successfully !!
+2023-08-04/11:57:47		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/11:57:51		Found column names with_zero_std_deviation Successfully
+2023-08-04/11:58:47		Removed columns successfully inside remove_columns method
+2023-08-04/12:00:57		Removed columns successfully inside remove_columns method
+2023-08-04/12:00:57		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:00:57		Finding null values inside the column completed successfully
+2023-08-04/12:00:57		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:00:58		Missing values imputation completed successfully !!
+2023-08-04/12:00:58		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:01:01		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:01:06		Removed columns successfully inside remove_columns method
+2023-08-04/12:14:41		Removed columns successfully inside remove_columns method
+2023-08-04/12:14:41		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:14:41		Finding null values inside the column completed successfully
+2023-08-04/12:14:41		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:14:41		Missing values imputation completed successfully !!
+2023-08-04/12:14:41		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:14:45		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:14:52		Removed columns successfully inside remove_columns method
+2023-08-04/12:35:10		Removed columns successfully inside remove_columns method
+2023-08-04/12:35:19		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:35:19		Finding null values inside the column completed successfully
+2023-08-04/12:36:09		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:36:10		Missing values imputation completed successfully !!
+2023-08-04/12:36:20		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:36:24		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:36:31		Removed columns successfully inside remove_columns method
+2023-08-04/12:40:20		Removed columns successfully inside remove_columns method
+2023-08-04/12:40:23		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:40:23		Finding null values inside the column completed successfully
+2023-08-04/12:40:25		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:40:26		Missing values imputation completed successfully !!
+2023-08-04/12:40:27		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:40:29		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:40:36		Removed columns successfully inside remove_columns method
+2023-08-04/12:41:38		Removed columns successfully inside remove_columns method
+2023-08-04/12:41:39		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:41:39		Finding null values inside the column completed successfully
+2023-08-04/12:41:42		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:41:42		Missing values imputation completed successfully !!
+2023-08-04/12:41:43		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:41:47		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:41:49		Removed columns successfully inside remove_columns method
+2023-08-04/12:44:50		Removed columns successfully inside remove_columns method
+2023-08-04/12:44:53		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:44:53		Finding null values inside the column completed successfully
+2023-08-04/12:44:55		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:44:55		Missing values imputation completed successfully !!
+2023-08-04/12:44:56		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:44:59		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:45:01		Removed columns successfully inside remove_columns method
+2023-08-04/12:47:25		Removed columns successfully inside remove_columns method
+2023-08-04/12:47:27		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:47:27		Finding null values inside the column completed successfully
+2023-08-04/12:47:29		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:47:30		Missing values imputation completed successfully !!
+2023-08-04/12:47:31		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:47:34		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:47:35		Removed columns successfully inside remove_columns method
+2023-08-04/12:58:57		Removed columns successfully inside remove_columns method
+2023-08-04/12:58:57		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/12:58:57		Finding null values inside the column completed successfully
+2023-08-04/12:58:57		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/12:58:57		Missing values imputation completed successfully !!
+2023-08-04/12:58:57		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/12:58:59		Found column names with_zero_std_deviation Successfully
+2023-08-04/12:58:59		Removed columns successfully inside remove_columns method
+2023-08-04/13:14:15		Removed columns successfully inside remove_columns method
+2023-08-04/13:14:15		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/13:14:15		Finding null values inside the column completed successfully
+2023-08-04/13:14:15		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/13:14:16		Missing values imputation completed successfully !!
+2023-08-04/13:14:16		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/13:14:18		Found column names with_zero_std_deviation Successfully
+2023-08-04/13:14:18		Removed columns successfully inside remove_columns method
+2023-08-04/14:17:03		Removed columns successfully inside remove_columns method
+2023-08-04/14:17:03		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/14:17:04		Finding null values inside the column completed successfully
+2023-08-04/14:17:04		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/14:17:04		Missing values imputation completed successfully !!
+2023-08-04/14:17:04		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/14:17:06		Found column names with_zero_std_deviation Successfully
+2023-08-04/14:17:06		Removed columns successfully inside remove_columns method
+2023-08-04/14:51:06		Removed columns successfully inside remove_columns method
+2023-08-04/14:51:08		Entered inside the separate label features method inside the preprocessing class.
+2023-08-04/14:51:09		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/14:51:09		Finding null values inside the column completed successfully
+2023-08-04/14:51:11		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/14:51:12		Missing values imputation completed successfully !!
+2023-08-04/14:51:14		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/14:51:17		Found column names with_zero_std_deviation Successfully
+2023-08-04/14:51:19		Removed columns successfully inside remove_columns method
+2023-08-04/14:51:22		Entered inside the elbow plot method inside the clustering class
+2023-08-04/14:51:28		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000022C86774AC0>
+2023-08-04/14:51:38		Entered insdde the create cluster inside method inside the clustering class
+2023-08-04/14:51:38		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-04/14:53:20		Removed columns successfully inside remove_columns method
+2023-08-04/14:53:20		Entered inside the separate label features method inside the preprocessing class.
+2023-08-04/14:53:20		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/14:53:20		Finding null values inside the column completed successfully
+2023-08-04/14:53:20		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/14:53:20		Missing values imputation completed successfully !!
+2023-08-04/14:53:20		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/14:53:22		Found column names with_zero_std_deviation Successfully
+2023-08-04/14:53:22		Removed columns successfully inside remove_columns method
+2023-08-04/14:53:22		Entered inside the elbow plot method inside the clustering class
+2023-08-04/14:53:27		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000002AC3AF2F4C0>
+2023-08-04/14:53:27		Entered insdde the create cluster inside method inside the clustering class
+2023-08-04/14:53:27		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-04/15:17:33		Removed columns successfully inside remove_columns method
+2023-08-04/15:17:33		Entered inside the separate label features method inside the preprocessing class.
+2023-08-04/15:17:33		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/15:17:33		Finding null values inside the column completed successfully
+2023-08-04/15:17:33		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/15:17:34		Missing values imputation completed successfully !!
+2023-08-04/15:17:34		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/15:17:36		Found column names with_zero_std_deviation Successfully
+2023-08-04/15:17:36		Removed columns successfully inside remove_columns method
+2023-08-04/15:17:36		Entered inside the elbow plot method inside the clustering class
+2023-08-04/15:17:42		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x0000013BA919F490>
+2023-08-04/15:17:42		Entered insdde the create cluster inside method inside the clustering class
+2023-08-04/15:17:42		Clusters created succesfully.New dataframe created with clusters!!
+2023-08-04/18:14:50		Removed columns successfully inside remove_columns method
+2023-08-04/18:14:50		Entered inside the separate label features method inside the preprocessing class.
+2023-08-04/18:14:51		Entered inside the is_null_present method inside the preprocessing class
+2023-08-04/18:14:51		Finding null values inside the column completed successfully
+2023-08-04/18:14:51		Entered inside the missing_value_imputation method inside the preprocessing class
+2023-08-04/18:14:51		Missing values imputation completed successfully !!
+2023-08-04/18:14:51		Entered inside the cols_with_zero_std_deviation method inside the preprocessing class
+2023-08-04/18:14:53		Found column names with_zero_std_deviation Successfully
+2023-08-04/18:14:53		Removed columns successfully inside remove_columns method
+2023-08-04/18:14:53		Entered inside the elbow plot method inside the clustering class
+2023-08-04/18:15:00		Elbow plot hase been created successfully!!Number of clusters will be ::<kneed.knee_locator.KneeLocator object at 0x000001671574F490>
+2023-08-04/18:15:00		Entered insdde the create cluster inside method inside the clustering class
+2023-08-04/18:15:01		Clusters created succesfully.New dataframe created with clusters!!

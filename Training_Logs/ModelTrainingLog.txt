@@ -1,0 +1,932 @@
+2023-08-02/00:22:39		Start Of Training!!
+2023-08-02/00:22:39		Entered the get_data method of the Data Gtter class
+2023-08-02/00:22:39		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:22:39		Unsuccessful End of Training
+2023-08-02/00:30:21		Start Of Training!!
+2023-08-02/00:30:21		Entered the get_data method of the Data Gtter class
+2023-08-02/00:30:21		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:30:21		Entered the remove column method of the preprocessing class
+2023-08-02/00:30:21		Error occurred while removing columns it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/00:30:21		Error occurred while removing 'NoneType' object has no attribute 'drop'
+2023-08-02/00:30:21		Unsuccessful End of Training
+2023-08-02/00:39:36		Start Of Training!!
+2023-08-02/00:40:48		Entered the get_data method of the Data Gtter class
+2023-08-02/00:40:48		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:42:29		Entered the remove column method of the preprocessing class
+2023-08-02/00:43:04		Error occurred while removing columns it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/00:43:05		Error occurred while removing 'NoneType' object has no attribute 'drop'
+2023-08-02/00:43:16		Unsuccessful End of Training
+2023-08-02/00:44:21		Start Of Training!!
+2023-08-02/00:44:33		Entered the get_data method of the Data Gtter class
+2023-08-02/00:48:59		Start Of Training!!
+2023-08-02/00:48:59		Entered the get_data method of the Data Gtter class
+2023-08-02/00:48:59		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:48:59		Entered the remove column method of the preprocessing class
+2023-08-02/00:48:59		Error occurred while removing columns it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/00:48:59		Error occurred while removing drop() got an unexpected keyword argument 'label'
+2023-08-02/00:48:59		Unsuccessful End of Training
+2023-08-02/00:50:06		Start Of Training!!
+2023-08-02/00:50:08		Entered the get_data method of the Data Gtter class
+2023-08-02/00:50:14		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:51:14		Start Of Training!!
+2023-08-02/00:51:14		Entered the get_data method of the Data Gtter class
+2023-08-02/00:51:15		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:51:15		Entered the remove column method of the preprocessing class
+2023-08-02/00:51:15		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/00:51:15		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/00:51:15		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/00:51:15		Exception occurred during separating the dataframe drop() got an unexpected keyword argument 'label'
+2023-08-02/00:51:15		Label separation unsuccessfull.Exiting the separate column method of the preprocessing class
+2023-08-02/00:51:15		Unsuccessful End of Training
+2023-08-02/00:52:11		Start Of Training!!
+2023-08-02/00:52:16		Entered the get_data method of the Data Gtter class
+2023-08-02/00:52:18		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:53:50		Entered the remove column method of the preprocessing class
+2023-08-02/00:53:57		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/00:54:01		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/00:54:35		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/00:55:12		Exception occurred during separating the dataframe drop() got an unexpected keyword argument 'label'
+2023-08-02/00:55:12		Label separation unsuccessfull.Exiting the separate column method of the preprocessing class
+2023-08-02/00:55:28		Unsuccessful End of Training
+2023-08-02/00:55:57		Start Of Training!!
+2023-08-02/00:55:57		Entered the get_data method of the Data Gtter class
+2023-08-02/00:55:57		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:55:57		Entered the remove column method of the preprocessing class
+2023-08-02/00:55:57		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/00:55:57		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/00:55:57		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/00:55:57		Exception occurred during separating the dataframe 'App_Logger' object is not callable
+2023-08-02/00:55:57		Label separation unsuccessfull.Exiting the separate column method of the preprocessing class
+2023-08-02/00:55:57		Unsuccessful End of Training
+2023-08-02/00:58:28		Start Of Training!!
+2023-08-02/00:58:33		Entered the get_data method of the Data Gtter class
+2023-08-02/00:58:35		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/00:58:42		Entered the remove column method of the preprocessing class
+2023-08-02/00:58:47		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/00:58:55		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/00:59:40		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:04:28		Start Of Training!!
+2023-08-02/01:04:28		Entered the get_data method of the Data Gtter class
+2023-08-02/01:04:29		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:04:29		Entered the remove column method of the preprocessing class
+2023-08-02/01:04:29		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:04:29		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:04:29		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:04:29		Exiting the separate label features method
+2023-08-02/01:04:29		Entered the is_null_present method in preprocessing class
+2023-08-02/01:04:29		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:04:30		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:04:30		Entered the remove column method of the preprocessing class
+2023-08-02/01:04:30		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:11:35		Start Of Training!!
+2023-08-02/01:11:35		Entered the get_data method of the Data Gtter class
+2023-08-02/01:11:45		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:11:49		Entered the remove column method of the preprocessing class
+2023-08-02/01:12:06		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:12:16		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:12:50		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:12:58		Exiting the separate label features method
+2023-08-02/01:13:59		Entered the is_null_present method in preprocessing class
+2023-08-02/01:14:30		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:14:32		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:14:58		Start Of Training!!
+2023-08-02/01:14:58		Entered the get_data method of the Data Gtter class
+2023-08-02/01:15:03		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:15:08		Entered the remove column method of the preprocessing class
+2023-08-02/01:15:17		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:15:22		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:15:25		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:15:30		Exiting the separate label features method
+2023-08-02/01:16:04		Entered the is_null_present method in preprocessing class
+2023-08-02/01:22:50		Start Of Training!!
+2023-08-02/01:22:50		Entered the get_data method of the Data Gtter class
+2023-08-02/01:22:57		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:23:02		Entered the remove column method of the preprocessing class
+2023-08-02/01:23:03		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:23:03		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:23:06		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:23:09		Exiting the separate label features method
+2023-08-02/01:23:29		Entered the is_null_present method in preprocessing class
+2023-08-02/01:27:03		Start Of Training!!
+2023-08-02/01:27:03		Entered the get_data method of the Data Gtter class
+2023-08-02/01:27:04		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:27:04		Entered the remove column method of the preprocessing class
+2023-08-02/01:27:04		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:27:04		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:27:04		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:29:37		Start Of Training!!
+2023-08-02/01:29:37		Entered the get_data method of the Data Gtter class
+2023-08-02/01:29:38		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:29:38		Entered the remove column method of the preprocessing class
+2023-08-02/01:29:38		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:29:38		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:29:38		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:29:38		Exiting the separate label features method
+2023-08-02/01:29:38		Entered the is_null_present method in preprocessing class
+2023-08-02/01:29:38		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:29:39		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:29:39		Entered the remove column method of the preprocessing class
+2023-08-02/01:29:39		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:49:54		Start Of Training!!
+2023-08-02/01:49:54		Entered the get_data method of the Data Gtter class
+2023-08-02/01:49:54		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:49:54		Entered the remove column method of the preprocessing class
+2023-08-02/01:49:54		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:49:54		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:49:54		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:49:54		Exiting the separate label features method
+2023-08-02/01:49:54		Entered the is_null_present method in preprocessing class
+2023-08-02/01:49:54		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/01:49:54		Entered the impute missing values method of the preprocessing class
+2023-08-02/01:49:55		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/01:49:55		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:49:57		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:49:57		Entered the remove column method of the preprocessing class
+2023-08-02/01:49:57		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:53:38		Start Of Training!!
+2023-08-02/01:53:38		Entered the get_data method of the Data Gtter class
+2023-08-02/01:53:38		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:53:38		Entered the remove column method of the preprocessing class
+2023-08-02/01:53:38		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:53:38		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:53:38		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:53:38		Exiting the separate label features method
+2023-08-02/01:53:38		Entered the is_null_present method in preprocessing class
+2023-08-02/01:53:38		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/01:53:38		Entered the impute missing values method of the preprocessing class
+2023-08-02/01:53:39		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/01:53:39		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:53:40		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:53:40		Entered the remove column method of the preprocessing class
+2023-08-02/01:53:40		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:54:46		Start Of Training!!
+2023-08-02/01:54:46		Entered the get_data method of the Data Gtter class
+2023-08-02/01:54:46		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:54:46		Entered the remove column method of the preprocessing class
+2023-08-02/01:54:46		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:54:46		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:54:46		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:54:46		Exiting the separate label features method
+2023-08-02/01:54:46		Entered the is_null_present method in preprocessing class
+2023-08-02/01:54:46		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/01:54:46		Entered the impute missing values method of the preprocessing class
+2023-08-02/01:54:47		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/01:54:47		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:54:48		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:54:48		Entered the remove column method of the preprocessing class
+2023-08-02/01:54:48		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:55:26		Start Of Training!!
+2023-08-02/01:55:26		Entered the get_data method of the Data Gtter class
+2023-08-02/01:55:26		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:55:26		Entered the remove column method of the preprocessing class
+2023-08-02/01:55:26		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:55:26		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:55:26		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:55:26		Exiting the separate label features method
+2023-08-02/01:55:26		Entered the is_null_present method in preprocessing class
+2023-08-02/01:55:26		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/01:55:26		Entered the impute missing values method of the preprocessing class
+2023-08-02/01:55:27		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/01:55:27		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:55:28		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:55:28		Entered the remove column method of the preprocessing class
+2023-08-02/01:55:28		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:56:15		Start Of Training!!
+2023-08-02/01:56:15		Entered the get_data method of the Data Gtter class
+2023-08-02/01:56:15		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:56:15		Entered the remove column method of the preprocessing class
+2023-08-02/01:56:15		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:56:15		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:56:15		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:56:15		Exiting the separate label features method
+2023-08-02/01:56:15		Entered the is_null_present method in preprocessing class
+2023-08-02/01:56:15		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/01:56:15		Entered the impute missing values method of the preprocessing class
+2023-08-02/01:56:15		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/01:56:15		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:56:16		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:56:16		Entered the remove column method of the preprocessing class
+2023-08-02/01:56:16		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:58:13		Start Of Training!!
+2023-08-02/01:58:13		Entered the get_data method of the Data Gtter class
+2023-08-02/01:58:13		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:58:13		Entered the remove column method of the preprocessing class
+2023-08-02/01:58:13		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:58:13		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:58:13		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:58:13		Exiting the separate label features method
+2023-08-02/01:58:13		Entered the is_null_present method in preprocessing class
+2023-08-02/01:58:13		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/01:58:13		Entered the impute missing values method of the preprocessing class
+2023-08-02/01:58:14		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/01:58:14		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:58:15		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:58:15		Entered the remove column method of the preprocessing class
+2023-08-02/01:58:15		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/01:59:37		Start Of Training!!
+2023-08-02/01:59:37		Entered the get_data method of the Data Gtter class
+2023-08-02/01:59:37		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/01:59:37		Entered the remove column method of the preprocessing class
+2023-08-02/01:59:37		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/01:59:37		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/01:59:37		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/01:59:37		Exiting the separate label features method
+2023-08-02/01:59:37		Entered the is_null_present method in preprocessing class
+2023-08-02/01:59:37		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/01:59:37		Entered the impute missing values method of the preprocessing class
+2023-08-02/01:59:38		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/01:59:38		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/01:59:39		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/01:59:39		Entered the remove column method of the preprocessing class
+2023-08-02/01:59:39		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/02:18:59		Start Of Training!!
+2023-08-02/02:18:59		Entered the get_data method of the Data Gtter class
+2023-08-02/02:19:00		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/02:19:00		Entered the remove column method of the preprocessing class
+2023-08-02/02:19:00		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/02:19:00		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/02:19:00		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/02:19:00		Exiting the separate label features method
+2023-08-02/02:19:00		Entered the is_null_present method in preprocessing class
+2023-08-02/02:19:00		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/02:19:00		Entered the impute missing values method of the preprocessing class
+2023-08-02/02:19:01		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/02:19:01		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/02:19:02		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/02:19:02		Entered the remove column method of the preprocessing class
+2023-08-02/02:19:02		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/02:30:33		Start Of Training!!
+2023-08-02/02:30:33		Entered the get_data method of the Data Gtter class
+2023-08-02/02:30:33		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/02:30:33		Entered the remove column method of the preprocessing class
+2023-08-02/02:30:33		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/02:30:33		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/02:30:33		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/02:30:33		Exiting the separate label features method
+2023-08-02/02:30:33		Entered the is_null_present method in preprocessing class
+2023-08-02/02:30:33		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/02:30:33		Entered the impute missing values method of the preprocessing class
+2023-08-02/02:30:34		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/02:30:34		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/02:30:35		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/02:30:35		Entered the remove column method of the preprocessing class
+2023-08-02/02:30:35		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/02:40:29		Start Of Training!!
+2023-08-02/02:40:29		Entered the get_data method of the Data Gtter class
+2023-08-02/02:40:29		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/02:40:29		Entered the remove column method of the preprocessing class
+2023-08-02/02:40:29		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/02:40:29		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/02:40:29		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/02:40:29		Exiting the separate label features method
+2023-08-02/02:40:29		Entered the is_null_present method in preprocessing class
+2023-08-02/02:40:29		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/02:40:29		Entered the impute missing values method of the preprocessing class
+2023-08-02/02:40:30		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/02:40:30		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/02:40:31		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/02:40:31		Entered the remove column method of the preprocessing class
+2023-08-02/02:40:31		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/09:57:28		Start Of Training!!
+2023-08-02/09:57:28		Entered the get_data method of the Data Gtter class
+2023-08-02/09:57:28		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/09:57:28		Entered the remove column method of the preprocessing class
+2023-08-02/09:57:28		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/09:57:28		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/09:57:28		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/09:57:28		Exiting the separate label features method
+2023-08-02/09:57:28		Entered the is_null_present method in preprocessing class
+2023-08-02/09:57:28		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/09:57:28		Entered the impute missing values method of the preprocessing class
+2023-08-02/09:57:29		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/09:57:29		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/09:57:30		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/09:57:30		Entered the remove column method of the preprocessing class
+2023-08-02/09:57:30		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/10:13:33		Start Of Training!!
+2023-08-02/10:13:33		Entered the get_data method of the Data Gtter class
+2023-08-02/10:13:34		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/10:13:34		Entered the remove column method of the preprocessing class
+2023-08-02/10:13:34		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/10:13:34		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/10:13:34		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/10:13:34		Exiting the separate label features method
+2023-08-02/10:13:34		Entered the is_null_present method in preprocessing class
+2023-08-02/10:13:34		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/10:13:34		Entered the impute missing values method of the preprocessing class
+2023-08-02/10:13:36		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/10:13:36		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/10:13:39		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/10:13:39		Entered the remove column method of the preprocessing class
+2023-08-02/10:13:39		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/10:31:01		Start Of Training!!
+2023-08-02/10:31:01		Entered the get_data method of the Data Gtter class
+2023-08-02/10:31:02		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/10:31:02		Entered the remove column method of the preprocessing class
+2023-08-02/10:31:02		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/10:31:02		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/10:31:02		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/10:31:02		Exiting the separate label features method
+2023-08-02/10:31:02		Entered the is_null_present method in preprocessing class
+2023-08-02/10:31:02		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/10:31:02		Entered the impute missing values method of the preprocessing class
+2023-08-02/10:31:02		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/10:31:02		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/10:31:04		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/10:31:04		Entered the remove column method of the preprocessing class
+2023-08-02/10:31:04		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-02/10:43:57		Start Of Training!!
+2023-08-02/10:43:57		Entered the get_data method of the Data Gtter class
+2023-08-02/10:43:57		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-02/10:43:57		Entered the remove column method of the preprocessing class
+2023-08-02/10:43:57		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-02/10:43:57		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-02/10:43:57		Entered the separate the label feature method inside the preprocessing class
+2023-08-02/10:43:57		Exiting the separate label features method
+2023-08-02/10:43:57		Entered the is_null_present method in preprocessing class
+2023-08-02/10:43:57		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-02/10:43:57		Entered the impute missing values method of the preprocessing class
+2023-08-02/10:43:58		Imputing the missing values succesfull exiting the impute values method
+2023-08-02/10:43:58		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-02/10:44:00		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-02/10:44:00		Entered the remove column method of the preprocessing class
+2023-08-02/10:44:00		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-03/03:22:06		Start Of Training!!
+2023-08-03/03:22:06		Entered the get_data method of the Data Gtter class
+2023-08-03/03:22:07		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/03:22:07		Entered the remove column method of the preprocessing class
+2023-08-03/03:22:07		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-03/03:22:07		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/03:22:07		Entered the separate the label feature method inside the preprocessing class
+2023-08-03/03:22:07		Exiting the separate label features method
+2023-08-03/03:22:07		Entered the is_null_present method in preprocessing class
+2023-08-03/03:22:07		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-03/03:22:07		Entered the impute missing values method of the preprocessing class
+2023-08-03/03:22:08		Imputing the missing values succesfull exiting the impute values method
+2023-08-03/03:22:08		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-03/03:22:09		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-03/03:22:09		Entered the remove column method of the preprocessing class
+2023-08-03/03:22:09		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-03/07:48:05		Start Of Training!!
+2023-08-03/07:48:05		Entered the get_data method of the Data Gtter class
+2023-08-03/07:48:06		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/07:48:06		Entered the remove column method of the preprocessing class
+2023-08-03/07:48:06		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-03/07:48:06		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/07:48:06		Entered the separate the label feature method inside the preprocessing class
+2023-08-03/07:48:06		Exiting the separate label features method
+2023-08-03/07:48:06		Entered the is_null_present method in preprocessing class
+2023-08-03/07:48:06		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-03/07:48:06		Entered the impute missing values method of the preprocessing class
+2023-08-03/07:48:07		Imputing the missing values succesfull exiting the impute values method
+2023-08-03/07:48:07		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-03/07:48:08		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-03/07:48:08		Entered the remove column method of the preprocessing class
+2023-08-03/07:48:08		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-03/08:09:11		Start Of Training!!
+2023-08-03/08:09:11		Entered the get_data method of the Data Gtter class
+2023-08-03/08:09:11		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/08:09:11		Entered the remove column method of the preprocessing class
+2023-08-03/08:09:11		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-03/08:09:11		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/08:09:11		Entered the separate the label feature method inside the preprocessing class
+2023-08-03/08:09:11		Exiting the separate label features method
+2023-08-03/08:09:11		Entered the is_null_present method in preprocessing class
+2023-08-03/08:09:11		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-03/08:09:11		Entered the impute missing values method of the preprocessing class
+2023-08-03/08:09:12		Imputing the missing values succesfull exiting the impute values method
+2023-08-03/08:09:12		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-03/08:09:13		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-03/08:09:13		Entered the remove column method of the preprocessing class
+2023-08-03/08:09:13		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-03/08:23:43		Start Of Training!!
+2023-08-03/08:23:43		Entered the get_data method of the Data Gtter class
+2023-08-03/08:23:43		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/08:23:43		Entered the remove column method of the preprocessing class
+2023-08-03/08:23:43		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-03/08:23:43		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/08:23:43		Entered the separate the label feature method inside the preprocessing class
+2023-08-03/08:23:43		Exiting the separate label features method
+2023-08-03/08:23:43		Entered the is_null_present method in preprocessing class
+2023-08-03/08:23:43		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-03/08:23:43		Entered the impute missing values method of the preprocessing class
+2023-08-03/08:23:44		Imputing the missing values succesfull exiting the impute values method
+2023-08-03/08:23:44		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-03/08:23:45		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-03/08:23:45		Entered the remove column method of the preprocessing class
+2023-08-03/08:23:45		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-03/12:44:24		Start Of Training!!
+2023-08-03/12:44:24		Entered the get_data method of the Data Gtter class
+2023-08-03/12:44:24		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/12:44:24		Entered the remove column method of the preprocessing class
+2023-08-03/12:44:24		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-03/12:44:24		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/12:44:24		Entered the separate the label feature method inside the preprocessing class
+2023-08-03/12:44:24		Exiting the separate label features method
+2023-08-03/12:44:24		Entered the is_null_present method in preprocessing class
+2023-08-03/12:44:24		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-03/12:44:24		Entered the impute missing values method of the preprocessing class
+2023-08-03/12:44:25		Imputing the missing values succesfull exiting the impute values method
+2023-08-03/12:44:25		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-03/12:44:27		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-03/12:44:27		Entered the remove column method of the preprocessing class
+2023-08-03/12:44:27		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-03/12:48:00		Start Of Training!!
+2023-08-03/12:48:00		Entered the get_data method of the Data Gtter class
+2023-08-03/12:48:00		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/12:48:00		Entered the remove column method of the preprocessing class
+2023-08-03/12:48:00		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-03/12:48:00		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/12:48:00		Entered the separate the label feature method inside the preprocessing class
+2023-08-03/12:48:00		Exiting the separate label features method
+2023-08-03/12:48:00		Entered the is_null_present method in preprocessing class
+2023-08-03/12:48:00		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-03/12:48:00		Entered the impute missing values method of the preprocessing class
+2023-08-03/12:48:01		Imputing the missing values succesfull exiting the impute values method
+2023-08-03/12:48:01		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-03/12:48:02		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-03/12:48:02		Entered the remove column method of the preprocessing class
+2023-08-03/12:48:02		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-03/14:31:06		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/14:31:57		Entered the get_data method of the Data Gtter class
+2023-08-03/14:31:58		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/14:33:31		Preprocessing of data started!! Removal of column started!!
+2023-08-03/14:36:38		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/14:37:08		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/14:37:27		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/14:38:17		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/14:39:12		Succesfully created a list of columns with zero stad deviation
+2023-08-03/14:39:58		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/14:40:03		Preprocessing of columns completed successfully!!
+2023-08-03/14:43:08		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/14:43:19		Entered the get_data method of the Data Gtter class
+2023-08-03/14:43:19		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/14:43:20		Preprocessing of data started!! Removal of column started!!
+2023-08-03/14:43:25		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/14:43:29		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/14:43:34		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/14:43:40		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/14:43:58		Succesfully created a list of columns with zero stad deviation
+2023-08-03/14:44:24		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/14:45:39		Preprocessing of columns completed successfully!!
+2023-08-03/14:50:12		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/14:50:12		Entered the get_data method of the Data Gtter class
+2023-08-03/14:50:12		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/14:50:12		Preprocessing of data started!! Removal of column started!!
+2023-08-03/14:50:12		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/14:50:12		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/14:50:12		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/14:50:13		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/14:50:14		Succesfully created a list of columns with zero stad deviation
+2023-08-03/14:50:14		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/14:50:14		Preprocessing of columns completed successfully!!
+2023-08-03/14:51:54		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/14:52:01		Entered the get_data method of the Data Gtter class
+2023-08-03/14:52:02		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/14:52:02		Preprocessing of data started!! Removal of column started!!
+2023-08-03/14:52:04		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/14:52:07		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/14:52:25		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/14:54:32		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/14:55:20		Succesfully created a list of columns with zero stad deviation
+2023-08-03/14:56:01		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/14:56:37		Preprocessing of columns completed successfully!!
+2023-08-03/15:07:19		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:07:19		Entered the get_data method of the Data Gtter class
+2023-08-03/15:07:20		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:07:20		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:07:20		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:07:20		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:07:20		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:07:21		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:07:26		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:07:26		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:07:26		Preprocessing of columns completed successfully!!
+2023-08-03/15:09:03		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:09:03		Entered the get_data method of the Data Gtter class
+2023-08-03/15:09:03		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:09:03		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:09:03		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:09:03		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:09:03		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:09:04		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:09:08		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:09:08		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:09:08		Preprocessing of columns completed successfully!!
+2023-08-03/15:10:08		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:10:08		Entered the get_data method of the Data Gtter class
+2023-08-03/15:10:08		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:10:08		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:10:08		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:10:08		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:10:08		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:10:09		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:10:12		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:10:12		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:10:12		Preprocessing of columns completed successfully!!
+2023-08-03/15:11:18		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:11:18		Entered the get_data method of the Data Gtter class
+2023-08-03/15:11:18		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:11:18		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:11:18		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:11:18		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:11:18		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:11:19		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:11:21		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:11:21		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:11:21		Preprocessing of columns completed successfully!!
+2023-08-03/15:11:27		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/15:13:40		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:13:40		Entered the get_data method of the Data Gtter class
+2023-08-03/15:13:40		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:13:40		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:13:40		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:13:40		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:13:40		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:13:41		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:13:43		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:13:43		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:13:43		Preprocessing of columns completed successfully!!
+2023-08-03/15:13:49		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/15:14:56		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:14:56		Entered the get_data method of the Data Gtter class
+2023-08-03/15:14:56		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:14:56		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:14:56		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:14:56		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:14:56		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:14:57		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:14:59		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:14:59		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:14:59		Preprocessing of columns completed successfully!!
+2023-08-03/15:15:05		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/15:17:21		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:17:21		Entered the get_data method of the Data Gtter class
+2023-08-03/15:17:21		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:17:21		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:17:21		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:17:21		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:17:21		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:17:22		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:17:25		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:17:25		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:17:25		Preprocessing of columns completed successfully!!
+2023-08-03/15:19:08		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/15:21:37		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:21:37		Entered the get_data method of the Data Gtter class
+2023-08-03/15:21:38		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:21:38		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:21:38		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:21:38		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:21:38		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:21:38		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:21:40		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:21:40		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:21:40		Preprocessing of columns completed successfully!!
+2023-08-03/15:21:46		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/15:22:20		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/15:22:20		Entered the get_data method of the Data Gtter class
+2023-08-03/15:22:20		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/15:22:20		Preprocessing of data started!! Removal of column started!!
+2023-08-03/15:22:20		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/15:22:20		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/15:22:20		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/15:22:21		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/15:22:23		Succesfully created a list of columns with zero stad deviation
+2023-08-03/15:22:23		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/15:22:23		Preprocessing of columns completed successfully!!
+2023-08-03/15:22:29		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/16:00:39		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/16:00:39		Entered the get_data method of the Data Gtter class
+2023-08-03/16:00:39		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/16:00:39		Preprocessing of data started!! Removal of column started!!
+2023-08-03/16:00:39		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/16:00:39		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/16:00:39		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/16:00:40		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/16:00:44		Succesfully created a list of columns with zero stad deviation
+2023-08-03/16:00:44		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/16:00:44		Preprocessing of columns completed successfully!!
+2023-08-03/16:00:51		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/16:01:45		Created Clusters Successfully!!
+2023-08-03/16:13:15		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/16:13:15		Entered the get_data method of the Data Gtter class
+2023-08-03/16:13:15		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/16:13:15		Preprocessing of data started!! Removal of column started!!
+2023-08-03/16:13:15		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/16:13:15		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/16:13:15		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/16:13:16		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/16:13:18		Succesfully created a list of columns with zero stad deviation
+2023-08-03/16:13:18		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/16:13:18		Preprocessing of columns completed successfully!!
+2023-08-03/16:13:23		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/16:13:24		Created Clusters Successfully!!
+2023-08-03/17:59:04		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/17:59:04		Entered the get_data method of the Data Gtter class
+2023-08-03/17:59:05		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/17:59:05		Preprocessing of data started!! Removal of column started!!
+2023-08-03/17:59:05		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/17:59:05		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/17:59:05		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/17:59:06		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/17:59:08		Succesfully created a list of columns with zero stad deviation
+2023-08-03/17:59:08		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/17:59:08		Preprocessing of columns completed successfully!!
+2023-08-03/17:59:17		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/17:59:17		Created Clusters Successfully!!
+2023-08-03/18:03:22		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/18:03:22		Entered the get_data method of the Data Gtter class
+2023-08-03/18:03:22		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/18:03:22		Preprocessing of data started!! Removal of column started!!
+2023-08-03/18:03:22		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/18:03:22		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/18:03:22		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/18:03:23		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/18:03:25		Succesfully created a list of columns with zero stad deviation
+2023-08-03/18:03:25		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/18:03:25		Preprocessing of columns completed successfully!!
+2023-08-03/18:03:32		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/18:03:32		Created Clusters Successfully!!
+2023-08-03/18:31:34		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/18:31:34		Entered the get_data method of the Data Gtter class
+2023-08-03/18:31:34		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/18:31:34		Preprocessing of data started!! Removal of column started!!
+2023-08-03/18:31:34		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/18:31:34		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/18:31:35		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/18:31:35		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/18:31:37		Succesfully created a list of columns with zero stad deviation
+2023-08-03/18:31:37		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/18:31:37		Preprocessing of columns completed successfully!!
+2023-08-03/18:31:45		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/18:31:45		Created Clusters Successfully!!
+2023-08-03/18:32:26		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/18:32:26		Entered the get_data method of the Data Gtter class
+2023-08-03/18:32:26		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/18:32:26		Preprocessing of data started!! Removal of column started!!
+2023-08-03/18:32:26		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/18:32:26		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/18:32:26		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/18:32:27		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/18:32:31		Succesfully created a list of columns with zero stad deviation
+2023-08-03/18:32:31		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/18:32:31		Preprocessing of columns completed successfully!!
+2023-08-03/18:32:38		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/18:32:38		Created Clusters Successfully!!
+2023-08-03/18:51:30		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/18:51:30		Entered the get_data method of the Data Gtter class
+2023-08-03/18:51:30		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/18:51:30		Preprocessing of data started!! Removal of column started!!
+2023-08-03/18:51:30		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/18:51:30		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/18:51:30		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/18:51:31		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/18:51:35		Succesfully created a list of columns with zero stad deviation
+2023-08-03/18:51:35		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/18:51:35		Preprocessing of columns completed successfully!!
+2023-08-03/18:51:41		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/18:51:42		Created Clusters Successfully!!
+2023-08-03/20:21:16		Model saved Successfully!!RANDOMFOREST0
+2023-08-03/20:30:09		Model saved Successfully!!RANDOMFOREST3
+2023-08-03/20:39:59		Model saved Successfully!!RANDOMFOREST2
+2023-08-03/20:48:34		Model saved Successfully!!RANDOMFOREST1
+2023-08-03/20:07:21		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-03/20:07:21		Entered the get_data method of the Data Gtter class
+2023-08-03/20:07:22		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-03/20:07:22		Preprocessing of data started!! Removal of column started!!
+2023-08-03/20:07:22		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-03/20:07:22		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-03/20:07:22		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-03/20:07:23		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-03/20:07:26		Succesfully created a list of columns with zero stad deviation
+2023-08-03/20:07:26		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-03/20:07:26		Preprocessing of columns completed successfully!!
+2023-08-03/20:07:35		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-03/20:07:36		Created Clusters Successfully!!
+2023-08-04/00:39:29		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/00:56:48		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/00:58:32		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/01:00:04		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/01:06:00		Entered the save model method inside the file_operation class
+2023-08-04/01:06:00		Model FileKMeanssaved.Exited the saved_model method of the file operation class
+2023-08-04/01:06:00		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/01:06:00		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/01:11:02		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/01:11:03		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/01:05:51		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/01:05:51		Entered the get_data method of the Data Gtter class
+2023-08-04/01:05:51		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-04/01:05:51		Preprocessing of data started!! Removal of column started!!
+2023-08-04/01:05:51		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-04/01:05:51		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-04/01:05:51		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-04/01:05:52		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-04/01:05:53		Succesfully created a list of columns with zero stad deviation
+2023-08-04/01:05:53		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-04/01:05:53		Preprocessing of columns completed successfully!!
+2023-08-04/01:06:00		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-04/01:06:00		Created Clusters Successfully!!
+2023-08-04/09:58:01		Entered the save model method inside the file_operation class
+2023-08-04/09:58:01		Model FileKMeanssaved.Exited the saved_model method of the file operation class
+2023-08-04/09:58:01		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/09:58:01		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/10:02:12		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/10:02:13		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/10:11:38		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/10:11:39		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/10:11:39		Entered the save model method inside the file_operation class
+2023-08-04/10:11:39		Model FileRANDOMFOREST0saved.Exited the saved_model method of the file operation class
+2023-08-04/10:11:39		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/10:11:39		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/10:12:58		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/10:12:58		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/10:21:09		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/10:21:09		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/10:11:39		Model saved Successfully!!RANDOMFOREST0
+2023-08-04/10:21:09		Entered the save model method inside the file_operation class
+2023-08-04/10:21:09		Model FileRANDOMFOREST3saved.Exited the saved_model method of the file operation class
+2023-08-04/10:21:09		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/10:21:09		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/10:23:28		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/10:23:29		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/10:30:51		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/10:30:51		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/10:21:09		Model saved Successfully!!RANDOMFOREST3
+2023-08-04/10:30:51		Entered the save model method inside the file_operation class
+2023-08-04/10:30:52		Model FileRANDOMFOREST2saved.Exited the saved_model method of the file operation class
+2023-08-04/10:30:52		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/10:30:52		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/10:32:05		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/10:32:05		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/10:39:18		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/10:39:18		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/10:30:52		Model saved Successfully!!RANDOMFOREST2
+2023-08-04/10:39:18		Entered the save model method inside the file_operation class
+2023-08-04/10:39:18		Model FileRANDOMFOREST1saved.Exited the saved_model method of the file operation class
+2023-08-04/10:39:18		Model saved Successfully!!RANDOMFOREST1
+2023-08-04/09:57:53		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/09:57:53		Entered the get_data method of the Data Gtter class
+2023-08-04/09:57:54		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-04/09:57:54		Preprocessing of data started!! Removal of column started!!
+2023-08-04/09:57:54		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-04/09:57:54		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-04/09:57:54		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-04/09:57:54		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-04/09:57:55		Succesfully created a list of columns with zero stad deviation
+2023-08-04/09:57:55		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-04/09:57:55		Preprocessing of columns completed successfully!!
+2023-08-04/09:58:00		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-04/09:58:01		Created Clusters Successfully!!
+2023-08-04/11:59:05		Entered the load_model method of the file_operation class
+2023-08-04/11:59:05		 Exception occurred model loading unsuccessfull.Exception meassage ::[Errno 2] No such file or directory: 'modelsKMeans/KMeans.sav'
+2023-08-04/11:59:05		Model loading failed.Exiting the load_model method from file_operation class
+2023-08-04/12:03:18		 Exception occurred model loading unsuccessfull.Exception meassage ::[Errno 2] No such file or directory: 'modelsKMeans/KMeans.sav'
+2023-08-04/12:03:19		Model loading failed.Exiting the load_model method from file_operation class
+2023-08-04/14:40:49		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/14:46:50		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/14:47:03		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/14:51:45		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/14:51:47		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/14:53:27		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/14:53:27		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/14:57:42		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/14:57:43		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/15:04:25		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/15:04:25		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/15:04:25		The ROC_AUC_SCORE score for the xg_boost model is {xgboost} and ROC_AUC_SCORE score for random forest is {randomforest}
+2023-08-04/15:04:25		Exception occurred in getting get_best_model method ::'NoneType' object has no attribute 'format'
+2023-08-04/14:53:20		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/14:53:20		Old models succesfully move to archive folder
+2023-08-04/14:53:20		Entered the get_data method of the Data Gtter class
+2023-08-04/14:53:20		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-04/14:53:20		Preprocessing of data started!! Removal of column started!!
+2023-08-04/14:53:20		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-04/14:53:20		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-04/14:53:20		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-04/14:53:20		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-04/14:53:22		Succesfully created a list of columns with zero stad deviation
+2023-08-04/14:53:22		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-04/14:53:22		Preprocessing of columns completed successfully!!
+2023-08-04/14:53:27		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-04/14:53:27		Created Clusters Successfully!!
+2023-08-04/15:17:42		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/15:17:42		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/15:21:56		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/15:21:57		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/15:29:02		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/15:29:02		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/15:29:02		The ROC_AUC_SCORE score for the xg_boost model is0.5and ROC_AUC_SCORE for random forest is0.5
+2023-08-04/15:29:02		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is0.5
+2023-08-04/15:29:02		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/15:29:02		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/15:29:59		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/15:29:59		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/15:35:05		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/15:35:05		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/15:35:05		The ROC_AUC_SCORE score for the xg_boost model is0.5and ROC_AUC_SCORE for random forest is0.5
+2023-08-04/15:35:05		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is0.5
+2023-08-04/15:29:02		Model saved Successfully!!RANDOMFOREST0
+2023-08-04/15:35:05		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/15:35:05		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/15:36:25		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/15:36:25		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/15:41:34		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/15:41:35		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/15:41:35		The ROC_AUC_SCORE score for the xg_boost model is0.5and ROC_AUC_SCORE for random forest is0.5
+2023-08-04/15:41:35		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is0.5
+2023-08-04/15:35:05		Model saved Successfully!!RANDOMFOREST3
+2023-08-04/15:41:35		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/15:41:35		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/15:42:34		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/15:42:34		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/15:47:36		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/15:47:36		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/15:47:36		The accuracy score for the xg_boost model is1.0and accuracy score for random forest is1.0
+2023-08-04/15:47:36		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is1.0
+2023-08-04/15:41:35		Model saved Successfully!!RANDOMFOREST2
+2023-08-04/15:47:37		Model saved Successfully!!RANDOMFOREST1
+2023-08-04/15:17:33		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/15:17:33		Old models succesfully move to archive folder
+2023-08-04/15:17:33		Entered the get_data method of the Data Gtter class
+2023-08-04/15:17:33		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-04/15:17:33		Preprocessing of data started!! Removal of column started!!
+2023-08-04/15:17:33		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-04/15:17:33		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-04/15:17:33		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-04/15:17:34		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-04/15:17:36		Succesfully created a list of columns with zero stad deviation
+2023-08-04/15:17:36		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-04/15:17:36		Preprocessing of columns completed successfully!!
+2023-08-04/15:17:42		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-04/15:17:42		Created Clusters Successfully!!
+2023-08-04/17:21:55		Start Of Training!!
+2023-08-04/17:21:55		Entered the get_data method of the Data Gtter class
+2023-08-04/17:21:56		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-04/17:21:56		Entered the remove column method of the preprocessing class
+2023-08-04/17:21:56		Column Removal Successfull it's names are:: ['Unnamed: 0', 'Wafer']
+2023-08-04/17:21:56		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-04/17:21:56		Entered the separate the label feature method inside the preprocessing class
+2023-08-04/17:21:56		Exiting the separate label features method
+2023-08-04/17:21:56		Entered the is_null_present method in preprocessing class
+2023-08-04/17:21:56		Finding Null values is a success.Data written to null values file.Exiting the is_nul_present method
+2023-08-04/17:21:56		Entered the impute missing values method of the preprocessing class
+2023-08-04/17:21:57		Imputing the missing values succesfull exiting the impute values method
+2023-08-04/17:21:57		Entered inside the method get columns with zero standard deviation in preprocessing class
+2023-08-04/17:21:59		Column Search for standard with zero is successsfull.Exiting from this method inside the preprocessing class
+2023-08-04/17:21:59		Entered the remove column method of the preprocessing class
+2023-08-04/17:21:59		Column Removal Successfull it's names are:: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2023-08-04/18:15:01		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/18:15:01		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/18:19:34		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/18:19:35		The ROC_AUC_SCORE score for the xg_boost model is0.5
+2023-08-04/18:19:35		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/18:28:09		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/18:28:10		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/18:28:10		The ROC auc score is for the Random Forest model is0.5
+2023-08-04/18:28:10		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is0.5
+2023-08-04/18:28:10		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/18:28:10		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/18:29:12		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/18:29:12		The ROC_AUC_SCORE score for the xg_boost model is0.5
+2023-08-04/18:29:12		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/18:34:47		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/18:34:47		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/18:34:47		The ROC auc score is for the Random Forest model is0.5
+2023-08-04/18:34:47		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is0.5
+2023-08-04/18:28:10		Model saved Successfully!!RANDOMFOREST0
+2023-08-04/18:34:47		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/18:34:47		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/18:36:08		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/18:36:08		The ROC_AUC_SCORE score for the xg_boost model is0.5
+2023-08-04/18:36:08		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/18:41:17		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/18:41:17		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/18:41:17		The ROC auc score is for the Random Forest model is0.5
+2023-08-04/18:41:17		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is0.5
+2023-08-04/18:34:47		Model saved Successfully!!RANDOMFOREST3
+2023-08-04/18:41:18		Enterd inside the get_best_model method inside model_finder class!!
+2023-08-04/18:41:18		Enterd inside the get_best_params_for_xgboost method inside model_finder
+2023-08-04/18:42:15		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 1000], 'max_depth': [2, 5, 10, 20, 30], 'learning_rate': [0.1, 0.01, 0.2, 0.02]}
+2023-08-04/18:42:15		The accuracy score for the xg_boost model is1.0
+2023-08-04/18:42:15		Enterd inside the get_best_params_for_random_forest method inside model_finder class
+2023-08-04/18:48:14		Defined the grid search cv hyperparamaters for XGboost::{'n_estimators': [100, 200, 400, 500], 'max_depth': [2, 5, 10, 20], 'criterion': ['gini', 'entropy'], 'min_samples_split': [2, 4, 6], 'max_features': ['sqrt', 'log2'], 'ccp_alpha': [0.01, 0.02]}
+2023-08-04/18:48:14		Trained the random forest model with defined Hyperparameters successfully!!
+2023-08-04/18:48:14		The accuracy score for the Random Forest model is1.0
+2023-08-04/18:48:14		The best model from the hyperparameter tuning and modelling chosen is  Random Forest and the score is1.0
+2023-08-04/18:41:18		Model saved Successfully!!RANDOMFOREST2
+2023-08-04/18:48:14		Model saved Successfully!!RANDOMFOREST1
+2023-08-04/18:14:50		Entered the model_training method of the train_model class!! Mpdel training started!!
+2023-08-04/18:14:50		Old models succesfully move to archive folder
+2023-08-04/18:14:50		Entered the get_data method of the Data Gtter class
+2023-08-04/18:14:50		Data Load Successfull.Exited the get_data method of the Data Getter class
+2023-08-04/18:14:50		Preprocessing of data started!! Removal of column started!!
+2023-08-04/18:14:50		Removal of columns done successfully.Exited the remove column methods from preprocessor class
+2023-08-04/18:14:51		Separation of clolumns done successfully.Exited the separting the columns methods from preprocessor class
+2023-08-04/18:14:51		Checking of null values inide colum done successfully.Null  columns methods from preprocessor class
+2023-08-04/18:14:51		Imputation of null values done sucecessfully inide colum done successfully. is_null_present inside columns methods from preprocessor class
+2023-08-04/18:14:53		Succesfully created a list of columns with zero stad deviation
+2023-08-04/18:14:53		Column with zero std deviation dropped sucecessfully inside removal columns method, from preprocessor class
+2023-08-04/18:14:53		Preprocessing of columns completed successfully!!
+2023-08-04/18:15:00		Plotted the elbow plot done Successfully!!.Found No. of clusters to be created succesfully
+2023-08-04/18:15:01		Created Clusters Successfully!!

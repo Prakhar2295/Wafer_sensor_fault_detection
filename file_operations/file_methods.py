@@ -16,8 +16,8 @@ class File_operation:
     
     
     """
-    def __init__(self,file_object,logger_object):
-        self.file_object = file_object
+    def __init__(self,file_path,logger_object):
+        self.file_path = file_path
         self.logger_object = logger_object
         self.model_directory = "models"
 
@@ -37,24 +37,28 @@ class File_operation:
 
         
         """
-       #self.logger_object.log(self.file_object,"Entered the save model method inside the file_operation class")
-       now = datetime.now()
-       date = now.date()
-       time = now.strftime("%H%M%S")
+       self.file_path = "Training_Logs/ModelTrainingLog.txt"
+       self.file_object = open(self.file_path,'a+')
+       self.logger_object.log(self.file_object,"Entered the save model method inside the file_operation class")
+       self.file_object.close()
+
        try:
-           path = self.model_directory + "/" + filename + "_" + str(date) + "_" + str(time)
-           if not os.path.isdir(path):  # remove previously existing models for each clusters
+           path = self.model_directory + "/" + filename
+           if not os.path.isdir(path):
                os.makedirs(path)
            else:
                pass
            with open(path +'/' + filename + '.sav','wb') as f:
                    pickle.dump(model,f)
-          # self.logger_object.log(self.file_object,'Model File' +filename +'saved.Exited the saved_model method of the file operation class')
-
+           self.file_object = open(self.file_path, 'a+')
+           self.logger_object.log(self.file_object,'Model File' +filename +'saved.Exited the saved_model method of the file operation class')
+           self.file_object.close()
            return "success"
        except Exception as e:
-           #self.logger_object.log(self.file_object,"Exiting the saved_model method of the file operation class")
-           #self.logger_object.log(self.file_object,"Exception occurred while saving the model.Exception message:: %s"%e)
+           self.file_object = open(self.file_path, 'a+')
+           self.logger_object.log(self.file_object,"Exiting the saved_model method of the file operation class")
+           self.logger_object.log(self.file_object,"Exception occurred while saving the model.Exception message:: %s"%e)
+           self.file_object.close()
            raise Exception()
        
     def load_model(self,filename):
@@ -70,16 +74,20 @@ class File_operation:
              Revisions: None
 
         """
-        #self.logger_object.log(self.file_object, 'Entered the load_model method of the file_operation class')
+        self.file_object = open(self.file_path, 'a+')
+        self.logger_object.log(self.file_object, 'Entered the load_model method of the file_operation class')
+
         try:
-            with open(self.model_directory + filename + '/' + filename + '.sav','rb') as f:
+            with open(self.model_directory +"/" + filename + '/' + filename + '.sav','rb') as f:
 
-                #self.logger_object.log(self.file_object,'Model File' + filename+ 'loaded.Exited The load_model method of the file_oipration class')
+                self.logger_object.log(self.file_object,'Model File' + filename+ 'loaded.Exited The load_model method of the file_oipration class')
+                self.file_object.close()
                 return pickle.load(f)
-
         except Exception as e:
+            self.file_object = open(self.file_path, 'a+')
             self.logger_object.log(self.file_object," Exception occurred model loading unsuccessfull.Exception meassage ::%s" %e)
             self.logger_object.log(self.file_object,"Model loading failed.Exiting the load_model method from file_operation class")
+            self.file_object.close()
             raise Exception() 
         
     def find_correct_model_file(self,cluster_number):
@@ -87,6 +95,7 @@ class File_operation:
         """
              Method Name: find_correct_model_file
              Description: Selects the correct model file for the given cluster number.
+
              Output: The model file.
              On failure: Raises an Exception
 
@@ -106,7 +115,7 @@ class File_operation:
             self.list_of_files = os.listdir(self.folder_name)
             for self.file in self.list_of_files:
                 try:
-                    if (self.file.index(str(self.cluster_number)) != -1):
+                    if self.file[-1] == str(self.cluster_number):
                         self.model_name = self.file
                 except:
                     continue
@@ -120,6 +129,43 @@ class File_operation:
             #self.logger_object.log(self.file_object,"Exception occurred.Exception message :: %s" %e)
 
             raise Exception()
+    def move_old_models_to_archive(self):
+        """
+              Method Name: move_old_models_to_archive
+              Desciprtion: This method will be used to move the previously trained models to
+              to archive directory.
+
+              Output: None
+              On failure: Raises an Exception
+
+              Written By: JSL
+              Version: 1.0
+              Revisions: None
+
+        """
+        now = datetime.now()
+        date = now.date()
+        time = now.strftime("%H%M%S")
+        path = "Archived_Models"
+        try:
+            if not os.path.isdir(path):
+                os.makedirs(path)
+                print("The archive folder has been created")
+            print("The archive folder already exists")
+            src_path = path + "/" + "models_" + str(date) + "_" +str(time)
+            if os.path.exists(self.model_directory):
+                if not os.path.isdir(src_path):
+                    os.makedirs(src_path)
+                    for file in os.listdir(self.model_directory):
+                        shutil.move(self.model_directory + '/' + file, src_path)
+            print("All the previous files moved to archive")
+        except Exception as e:
+            raise e
+
+
+
+
+
                      
 
 

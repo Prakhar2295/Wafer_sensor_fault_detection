@@ -1,10 +1,11 @@
 ##Doing the necessary imports
+import mlflow
 
 from data_ingestion.data_loader import Data_Getter
 from data_preprocessing.data_preprocessing import Preprocessing
 from data_preprocessing.clustering2 import clustering
 from application_logging.logger import App_Logger
-from best_model_finder.tuner2 import model_finder
+from best_model_finder.tuner3 import model_finder
 from sklearn.model_selection import train_test_split
 from file_operations.file_methods import File_operation
 
@@ -24,6 +25,7 @@ class train_model:
 	def __init__(self):
 		self.file_path = "Training_Logs/ModelTrainingLog.txt"
 		self.logger_object = App_Logger()
+		self.model = model_finder()
 
 
 	def model_training(self):
@@ -32,7 +34,7 @@ class train_model:
 			self.logger_object.log(self.file_object,"Entered the model_training method of the train_model class!! Mpdel training started!!")
 			self.file_op = File_operation(self.file_object, self.logger_object)
 			self.file_op.move_old_models_to_archive()
-			print("Moved old models to archive")
+			self.logger_object.log(self.file_object,"Old models succesfully move to archive folder")
 			self.data_op = Data_Getter(self.file_object,self.logger_object)
 			self.data = self.data_op.get_data()
 			self.logger_object.log(self.file_object,"Preprocessing of data started!! Removal of column started!!")
@@ -66,28 +68,49 @@ class train_model:
 
 			self.logger_object.log(self.file_object,"Created Clusters Successfully!!")
 
-			model = model_finder()
+			#self.model = model_finder()
+			#parent_run = self.model.parent_run
 			####Adding the new column to the cluster data dataframe of labels
 			cluster_data["labels"] = Y
+			uri = "http://127.0.0.1:5000"
+			mlflow.set_tracking_uri(uri=uri)
 
 			list_of_cluster = cluster_data["clusters"].unique()
+			self.file_object.close()
 
 			for i in list_of_cluster:
+
 					cluster_data1 = cluster_data[cluster_data["clusters"] == i]
 
 					cluster_features = cluster_data1.drop(labels=["labels","clusters"],axis = 1)
 					cluster_labels = cluster_data1["labels"]
 					x_train,x_test,y_train,y_test = train_test_split(cluster_features,cluster_labels,test_size=0.33,random_state=90)
-					best_model_name,best_model = model.get_best_model(x_train,y_train, x_test, y_test)
-					self.file_object = open(self.file_path,'a+')
-					self.file_op = File_operation(self.file_object,self.logger_object)
-					save_model = self.file_op.save_model(best_model,best_model_name + str(i))
+					best_model_name,best_model = self.model.get_best_model(x_train,y_train, x_test, y_test)
+					xg_exp_id = self.model.exp_id
+					rf_exp_id  = self.model.exp_id1
+					xg_run_id = self.model.run_id_XG
+					rf_run_id = self.model.run_id_RF
+					if best_model_name == "XGBOOST":
+						with mlflow.start_run(run_id = xg_run_id,experiment_id= xg_exp_id):
+							mlflow.sklearn.log_model(best_model, best_model_name + str(i))
+							mlflow.end_run()
+					else:
+						with mlflow.start_run(run_id = rf_run_id,experiment_id= rf_exp_id):
+							mlflow.sklearn.log_model(best_model, best_model_name + str(i))
+							mlflow.end_run()
 
-					self.logger_object.log(self.file_object,"Model saved Successfully!!"+str(best_model_name)+str(i))
+					self.file_object = open(self.file_path, 'a+')
+					self.file_op = File_operation(self.file_object, self.logger_object)
 
-			self.file_object.close()
+					save_model = self.file_op.save_model(best_model, best_model_name + str(i))
+
+					self.file_object = open(self.file_path, 'a+')
+					self.logger_object.log(self.file_object, "Model saved Successfully!!" + str(best_model_name) + str(i))
+					self.file_object.close()
+
 		except Exception as e:
 			raise e
+
 
 
 p = train_model()
